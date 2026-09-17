@@ -1,0 +1,3291 @@
+temp_c,humidity,wind_kmh,rain_prob,days_since_spray,stage_encoded,min_interval,growth_stage,label
+14.4,30.6,26,20.7,18,3,14,Pink Bud,DELAY
+3.1,31.1,15.7,43.1,15,2,14,Tight Cluster,DELAY
+27.2,52.3,19.2,33.3,17,6,14,Fruitlet,DELAY
+7.7,52.5,16.4,31.5,19,0,21,Delayed Dormancy,DELAY
+17.2,43.8,2.9,1,18,3,14,Pink Bud,SPRAY
+15.6,60.9,25.3,43.6,17,3,14,Pink Bud,DELAY
+27.4,28,15.6,33.7,11,11,14,Fruit Development-IV,DELAY
+15.7,54.5,25.3,29.9,13,7,14,Fruit Set,DELAY
+27.3,69.4,13.1,44,15,6,14,Fruitlet,DELAY
+-3.1,61.1,11.8,21.7,15,7,14,Fruit Set,SKIP
+16.4,29.3,26.6,42,16,1,14,Green Tip,DELAY
+39.8,28.6,2,20.9,18,10,14,Fruit Development-III,SKIP
+17.4,62.9,17.8,54.9,12,8,14,Fruit Development-I,DELAY
+27.2,36.1,1.8,15,20,15,21,Dormancy,SPRAY
+-1.3,60.8,1.6,24.8,20,12,14,Pre-Harvest,SKIP
+14.2,44.1,14.5,25.1,16,8,14,Fruit Development-I,DELAY
+29.4,58,13.7,43.8,17,8,14,Fruit Development-I,DELAY
+20.9,86.1,7.4,52,16,6,14,Fruitlet,DELAY
+28.3,58.3,28.1,1.6,20,15,21,Dormancy,DELAY
+31.4,88.6,20.5,28.8,16,2,14,Tight Cluster,DELAY
+7.9,59.3,21.7,53.9,20,15,21,Dormancy,DELAY
+16.4,68.7,18,52,14,6,14,Fruitlet,DELAY
+16.8,53.5,2.5,4.8,15,3,14,Pink Bud,SPRAY
+27.2,32.8,2.6,14.7,16,1,14,Green Tip,SPRAY
+33.8,62.5,15.9,39.2,10,4,10,Flowering,DELAY
+-2.5,60.4,13.8,2.8,17,6,14,Fruitlet,SKIP
+5.9,37.5,20.6,29.2,12,10,14,Fruit Development-III,DELAY
+33.5,29.9,24.9,50.7,11,8,14,Fruit Development-I,DELAY
+21.5,26,13.5,47.6,12,1,14,Green Tip,DELAY
+19.3,81.2,26.4,29.9,11,5,14,Petal Fall,DELAY
+39.4,29.3,4.2,27.1,18,12,14,Pre-Harvest,SKIP
+4.1,63,20,50.6,12,1,14,Green Tip,DELAY
+4.9,37.1,21.5,45.3,12,1,14,Green Tip,DELAY
+14.4,53.8,8.7,11.7,9,12,14,Pre-Harvest,SPRAY
+9.4,71.6,15.8,36.9,16,10,14,Fruit Development-III,DELAY
+35.4,85.8,12.1,43.6,15,9,14,Fruit Development-II,DELAY
+20.1,60.3,4.9,55.3,15,3,14,Pink Bud,DELAY
+0.8,60.1,7.8,26.1,14,11,14,Fruit Development-IV,SKIP
+24.8,36.2,3.1,4.6,16,4,10,Flowering,SPRAY
+32.7,57.9,16,52.2,11,6,14,Fruitlet,DELAY
+31.9,27.9,17.3,28.9,13,2,14,Tight Cluster,DELAY
+21.9,52.8,12.2,27.3,16,5,14,Petal Fall,DELAY
+32,62.9,14.4,28.8,9,4,10,Flowering,DELAY
+30.7,80.9,26.4,31.3,12,11,14,Fruit Development-IV,DELAY
+28.5,46.3,8.7,4.3,3,3,14,Pink Bud,SKIP
+31.2,82.3,12.4,47.1,13,5,14,Petal Fall,DELAY
+33.1,77.7,16.3,48.6,0,13,0,Harvest,DELAY
+32.9,39.5,25.1,38.8,13,12,14,Pre-Harvest,DELAY
+17.8,66.1,1,89.1,16,7,14,Fruit Set,DELAY
+32.4,46.5,12.4,51.3,13,12,14,Pre-Harvest,DELAY
+37.4,27.5,21.5,35.4,17,5,14,Petal Fall,DELAY
+37.4,32.5,26.4,30.7,11,10,14,Fruit Development-III,DELAY
+24.1,67.6,10.3,5.5,1,13,0,Harvest,SPRAY
+35.1,65.5,22.6,28.7,13,2,14,Tight Cluster,DELAY
+13.7,70.3,20.9,30.8,16,9,14,Fruit Development-II,DELAY
+34.5,65,16.8,41.4,11,12,14,Pre-Harvest,DELAY
+39.2,47.9,6.2,6,17,9,14,Fruit Development-II,SKIP
+12.2,68.2,21.9,27.8,17,5,14,Petal Fall,DELAY
+10.1,37.9,12.4,32.3,14,7,14,Fruit Set,DELAY
+33.9,62.4,23.5,36.5,14,2,14,Tight Cluster,DELAY
+27.9,64.4,9.7,17.1,16,7,14,Fruit Set,SPRAY
+27.1,55.2,20.9,52.5,11,5,14,Petal Fall,DELAY
+40,77,12.5,17.2,20,14,21,Post-Harvest,SKIP
+28.8,55.9,16.1,32.4,20,14,21,Post-Harvest,DELAY
+20.8,65.7,16.4,27.3,13,8,14,Fruit Development-I,DELAY
+28.6,28.2,26.5,10.7,15,7,14,Fruit Set,DELAY
+-2.7,32.4,5.9,25.3,18,6,14,Fruitlet,SKIP
+29.6,49.7,12.1,35.6,19,0,21,Delayed Dormancy,DELAY
+28.4,77,26.4,39.6,2,13,0,Harvest,DELAY
+16,68.5,24.8,46.7,3,13,0,Harvest,DELAY
+21.2,84,21.5,44.9,7,4,10,Flowering,DELAY
+38.5,32.7,4.6,21.3,12,13,0,Harvest,SPRAY
+31.9,41.4,13.3,25.6,15,8,14,Fruit Development-I,DELAY
+14.6,67.3,24.5,44.6,17,1,14,Green Tip,DELAY
+9.2,26.3,14.4,28.8,20,0,21,Delayed Dormancy,DELAY
+9.8,70.5,24.3,30,15,3,14,Pink Bud,DELAY
+7.9,45.2,21.3,52.9,15,3,14,Pink Bud,DELAY
+10.7,82.6,8.8,56.9,20,12,14,Pre-Harvest,DELAY
+23.6,32.9,27.7,48.5,13,9,14,Fruit Development-II,DELAY
+4.5,67.1,12.2,37.6,3,13,0,Harvest,DELAY
+15,83,19.4,29.6,12,3,14,Pink Bud,DELAY
+35.1,75.4,19.4,49.8,15,8,14,Fruit Development-I,DELAY
+27.3,58.5,12.3,63.7,17,8,14,Fruit Development-I,DELAY
+1,41.3,3.6,7.8,18,12,14,Pre-Harvest,SKIP
+20.6,37.4,15.9,37.2,15,8,14,Fruit Development-I,DELAY
+25.3,56.9,24.7,27.8,12,7,14,Fruit Set,DELAY
+13,62.8,19.6,40.9,14,12,14,Pre-Harvest,DELAY
+-3.1,63.3,4.4,20.8,20,10,14,Fruit Development-III,SKIP
+39.2,78.8,11.7,8.3,16,5,14,Petal Fall,SKIP
+11.8,31.8,0.8,8.2,2,5,14,Petal Fall,SKIP
+21.5,48.8,4.8,4.1,20,15,21,Dormancy,SPRAY
+19.2,78.4,18.4,27.2,16,8,14,Fruit Development-I,DELAY
+29.9,33.4,3.5,15.6,6,1,14,Green Tip,SPRAY
+15.7,84.1,16.8,42.7,14,7,14,Fruit Set,DELAY
+4.2,87.4,13.6,47.9,16,9,14,Fruit Development-II,DELAY
+13.1,37,0.8,0.1,18,6,14,Fruitlet,SPRAY
+15.3,66.3,12,55.4,20,15,21,Dormancy,DELAY
+24.5,68,26.9,37.8,15,8,14,Fruit Development-I,DELAY
+34.7,78.7,13.1,30,13,7,14,Fruit Set,DELAY
+18.9,44.8,18.4,33.2,15,9,14,Fruit Development-II,DELAY
+23.5,82.8,23.8,43.1,18,15,21,Dormancy,DELAY
+21.9,30.8,10.7,23,9,2,14,Tight Cluster,SPRAY
+8.3,58.7,19.1,33.3,15,1,14,Green Tip,DELAY
+19.7,30.9,17.6,35,0,13,0,Harvest,DELAY
+-3,47.3,4.4,9.1,20,5,14,Petal Fall,SKIP
+31.7,25.1,25.9,38.9,11,12,14,Pre-Harvest,DELAY
+24.4,57.4,19.1,26.5,13,6,14,Fruitlet,DELAY
+17.8,70.4,13.9,54.2,11,4,10,Flowering,DELAY
+13.2,25.9,18.5,31.7,17,7,14,Fruit Set,DELAY
+6.2,79.1,20,46.5,15,3,14,Pink Bud,DELAY
+19.4,55.7,19.3,29.3,12,8,14,Fruit Development-I,DELAY
+11.9,76.4,18.6,53,11,4,10,Flowering,DELAY
+12.2,44.4,21.4,55,14,8,14,Fruit Development-I,DELAY
+19.4,46.6,24.2,36.3,9,4,10,Flowering,DELAY
+10.6,49.9,25.7,37.3,13,6,14,Fruitlet,DELAY
+31.2,50.1,22.6,49.6,18,15,21,Dormancy,DELAY
+6.5,87.7,17.3,28,19,15,21,Dormancy,DELAY
+18.4,72,18.6,44.6,12,3,14,Pink Bud,DELAY
+36.9,47,23.1,44.5,17,2,14,Tight Cluster,DELAY
+32.9,49.7,17.1,46.6,17,10,14,Fruit Development-III,DELAY
+3.3,29.4,22.1,52.6,18,15,21,Dormancy,DELAY
+5.5,66.2,26,38.3,16,2,14,Tight Cluster,DELAY
+3.7,76.7,16.7,36.2,12,9,14,Fruit Development-II,DELAY
+22.4,76.5,14.7,27.4,17,7,14,Fruit Set,DELAY
+10.7,84.3,14.3,38.8,13,12,14,Pre-Harvest,DELAY
+28,48.6,3.2,12,20,14,21,Post-Harvest,SPRAY
+37.6,44.4,27.4,45.7,19,14,21,Post-Harvest,DELAY
+38.2,54.3,8,27.8,16,9,14,Fruit Development-II,SPRAY
+25.7,42.8,21.1,45.6,20,0,21,Delayed Dormancy,DELAY
+28.8,79.1,26.4,48.3,12,1,14,Green Tip,DELAY
+22.7,82.1,10.1,83.6,20,11,14,Fruit Development-IV,DELAY
+34.5,67,16.9,38.2,11,4,10,Flowering,DELAY
+5.2,44.2,24,30.3,12,11,14,Fruit Development-IV,DELAY
+34.9,79,16.1,49.7,14,11,14,Fruit Development-IV,DELAY
+14.2,32.5,27.4,29.2,12,9,14,Fruit Development-II,DELAY
+31,48.8,24.7,25.4,15,12,14,Pre-Harvest,DELAY
+26.2,68.7,21.4,49.7,13,3,14,Pink Bud,DELAY
+19,65.3,27.1,34.8,15,3,14,Pink Bud,DELAY
+24.9,55.2,23.2,44.5,11,7,14,Fruit Set,DELAY
+16.1,49.7,1.1,19.5,13,4,10,Flowering,SPRAY
+26.1,73.3,27.1,37.6,16,12,14,Pre-Harvest,DELAY
+25.6,79.2,21.9,53.2,9,4,10,Flowering,DELAY
+9.8,53.9,15.8,35.9,16,1,14,Green Tip,DELAY
+37.2,48.3,18.4,30.7,11,11,14,Fruit Development-IV,DELAY
+23.1,78.9,0.3,89.8,20,14,21,Post-Harvest,DELAY
+9.4,78.9,20.9,42.6,13,4,10,Flowering,DELAY
+26.4,78.8,3.9,99.2,15,7,14,Fruit Set,DELAY
+6,81.3,14.1,35.7,17,8,14,Fruit Development-I,DELAY
+2.6,42.2,14,37.6,11,7,14,Fruit Set,DELAY
+30,58.4,13.7,40.1,15,2,14,Tight Cluster,DELAY
+34.7,67.8,16.8,44.3,11,1,14,Green Tip,DELAY
+32.5,52.7,13.7,46.4,14,1,14,Green Tip,DELAY
+13.6,34.6,14,43.7,15,2,14,Tight Cluster,DELAY
+20.7,48.1,8.5,2.8,1,10,14,Fruit Development-III,SKIP
+34,51.9,25.2,37,16,6,14,Fruitlet,DELAY
+23.6,40,26.5,25.8,14,3,14,Pink Bud,DELAY
+5.4,31.3,23.8,49.4,15,2,14,Tight Cluster,DELAY
+22.2,46.4,14,35.6,16,1,14,Green Tip,DELAY
+28,87.9,21.6,35.5,1,13,0,Harvest,DELAY
+10.1,32,25.5,36,13,4,10,Flowering,DELAY
+31.1,79.9,27.6,49.6,15,8,14,Fruit Development-I,DELAY
+25.7,70.1,12.5,33.2,19,0,21,Delayed Dormancy,DELAY
+28.1,77.7,5.6,58.8,19,10,14,Fruit Development-III,DELAY
+13.7,46.8,4.8,10.4,10,0,21,Delayed Dormancy,SPRAY
+7.6,74,12.8,27.4,14,2,14,Tight Cluster,DELAY
+17.9,42.8,24.1,28.4,3,13,0,Harvest,DELAY
+19.7,56.7,0.6,11.1,9,3,14,Pink Bud,SPRAY
+29.8,55.7,32.6,8.1,14,1,14,Green Tip,DELAY
+17.5,33.4,20.5,31.9,20,0,21,Delayed Dormancy,DELAY
+18.7,48.4,0.9,6.9,18,11,14,Fruit Development-IV,SPRAY
+17,32.5,12.3,34.7,17,12,14,Pre-Harvest,DELAY
+35.1,30.7,25.5,32.3,20,14,21,Post-Harvest,DELAY
+16.2,45.2,17.4,35,12,12,14,Pre-Harvest,DELAY
+6.1,58.1,26.5,35.5,16,2,14,Tight Cluster,DELAY
+14.6,61.9,2.1,88.4,11,4,10,Flowering,DELAY
+24.6,55.2,21,42.4,16,5,14,Petal Fall,DELAY
+24.6,34.8,13.1,38.3,13,10,14,Fruit Development-III,DELAY
+14.7,29.8,19.4,26.1,13,8,14,Fruit Development-I,DELAY
+22.3,50.3,5.1,12.2,20,9,14,Fruit Development-II,SPRAY
+31.2,67.4,17.1,39.3,12,1,14,Green Tip,DELAY
+31.2,79.4,27.7,27.5,16,1,14,Green Tip,DELAY
+1.9,41.8,12.9,10.8,20,5,14,Petal Fall,SPRAY
+3.9,66,17.4,34.9,15,10,14,Fruit Development-III,DELAY
+28.2,43.3,8.2,4,5,12,14,Pre-Harvest,SPRAY
+27.1,50.5,21.5,53.1,13,9,14,Fruit Development-II,DELAY
+13.8,33.3,23.2,53.4,16,12,14,Pre-Harvest,DELAY
+17.2,48.5,17.8,30.4,12,2,14,Tight Cluster,DELAY
+19.5,39.7,14.2,27.3,17,10,14,Fruit Development-III,DELAY
+21.4,73,20.4,44.9,17,3,14,Pink Bud,DELAY
+7.6,36.8,23.1,43.7,8,4,10,Flowering,DELAY
+23.9,34.5,29.4,8,20,14,21,Post-Harvest,DELAY
+13.1,77.6,19.5,50.1,13,7,14,Fruit Set,DELAY
+12.1,49.8,20.4,54,18,14,21,Post-Harvest,DELAY
+3.9,56.2,17.9,53,12,4,10,Flowering,DELAY
+15,91.2,2.1,73,15,3,14,Pink Bud,DELAY
+35.5,52,18.3,36.2,19,14,21,Post-Harvest,DELAY
+16.4,34,7.9,7.4,16,2,14,Tight Cluster,SPRAY
+38.3,46.9,0.1,2.2,14,4,10,Flowering,SPRAY
+21.8,72.3,20.4,28.3,13,6,14,Fruitlet,DELAY
+14.8,55.6,6.9,1.4,18,7,14,Fruit Set,SPRAY
+22.7,71.7,16.7,25,19,0,21,Delayed Dormancy,DELAY
+8.7,68.4,20.4,35.8,15,7,14,Fruit Set,DELAY
+38.8,35.2,0.2,22.1,20,0,21,Delayed Dormancy,SKIP
+24.6,75.1,23.8,35,11,7,14,Fruit Set,DELAY
+31.3,36.4,24.5,38.9,16,11,14,Fruit Development-IV,DELAY
+31.2,29.1,24.4,38.7,19,15,21,Dormancy,DELAY
+28.5,67.6,4.3,71.1,20,6,14,Fruitlet,DELAY
+15.3,89.5,0.7,83.5,20,15,21,Dormancy,DELAY
+17.7,51,19,53.7,13,3,14,Pink Bud,DELAY
+19.9,85.1,20.3,49,16,5,14,Petal Fall,DELAY
+30.9,37.2,4.1,2.9,1,13,0,Harvest,SPRAY
+24.8,36.7,6.2,12.5,5,9,14,Fruit Development-II,SPRAY
+11.5,55.5,4,17.6,6,13,0,Harvest,SPRAY
+23.9,47.5,1.8,6.6,11,0,21,Delayed Dormancy,SPRAY
+9.7,36.1,6.3,10.4,7,11,14,Fruit Development-IV,SPRAY
+21.1,50.9,22.4,32.5,11,2,14,Tight Cluster,DELAY
+20,50.2,21,32.9,19,0,21,Delayed Dormancy,DELAY
+15.3,66.7,6.9,3.4,2,14,21,Post-Harvest,SKIP
+39.6,60.1,9.9,15.4,20,14,21,Post-Harvest,SKIP
+27.6,85.3,22.2,48.8,15,9,14,Fruit Development-II,DELAY
+26.4,64.5,6.9,69.3,18,7,14,Fruit Set,DELAY
+37.4,33.4,26.1,27,14,11,14,Fruit Development-IV,DELAY
+29.7,78.5,13.2,54.2,20,15,21,Dormancy,DELAY
+26.5,47.4,26,48.4,16,2,14,Tight Cluster,DELAY
+6.6,57.7,25.9,49.9,15,5,14,Petal Fall,DELAY
+16.1,83.4,4.8,97.2,14,4,10,Flowering,DELAY
+15,55,8.6,2.6,10,2,14,Tight Cluster,SPRAY
+22.9,36.1,22,52.1,13,5,14,Petal Fall,DELAY
+3,28,22.3,42.3,16,1,14,Green Tip,DELAY
+17,66.5,20,43.8,13,6,14,Fruitlet,DELAY
+31,69.5,16.8,27.2,11,9,14,Fruit Development-II,DELAY
+19.4,38.3,21.7,34.4,16,5,14,Petal Fall,DELAY
+33,88.4,14.1,36.1,15,10,14,Fruit Development-III,DELAY
+-4.1,25.8,4.1,10.8,18,3,14,Pink Bud,SKIP
+26.9,92.4,10.1,61.1,5,13,0,Harvest,DELAY
+18.8,82.1,20,27.7,19,15,21,Dormancy,DELAY
+9.7,47.9,12.8,39.8,20,14,21,Post-Harvest,DELAY
+26.9,47.2,9.7,16,20,15,21,Dormancy,SPRAY
+21.4,37.8,6.1,1.6,19,11,14,Fruit Development-IV,SPRAY
+12.1,89.3,22.9,28.6,18,14,21,Post-Harvest,DELAY
+21.3,39.6,26.4,16.9,17,12,14,Pre-Harvest,DELAY
+24.7,87.2,7.3,59.1,18,1,14,Green Tip,DELAY
+16,45.7,8.6,23.6,4,4,10,Flowering,SPRAY
+20.3,56.8,21,39.2,11,10,14,Fruit Development-III,DELAY
+29.6,53.3,8.8,16,20,11,14,Fruit Development-IV,SPRAY
+11.6,67.6,27.6,42.4,18,0,21,Delayed Dormancy,DELAY
+8.1,65.9,21.9,50.2,12,1,14,Green Tip,DELAY
+13.8,47.6,4.6,9.1,16,7,14,Fruit Set,SPRAY
+24,55.7,25.6,46.8,1,13,0,Harvest,DELAY
+37.9,56.1,18,53.7,14,6,14,Fruitlet,DELAY
+26.3,81.4,22.9,49.1,13,10,14,Fruit Development-III,DELAY
+15.1,66.9,13.2,99.1,20,15,21,Dormancy,DELAY
+19.6,56.2,21,53,16,6,14,Fruitlet,DELAY
+23.9,45.2,13.7,22.9,2,8,14,Fruit Development-I,SKIP
+16.9,47.7,2.8,10.5,16,9,14,Fruit Development-II,SPRAY
+27.1,33.9,21.9,42.6,12,8,14,Fruit Development-I,DELAY
+21.1,66.5,12.8,37.4,16,1,14,Green Tip,DELAY
+9.1,77,13,71.5,20,15,21,Dormancy,DELAY
+29.2,43.7,16.6,26.8,18,15,21,Dormancy,DELAY
+28,85.9,26.6,30.3,17,7,14,Fruit Set,DELAY
+3.3,79.4,24.6,30.6,16,5,14,Petal Fall,DELAY
+2.3,61.9,13.7,54.5,13,9,14,Fruit Development-II,DELAY
+21.6,57.1,27,50.5,19,14,21,Post-Harvest,DELAY
+16.6,59.2,7.1,15.8,15,8,14,Fruit Development-I,SPRAY
+22.4,74.2,14.8,50.7,14,10,14,Fruit Development-III,DELAY
+5.1,68.5,15,29.2,2,13,0,Harvest,DELAY
+39.5,38.1,10.1,0.3,19,7,14,Fruit Set,SKIP
+4.2,32.7,16.9,37.2,15,11,14,Fruit Development-IV,DELAY
+25,86.1,17.9,31.6,12,9,14,Fruit Development-II,DELAY
+17.2,58.1,12.8,21.2,6,15,21,Dormancy,SPRAY
+23.4,76.2,20.4,40.8,13,7,14,Fruit Set,DELAY
+6,78.9,26.4,31.1,15,2,14,Tight Cluster,DELAY
+18.7,57.2,10,13.7,4,4,10,Flowering,SPRAY
+18.3,58.4,19.3,26.7,19,14,21,Post-Harvest,DELAY
+16.3,78.1,23.9,42.3,11,9,14,Fruit Development-II,DELAY
+20.8,32.4,9.8,21.7,16,13,0,Harvest,SPRAY
+25.9,85.6,13.7,83,17,1,14,Green Tip,DELAY
+15.8,81.5,26.5,36.3,16,11,14,Fruit Development-IV,DELAY
+14.5,36.6,20.6,40.9,12,4,10,Flowering,DELAY
+29.2,88.6,19.4,46.6,14,7,14,Fruit Set,DELAY
+10.9,47.5,16.4,53.1,16,12,14,Pre-Harvest,DELAY
+-0.7,34.4,0.9,16.6,17,3,14,Pink Bud,SKIP
+18,39.4,2.4,19,15,1,14,Green Tip,SPRAY
+12.4,78,23.7,34.6,11,4,10,Flowering,DELAY
+30.7,75.9,5.8,65.2,18,10,14,Fruit Development-III,DELAY
+17.4,57.2,27.6,53.2,16,5,14,Petal Fall,DELAY
+13.5,52.1,14.4,36.3,17,12,14,Pre-Harvest,DELAY
+15.6,83.3,11.3,95.9,20,15,21,Dormancy,DELAY
+6.8,40.8,15.3,44.4,3,13,0,Harvest,DELAY
+10.1,70.1,8.5,53.9,14,11,14,Fruit Development-IV,DELAY
+23.2,68.6,15.5,31.3,13,6,14,Fruitlet,DELAY
+2.6,85.9,27.4,28.5,17,9,14,Fruit Development-II,DELAY
+27,70.7,18.3,32.2,19,15,21,Dormancy,DELAY
+23.3,42.3,5,24.7,7,9,14,Fruit Development-II,SPRAY
+28,74.5,17.1,31.1,13,3,14,Pink Bud,DELAY
+25.3,55.6,7.7,80,13,13,0,Harvest,DELAY
+14.1,47.8,27.5,15.4,19,9,14,Fruit Development-II,DELAY
+39.3,47.6,10.3,9.9,15,10,14,Fruit Development-III,SKIP
+30.8,68.3,7.3,23.5,2,15,21,Dormancy,SKIP
+16.8,79.8,15.7,46.2,11,1,14,Green Tip,DELAY
+15.4,65.2,22.7,43.5,14,6,14,Fruitlet,DELAY
+21.1,30.5,7.4,7.7,9,15,21,Dormancy,SPRAY
+27.1,53,27,30.4,18,0,21,Delayed Dormancy,DELAY
+20.6,62.6,3.7,11.1,2,4,10,Flowering,SKIP
+10.8,70.3,16.8,49.8,11,12,14,Pre-Harvest,DELAY
+-2.4,62.2,1.2,23.7,19,1,14,Green Tip,SKIP
+32.9,31.2,20.5,26.3,12,10,14,Fruit Development-III,DELAY
+23.7,41.2,6,14.5,20,15,21,Dormancy,SPRAY
+21.9,85.1,10,71.1,14,10,14,Fruit Development-III,DELAY
+21.5,89,9.5,77.9,17,9,14,Fruit Development-II,DELAY
+26.8,30.1,23.9,35.4,7,4,10,Flowering,DELAY
+16.8,60.8,10.5,8.7,11,13,0,Harvest,SPRAY
+30.2,54.3,15.7,41.6,19,0,21,Delayed Dormancy,DELAY
+23.5,33.4,8.7,22.3,0,13,0,Harvest,SPRAY
+39.3,39,1.5,0.1,16,2,14,Tight Cluster,SKIP
+11.2,28.5,29.3,15.6,20,14,21,Post-Harvest,DELAY
+21.2,48.9,32.8,24.2,14,3,14,Pink Bud,DELAY
+30.1,72.1,21,54.8,12,9,14,Fruit Development-II,DELAY
+8.1,42.5,16.3,29.4,12,5,14,Petal Fall,DELAY
+19.7,28.1,27.5,6.9,20,13,0,Harvest,DELAY
+9,32,16.9,53.5,19,15,21,Dormancy,DELAY
+13.9,46.8,25,50.8,15,12,14,Pre-Harvest,DELAY
+29.8,38,4.4,27,2,4,10,Flowering,SKIP
+24.8,87.9,24.5,34.8,13,9,14,Fruit Development-II,DELAY
+13.4,69.9,2.5,21.5,0,12,14,Pre-Harvest,SKIP
+9.5,76.8,25.3,27.1,19,14,21,Post-Harvest,DELAY
+14.3,51.3,32.2,22.1,20,15,21,Dormancy,DELAY
+19.3,51.1,20.1,52.6,20,14,21,Post-Harvest,DELAY
+30.5,48.4,26.3,41.1,0,13,0,Harvest,DELAY
+25.7,48.1,22.4,26.3,16,3,14,Pink Bud,DELAY
+13.9,76.8,13.7,28,12,12,14,Pre-Harvest,DELAY
+16.1,75.2,21.4,40,13,7,14,Fruit Set,DELAY
+12.6,84.8,13.4,49.9,20,0,21,Delayed Dormancy,DELAY
+19,33.3,29.8,13.3,17,4,10,Flowering,DELAY
+10,53.4,25.2,9.6,20,14,21,Post-Harvest,DELAY
+28.7,58.5,20.8,34.9,14,5,14,Petal Fall,DELAY
+38.4,43.7,10.3,24.7,20,14,21,Post-Harvest,SPRAY
+13.5,85.1,11.3,55,3,13,0,Harvest,DELAY
+19.1,65.5,12.1,77.3,19,5,14,Petal Fall,DELAY
+24,63.2,17.6,50.4,15,10,14,Fruit Development-III,DELAY
+27.4,44.3,21.8,27.5,12,5,14,Petal Fall,DELAY
+11.6,39.9,26.4,10.9,18,10,14,Fruit Development-III,DELAY
+17.2,56.6,20.6,52.6,8,4,10,Flowering,DELAY
+7.1,45.4,19.2,26.6,13,5,14,Petal Fall,DELAY
+9,50,21,44.6,19,0,21,Delayed Dormancy,DELAY
+32.2,56.8,13.3,25.9,18,15,21,Dormancy,DELAY
+20.8,61.7,6.4,87.6,20,9,14,Fruit Development-II,DELAY
+6.1,32.4,24.4,49.7,19,15,21,Dormancy,DELAY
+17.9,39.2,18.8,47.1,16,1,14,Green Tip,DELAY
+19,43.9,9,9.7,15,7,14,Fruit Set,SPRAY
+24.2,64.4,8.5,12,9,7,14,Fruit Set,SPRAY
+31.3,77.4,21.1,41,11,4,10,Flowering,DELAY
+15.4,35.7,33.6,27.6,19,5,14,Petal Fall,DELAY
+1.4,62.1,1.9,4.1,16,3,14,Pink Bud,SKIP
+26.3,56.8,21.2,33.1,14,7,14,Fruit Set,DELAY
+24.8,82.2,13.5,40.5,13,12,14,Pre-Harvest,DELAY
+19.6,62.8,25.9,50.4,11,11,14,Fruit Development-IV,DELAY
+27.1,80.3,24.7,36.9,19,14,21,Post-Harvest,DELAY
+13.6,43.4,20.8,28.9,17,6,14,Fruitlet,DELAY
+34.2,74.5,12.7,43.8,19,15,21,Dormancy,DELAY
+18.7,55,13.4,61.7,20,0,21,Delayed Dormancy,DELAY
+11.1,39.4,25.8,18.6,19,9,14,Fruit Development-II,DELAY
+25,55.2,29.3,2.6,14,5,14,Petal Fall,DELAY
+12.7,39,7.5,0.2,20,0,21,Delayed Dormancy,SPRAY
+17.2,33.6,13.1,36.5,16,3,14,Pink Bud,DELAY
+28.4,30.5,32.7,21.1,15,3,14,Pink Bud,DELAY
+9.2,56,6.2,20.2,5,4,10,Flowering,SPRAY
+24.2,53.8,15.5,51.9,8,4,10,Flowering,DELAY
+15.8,87.6,17,29.2,13,3,14,Pink Bud,DELAY
+22.2,54.3,10.9,19.3,10,2,14,Tight Cluster,SPRAY
+20.2,59.9,4.1,1.5,3,9,14,Fruit Development-II,SKIP
+20,78.8,7.4,98.9,20,15,21,Dormancy,DELAY
+18.3,51.9,2.4,13.2,1,10,14,Fruit Development-III,SKIP
+2.5,39,26.8,53.5,19,0,21,Delayed Dormancy,DELAY
+20,52,23.2,27.5,15,9,14,Fruit Development-II,DELAY
+10.7,61.8,34.7,4.4,15,4,10,Flowering,DELAY
+29.5,67.2,22.3,34.3,14,12,14,Pre-Harvest,DELAY
+28.5,34.6,6.7,1.2,20,7,14,Fruit Set,SPRAY
+24.4,61.6,13.3,77.1,20,5,14,Petal Fall,DELAY
+25.5,89.9,10.3,57.7,14,8,14,Fruit Development-I,DELAY
+11.8,29.2,23.4,42.3,11,10,14,Fruit Development-III,DELAY
+15,57.5,21.1,36,19,15,21,Dormancy,DELAY
+26.3,32.5,23.9,25.1,17,3,14,Pink Bud,DELAY
+-2.5,75.9,12,15.5,20,0,21,Delayed Dormancy,SKIP
+1.4,54.3,1.7,18.9,14,7,14,Fruit Set,SKIP
+30.6,68.2,1,13,4,5,14,Petal Fall,SPRAY
+19,44.8,4.1,22,9,9,14,Fruit Development-II,SPRAY
+23.3,57.1,24.4,30.9,15,7,14,Fruit Set,DELAY
+-4.8,77.1,0,18.4,20,7,14,Fruit Set,SKIP
+30.6,46.8,13.5,27.2,2,9,14,Fruit Development-II,DELAY
+28.7,75.8,9.8,69.9,19,8,14,Fruit Development-I,DELAY
+20.2,66.4,18.3,42.8,11,2,14,Tight Cluster,DELAY
+6.7,44,25.6,52.8,3,13,0,Harvest,DELAY
+14.1,62.7,26.4,21.6,14,10,14,Fruit Development-III,DELAY
+38.8,77.9,2.9,8.6,14,4,10,Flowering,SKIP
+27.2,52.9,25.4,23.4,16,3,14,Pink Bud,DELAY
+30.3,70.8,0.7,66.3,12,4,10,Flowering,DELAY
+32.8,61.1,20.8,27.8,18,0,21,Delayed Dormancy,DELAY
+26.6,69.3,1.4,18.1,16,4,10,Flowering,SPRAY
+11.3,77.8,12.3,26.9,16,2,14,Tight Cluster,DELAY
+5.3,80.1,24.9,28.7,19,14,21,Post-Harvest,DELAY
+18.5,59,6.9,10.7,6,1,14,Green Tip,SPRAY
+15,72.8,2.1,81.5,18,5,14,Petal Fall,DELAY
+20,82.4,19.7,27.6,14,7,14,Fruit Set,DELAY
+25.1,76.8,16,54.8,11,4,10,Flowering,DELAY
+30.1,48.3,20.7,39.5,20,0,21,Delayed Dormancy,DELAY
+9.6,78.9,0.4,90.9,16,10,14,Fruit Development-III,DELAY
+19,48.2,21.3,32,12,1,14,Green Tip,DELAY
+14.9,87.7,12.8,54.7,15,3,14,Pink Bud,DELAY
+12.9,78.7,11.3,85.5,18,12,14,Pre-Harvest,DELAY
+14.7,61.9,14.3,53.5,19,0,21,Delayed Dormancy,DELAY
+11.8,39.3,2.4,11.6,15,9,14,Fruit Development-II,SPRAY
+9.3,33.5,23.5,52.6,17,10,14,Fruit Development-III,DELAY
+21.9,91.7,10.8,92.6,20,10,14,Fruit Development-III,DELAY
+15.4,86.2,18.3,28,13,11,14,Fruit Development-IV,DELAY
+25.1,72.5,8.9,75.4,16,10,14,Fruit Development-III,DELAY
+22.2,82.8,21.8,35.7,16,5,14,Petal Fall,DELAY
+11.8,54.2,34.5,26.6,17,5,14,Petal Fall,DELAY
+29.3,63.7,27.2,15.8,17,1,14,Green Tip,DELAY
+14.8,69.3,1.8,19.5,12,4,10,Flowering,SPRAY
+11.5,41.2,13.1,32.7,11,10,14,Fruit Development-III,DELAY
+39.9,49.6,5.3,15.3,20,0,21,Delayed Dormancy,SKIP
+22.8,74.3,15.6,38.5,18,15,21,Dormancy,DELAY
+29.9,28,26.7,10.5,19,9,14,Fruit Development-II,DELAY
+34.3,31.1,21.5,43.4,14,2,14,Tight Cluster,DELAY
+25.5,64.5,18.9,26.6,19,0,21,Delayed Dormancy,DELAY
+16.7,61,26.8,41.2,16,6,14,Fruitlet,DELAY
+11,52.9,9.2,3.4,17,9,14,Fruit Development-II,SPRAY
+12.6,68,21.6,31,18,0,21,Delayed Dormancy,DELAY
+30.5,43.9,26.2,22,17,6,14,Fruitlet,DELAY
+11.5,66.7,18.2,36.1,19,15,21,Dormancy,DELAY
+15.3,48.6,2.5,5.9,15,11,14,Fruit Development-IV,SPRAY
+26,30.6,17.5,41.2,13,4,10,Flowering,DELAY
+32.3,78.2,18.7,41.1,17,7,14,Fruit Set,DELAY
+10.5,44.4,18.3,50.6,18,15,21,Dormancy,DELAY
+-3.8,68.5,1.8,11.9,20,4,10,Flowering,SKIP
+27.4,65.3,12.8,95.9,2,13,0,Harvest,DELAY
+39.7,75,0.2,19.6,18,2,14,Tight Cluster,SKIP
+12.3,78.5,10.6,97.1,3,13,0,Harvest,DELAY
+33.2,82.2,26,32.9,16,3,14,Pink Bud,DELAY
+19,36.2,18.4,43.5,20,15,21,Dormancy,DELAY
+24.2,27,29.8,7.5,16,12,14,Pre-Harvest,DELAY
+15.8,58.7,33.6,19.2,20,0,21,Delayed Dormancy,DELAY
+38.6,56.3,1.3,12.4,16,4,10,Flowering,SKIP
+33.2,78.4,20.2,29.8,19,15,21,Dormancy,DELAY
+28.3,31.2,2.7,23.3,0,12,14,Pre-Harvest,SKIP
+28.4,58.2,3,18.1,19,7,14,Fruit Set,SPRAY
+6.5,27,18,42.8,12,12,14,Pre-Harvest,DELAY
+14.6,35.6,26.3,47.5,20,15,21,Dormancy,DELAY
+-4.7,71.4,9.1,19,16,2,14,Tight Cluster,SKIP
+33.1,87.9,22.9,39.2,1,13,0,Harvest,DELAY
+2.3,41.4,24.9,34.2,16,5,14,Petal Fall,DELAY
+15.6,47.7,16,39,16,8,14,Fruit Development-I,DELAY
+2.3,90,27.5,50.2,15,12,14,Pre-Harvest,DELAY
+19.6,43.5,3,7.2,17,9,14,Fruit Development-II,SPRAY
+36.3,67.3,15,40.5,12,8,14,Fruit Development-I,DELAY
+30.9,64,22.6,45.4,16,1,14,Green Tip,DELAY
+37.9,41.9,18.7,36.6,18,0,21,Delayed Dormancy,DELAY
+24.1,80.5,6.7,97.2,16,6,14,Fruitlet,DELAY
+32.3,82,14.9,27.9,12,9,14,Fruit Development-II,DELAY
+22.1,84.3,27.2,52,16,8,14,Fruit Development-I,DELAY
+25.4,67.3,11,67.9,16,2,14,Tight Cluster,DELAY
+6.2,28.5,22.2,42.4,15,9,14,Fruit Development-II,DELAY
+9,32.8,22.9,40.9,14,2,14,Tight Cluster,DELAY
+7.4,89.5,17.5,54.6,14,1,14,Green Tip,DELAY
+26.1,74.5,8.8,60.5,20,4,10,Flowering,DELAY
+13.6,55.9,30.8,4.4,20,1,14,Green Tip,DELAY
+38.8,43,0.5,5.6,16,2,14,Tight Cluster,SKIP
+29.2,59.5,12.3,25.1,20,0,21,Delayed Dormancy,DELAY
+15.9,29.1,30,8.6,14,7,14,Fruit Set,DELAY
+19,45.8,30.2,12.1,19,1,14,Green Tip,DELAY
+38.4,21.1,3.1,27.6,13,4,10,Flowering,SPRAY
+8.1,48.8,22.4,26.1,20,0,21,Delayed Dormancy,DELAY
+24.4,63.6,12.8,28.2,17,8,14,Fruit Development-I,DELAY
+18.3,45.2,6,10.4,20,0,21,Delayed Dormancy,SPRAY
+24.7,44.6,22.6,44.9,13,6,14,Fruitlet,DELAY
+34.4,58.3,21.9,33.5,13,4,10,Flowering,DELAY
+23.9,75.6,25.3,54.2,13,3,14,Pink Bud,DELAY
+21,66.4,7.6,10.6,8,13,0,Harvest,SPRAY
+28.1,63.4,7.4,3.3,20,0,21,Delayed Dormancy,SPRAY
+5.6,41.6,15.7,54.7,13,2,14,Tight Cluster,DELAY
+5.6,36.4,12.6,33.7,17,8,14,Fruit Development-I,DELAY
+6.2,80.3,26.2,25.3,12,10,14,Fruit Development-III,DELAY
+1.7,42.4,4.8,3.2,17,5,14,Petal Fall,SPRAY
+39,58.9,11.2,3.2,20,14,21,Post-Harvest,SKIP
+19.6,52.8,6.1,17.1,5,5,14,Petal Fall,SPRAY
+33.7,72.3,26.3,39.5,19,0,21,Delayed Dormancy,DELAY
+17.9,29.1,22.5,25.4,17,3,14,Pink Bud,DELAY
+26.1,47,20.4,46,11,7,14,Fruit Set,DELAY
+10.9,47.5,22.8,36.5,0,13,0,Harvest,DELAY
+7.6,80.2,25.6,51.1,18,0,21,Delayed Dormancy,DELAY
+30.3,27,27.2,18,20,15,21,Dormancy,DELAY
+38.9,46.8,1.7,13.9,19,7,14,Fruit Set,SKIP
+-4.7,67.5,13.5,17.9,20,0,21,Delayed Dormancy,SKIP
+15.1,28.5,15.6,38.6,20,14,21,Post-Harvest,DELAY
+15.1,54.4,13.6,44.8,18,15,21,Dormancy,DELAY
+21,40,26.1,25.1,17,10,14,Fruit Development-III,DELAY
+28.7,51.6,16.1,30.9,7,4,10,Flowering,DELAY
+24.8,59.3,5.8,96.5,20,12,14,Pre-Harvest,DELAY
+18.2,67.8,27.3,29,14,3,14,Pink Bud,DELAY
+3.7,85.8,25.4,39.5,20,0,21,Delayed Dormancy,DELAY
+8.3,78,13.7,44.7,15,5,14,Petal Fall,DELAY
+15.8,88.7,26.7,47.9,13,10,14,Fruit Development-III,DELAY
+36.9,54.4,14.1,37.4,16,12,14,Pre-Harvest,DELAY
+21.7,45.4,23.8,41.6,12,9,14,Fruit Development-II,DELAY
+24.1,61.8,26.3,19.9,15,6,14,Fruitlet,DELAY
+29.4,61.5,21.3,53.3,16,10,14,Fruit Development-III,DELAY
+34.2,59.7,26,37.7,0,13,0,Harvest,DELAY
+10.2,57.3,3.7,89.7,16,3,14,Pink Bud,DELAY
+23.8,41.8,8.3,0.7,18,8,14,Fruit Development-I,SPRAY
+26.3,61.5,15.6,44.4,14,3,14,Pink Bud,DELAY
+30.7,70.2,23.1,26.4,14,7,14,Fruit Set,DELAY
+30.4,69.5,27.5,26.6,16,12,14,Pre-Harvest,DELAY
+39.8,65.3,7.7,16.9,20,8,14,Fruit Development-I,SKIP
+30.6,58,13.5,87.3,14,6,14,Fruitlet,DELAY
+21.2,30.2,30.8,7.1,16,12,14,Pre-Harvest,DELAY
+7.6,35,17.2,26.5,20,14,21,Post-Harvest,DELAY
+22.6,48.3,24.5,34.5,12,9,14,Fruit Development-II,DELAY
+30.3,35.4,20.7,37.1,13,5,14,Petal Fall,DELAY
+25.9,46.5,16.7,53.5,15,7,14,Fruit Set,DELAY
+31.7,88.8,12.1,45.1,19,15,21,Dormancy,DELAY
+24.1,65.4,27.3,45.5,13,7,14,Fruit Set,DELAY
+36,50.1,20.6,33.5,15,12,14,Pre-Harvest,DELAY
+20.3,56.6,16.7,44.5,13,11,14,Fruit Development-IV,DELAY
+8,87.2,20.6,25.2,11,2,14,Tight Cluster,DELAY
+29.8,81.2,18.8,28.1,15,6,14,Fruitlet,DELAY
+35.8,73.5,14.5,38.8,2,13,0,Harvest,DELAY
+13.6,40.1,0.8,18.1,17,1,14,Green Tip,SPRAY
+-2,52.1,9,17.3,18,13,0,Harvest,SKIP
+4.6,85.3,13.7,48.6,13,1,14,Green Tip,DELAY
+-2.3,48.4,7.5,3.8,17,2,14,Tight Cluster,SKIP
+7.2,69,26.6,48.9,16,9,14,Fruit Development-II,DELAY
+2.4,81.9,14.3,26.3,15,11,14,Fruit Development-IV,DELAY
+36.1,44.8,24,52.1,13,12,14,Pre-Harvest,DELAY
+25.3,58.3,14.6,31.6,17,6,14,Fruitlet,DELAY
+23.8,77.7,0.8,88.1,18,8,14,Fruit Development-I,DELAY
+4.6,68.7,16,30.9,20,14,21,Post-Harvest,DELAY
+14.9,68.6,15.8,33.6,18,15,21,Dormancy,DELAY
+-2.7,53.9,5.1,8.9,17,6,14,Fruitlet,SKIP
+26.3,83.5,9,65.3,16,5,14,Petal Fall,DELAY
+13.9,56.2,19.1,48.2,10,4,10,Flowering,DELAY
+10.8,41.2,11.6,25,3,3,14,Pink Bud,SKIP
+24.6,72.3,26.3,50.5,16,8,14,Fruit Development-I,DELAY
+22.8,75,15.4,26.1,19,0,21,Delayed Dormancy,DELAY
+7.4,50.5,26.3,42.7,19,15,21,Dormancy,DELAY
+20.4,50.8,20,44.9,13,4,10,Flowering,DELAY
+7.1,35.3,21.1,42,17,5,14,Petal Fall,DELAY
+19.4,48.3,15.5,39.6,7,4,10,Flowering,DELAY
+23.4,50.7,8.7,8.5,18,8,14,Fruit Development-I,SPRAY
+11.3,63.7,31.3,7.7,19,1,14,Green Tip,DELAY
+22.5,49.5,18.1,42.6,17,8,14,Fruit Development-I,DELAY
+15.5,84,20.3,35.6,17,2,14,Tight Cluster,DELAY
+19.4,64.3,20,29.2,12,11,14,Fruit Development-IV,DELAY
+13.7,32.5,28.6,20.1,14,7,14,Fruit Set,DELAY
+13.9,32.4,22.8,39.4,15,7,14,Fruit Set,DELAY
+16.8,40.8,14,42.8,12,5,14,Petal Fall,DELAY
+7.3,35.8,26.8,40.5,14,1,14,Green Tip,DELAY
+28.2,78.4,27.2,31.5,20,0,21,Delayed Dormancy,DELAY
+8.1,79,21.6,48.8,18,15,21,Dormancy,DELAY
+29.3,48.9,25.7,10.6,15,8,14,Fruit Development-I,DELAY
+27.9,50.2,5.9,4.2,1,3,14,Pink Bud,SKIP
+24.1,27.5,24.5,40.1,11,5,14,Petal Fall,DELAY
+6.7,64.2,25.2,51.9,17,2,14,Tight Cluster,DELAY
+15.3,27.8,20.5,31.9,3,13,0,Harvest,DELAY
+11.1,35.4,6.7,6.5,1,12,14,Pre-Harvest,SKIP
+21.6,41.8,12.1,47.3,11,9,14,Fruit Development-II,DELAY
+15.5,38.4,24.9,37.3,11,3,14,Pink Bud,DELAY
+23.1,42,20.6,41.9,11,4,10,Flowering,DELAY
+16.3,38.2,20.8,41.7,12,8,14,Fruit Development-I,DELAY
+19.4,89.3,21.2,48.2,14,11,14,Fruit Development-IV,DELAY
+25.7,73.6,19.1,46,8,4,10,Flowering,DELAY
+0.5,29.6,13.5,0.1,14,3,14,Pink Bud,SKIP
+23.6,30.7,16.2,36.1,11,4,10,Flowering,DELAY
+35.5,51,22.5,33.6,15,1,14,Green Tip,DELAY
+31.5,66.6,19,31.1,16,1,14,Green Tip,DELAY
+20.2,57.9,8.6,18.9,5,9,14,Fruit Development-II,SPRAY
+37.1,30.6,16.4,37,16,7,14,Fruit Set,DELAY
+9.2,26,23.3,52.6,15,12,14,Pre-Harvest,DELAY
+22.1,62.9,17.6,49.5,12,9,14,Fruit Development-II,DELAY
+16.5,25.3,14.8,40.2,15,6,14,Fruitlet,DELAY
+14.2,32.6,20.2,32.7,15,2,14,Tight Cluster,DELAY
+36.8,61.6,24.3,47.7,17,8,14,Fruit Development-I,DELAY
+34.3,81,19.7,32.7,19,14,21,Post-Harvest,DELAY
+10.3,45.5,27.3,40.5,11,7,14,Fruit Set,DELAY
+18,60,3.8,12.2,16,8,14,Fruit Development-I,SPRAY
+28.7,65.8,13.3,84.8,20,15,21,Dormancy,DELAY
+10.5,40.7,16.2,31.9,18,15,21,Dormancy,DELAY
+12.4,33.1,10.5,10.8,15,11,14,Fruit Development-IV,SPRAY
+15.4,45.5,26.4,51.4,15,1,14,Green Tip,DELAY
+37.4,84.5,16.5,31.7,15,8,14,Fruit Development-I,DELAY
+39.1,43.6,9.6,4.9,11,4,10,Flowering,SKIP
+10.2,38.4,6.4,7.2,20,14,21,Post-Harvest,SPRAY
+10.5,55.6,21.8,36,14,5,14,Petal Fall,DELAY
+17,41,29.5,16,18,13,0,Harvest,DELAY
+27.9,77.3,20.9,50.7,12,7,14,Fruit Set,DELAY
+28.6,55.7,12.2,37.6,8,4,10,Flowering,DELAY
+12.8,61.5,21.1,37,16,10,14,Fruit Development-III,DELAY
+19.5,50.2,29.5,9.4,16,5,14,Petal Fall,DELAY
+35.5,41.8,12.3,28.6,17,11,14,Fruit Development-IV,DELAY
+25.4,60,27.7,33.5,13,6,14,Fruitlet,DELAY
+18.1,30.1,21.8,38.9,18,15,21,Dormancy,DELAY
+35.4,52.4,21.8,37.1,11,5,14,Petal Fall,DELAY
+15.9,81.1,9.9,81.1,17,2,14,Tight Cluster,DELAY
+30.1,86,24,40.6,14,8,14,Fruit Development-I,DELAY
+12.5,39.4,2.8,16.4,3,13,0,Harvest,SPRAY
+11.9,67.5,5.2,1.2,18,6,14,Fruitlet,SPRAY
+12.4,56.2,12.4,8.7,3,2,14,Tight Cluster,SKIP
+6.6,59.2,14.7,26.1,13,9,14,Fruit Development-II,DELAY
+18.8,81.6,27,41.5,12,10,14,Fruit Development-III,DELAY
+18.4,73.7,26,38,16,5,14,Petal Fall,DELAY
+19.3,39.8,13.4,34.2,14,9,14,Fruit Development-II,DELAY
+10,62.6,9.3,7.6,18,8,14,Fruit Development-I,SPRAY
+19.7,74.1,16.8,48,19,0,21,Delayed Dormancy,DELAY
+21.7,37.3,26.1,38.1,12,7,14,Fruit Set,DELAY
+25.3,78.8,15.5,27.4,16,5,14,Petal Fall,DELAY
+30.8,64.9,23.1,33.2,16,7,14,Fruit Set,DELAY
+32.7,36.9,16.6,44.1,15,8,14,Fruit Development-I,DELAY
+19.8,42.8,2.1,27.2,0,14,21,Post-Harvest,SKIP
+12.2,33.1,19,25.2,11,5,14,Petal Fall,DELAY
+16.5,67.5,11.2,99.9,17,4,10,Flowering,DELAY
+10.2,86,1,74.6,15,1,14,Green Tip,DELAY
+31.8,32.9,24.3,32.5,17,8,14,Fruit Development-I,DELAY
+14,59.4,1,14.7,20,14,21,Post-Harvest,SPRAY
+29.6,31.3,32.3,20.9,20,15,21,Dormancy,DELAY
+12.8,48.4,12.8,45,11,8,14,Fruit Development-I,DELAY
+13.7,35.9,16.4,28.6,17,7,14,Fruit Set,DELAY
+21.6,57.6,7.6,3.4,15,7,14,Fruit Set,SPRAY
+23.7,43.5,10.7,16.7,15,7,14,Fruit Set,SPRAY
+24.4,86.7,1.8,63.2,18,1,14,Green Tip,DELAY
+17.8,37.5,23,35.7,12,11,14,Fruit Development-IV,DELAY
+19.5,53.4,16.7,45.9,12,8,14,Fruit Development-I,DELAY
+13.7,55.4,25.9,43,17,5,14,Petal Fall,DELAY
+18.9,87.8,7.6,73.8,20,5,14,Petal Fall,DELAY
+33.8,65.3,17.8,43.6,13,12,14,Pre-Harvest,DELAY
+21.4,50.2,20.4,39.9,15,2,14,Tight Cluster,DELAY
+13.6,66.7,13.8,40.7,7,4,10,Flowering,DELAY
+6.7,81.8,15.2,39.6,11,1,14,Green Tip,DELAY
+32.1,67.8,20.4,46,13,1,14,Green Tip,DELAY
+24.8,30.5,12.9,18.4,1,1,14,Green Tip,SKIP
+4.2,61.3,27,37.5,19,14,21,Post-Harvest,DELAY
+11.6,27.6,13.1,34.1,12,1,14,Green Tip,DELAY
+20.7,62.6,7.4,63.9,19,3,14,Pink Bud,DELAY
+22.1,73.5,24.3,42.3,16,5,14,Petal Fall,DELAY
+17.4,31.8,24.7,41.5,20,14,21,Post-Harvest,DELAY
+21.2,64,26.9,52.1,15,10,14,Fruit Development-III,DELAY
+16.8,66.2,25.2,34.7,12,10,14,Fruit Development-III,DELAY
+29.4,40.2,13.5,12.5,6,6,14,Fruitlet,SPRAY
+37.4,63.7,20.3,54.8,19,0,21,Delayed Dormancy,DELAY
+13.7,67.6,10.8,97.3,20,0,21,Delayed Dormancy,DELAY
+38.3,73.4,3.5,7.2,14,4,10,Flowering,SPRAY
+22.5,39.1,13.2,34.7,14,2,14,Tight Cluster,DELAY
+34.4,70.7,25.1,27.9,16,5,14,Petal Fall,DELAY
+17.4,61.2,12.9,9.4,6,9,14,Fruit Development-II,SPRAY
+6.3,75.1,24,50.5,0,13,0,Harvest,DELAY
+9.9,51.6,2.1,14.1,3,12,14,Pre-Harvest,SKIP
+1.8,33.3,4.1,11,12,4,10,Flowering,SPRAY
+25.4,51.9,3.7,11.2,6,10,14,Fruit Development-III,SPRAY
+19.3,37.9,18.3,42.1,11,4,10,Flowering,DELAY
+26.1,37.9,34.2,2.5,19,7,14,Fruit Set,DELAY
+14.5,45.8,21.5,25.7,2,13,0,Harvest,DELAY
+24.2,89.4,19.1,29.4,11,5,14,Petal Fall,DELAY
+12.4,54.1,25.9,20.7,15,7,14,Fruit Set,DELAY
+31.5,25.9,23.1,28.3,10,4,10,Flowering,DELAY
+25.3,63.5,7.6,88,20,15,21,Dormancy,DELAY
+26.1,49.5,26.5,40.8,9,4,10,Flowering,DELAY
+26.4,79.7,0.7,83.4,14,5,14,Petal Fall,DELAY
+23.6,61.5,28.6,3,16,2,14,Tight Cluster,DELAY
+39.4,49.1,8.4,2.5,15,12,14,Pre-Harvest,SKIP
+27.6,27.6,26.8,34.1,19,14,21,Post-Harvest,DELAY
+2.7,69.5,17.7,34.1,15,12,14,Pre-Harvest,DELAY
+24.5,82.1,26.2,49.4,11,8,14,Fruit Development-I,DELAY
+28.7,51.3,25.9,10.7,19,8,14,Fruit Development-I,DELAY
+22.6,52.7,17,43.2,14,7,14,Fruit Set,DELAY
+21.8,82.4,2.8,58.6,18,4,10,Flowering,DELAY
+34.7,75.1,22.5,41.9,8,4,10,Flowering,DELAY
+29.9,34.7,4.4,24.6,0,10,14,Fruit Development-III,SKIP
+16.9,51.7,19.1,53,16,10,14,Fruit Development-III,DELAY
+11.3,62.4,10.7,81.4,16,8,14,Fruit Development-I,DELAY
+10.3,26.7,13.3,48.4,12,7,14,Fruit Set,DELAY
+15.5,80.4,19.9,29.1,18,15,21,Dormancy,DELAY
+28.5,68,2.4,14.8,16,7,14,Fruit Set,SPRAY
+39,72,12.4,12,20,6,14,Fruitlet,SKIP
+31.7,71.8,18.3,53.2,15,1,14,Green Tip,DELAY
+18.3,78.8,12.7,54.9,15,1,14,Green Tip,DELAY
+3.4,50.2,24.2,53.9,12,12,14,Pre-Harvest,DELAY
+33.8,75.3,16.6,30,13,9,14,Fruit Development-II,DELAY
+34.5,55.1,22.3,27.7,15,1,14,Green Tip,DELAY
+29.6,57.8,1.9,11.6,7,3,14,Pink Bud,SPRAY
+28.7,65.8,12.4,2.5,10,0,21,Delayed Dormancy,SPRAY
+6.4,32.4,19.2,35.9,15,5,14,Petal Fall,DELAY
+37.1,64.8,14.6,41.5,11,12,14,Pre-Harvest,DELAY
+22.4,67.9,14.4,51.1,12,5,14,Petal Fall,DELAY
+13.1,75,19.1,43.8,11,1,14,Green Tip,DELAY
+2.1,74.8,12.2,39.9,10,4,10,Flowering,DELAY
+19.8,39.1,22.6,38.6,19,0,21,Delayed Dormancy,DELAY
+2.2,82.3,16.4,43.9,17,2,14,Tight Cluster,DELAY
+10.2,69,2,53.6,18,6,14,Fruitlet,DELAY
+11,46.7,2,14.8,19,9,14,Fruit Development-II,SPRAY
+29,48.4,12.6,48.1,13,5,14,Petal Fall,DELAY
+31.5,74.3,25.5,26.9,14,11,14,Fruit Development-IV,DELAY
+16.2,41.6,27.1,5.9,10,4,10,Flowering,DELAY
+37.3,59.4,13.4,46.7,15,3,14,Pink Bud,DELAY
+32.5,41.9,21.2,43.7,12,9,14,Fruit Development-II,DELAY
+24.7,57,14.9,43.3,20,15,21,Dormancy,DELAY
+2.1,26.6,22,28.5,17,9,14,Fruit Development-II,DELAY
+38,51.9,17.3,41.8,16,6,14,Fruitlet,DELAY
+24.2,65.2,0.9,66.4,18,6,14,Fruitlet,DELAY
+6.1,46.7,18.3,42.1,11,10,14,Fruit Development-III,DELAY
+29.3,44.2,29.7,1,15,5,14,Petal Fall,DELAY
+39.1,47.7,11.4,26,20,15,21,Dormancy,SKIP
+26.4,61.1,12.3,42.3,13,9,14,Fruit Development-II,DELAY
+15.2,56.2,13.8,82.1,20,11,14,Fruit Development-IV,DELAY
+16,63.7,25.8,47.5,16,5,14,Petal Fall,DELAY
+11.8,30.6,26,36.1,17,10,14,Fruit Development-III,DELAY
+12.9,40,25.4,5.7,14,9,14,Fruit Development-II,DELAY
+30.8,83.8,14.5,35.2,19,14,21,Post-Harvest,DELAY
+7.2,81.7,25.2,53.1,16,9,14,Fruit Development-II,DELAY
+19.2,58.5,5.7,0.1,11,4,10,Flowering,SPRAY
+12.1,60.6,8.2,0.5,17,2,14,Tight Cluster,SPRAY
+15.3,76.3,10.8,84.2,16,6,14,Fruitlet,DELAY
+10.3,54.9,5.7,4.5,16,4,10,Flowering,SPRAY
+21.6,31.9,28.1,25,18,10,14,Fruit Development-III,DELAY
+19.4,57,1.2,1.2,20,14,21,Post-Harvest,SPRAY
+28.6,55.2,9.7,12.5,5,12,14,Pre-Harvest,SPRAY
+24.7,81.8,7.5,98.7,20,9,14,Fruit Development-II,DELAY
+5.3,77.2,23.2,27.9,19,14,21,Post-Harvest,DELAY
+36.1,34.3,26.3,32.7,19,14,21,Post-Harvest,DELAY
+26.4,60.3,29.5,0.8,17,12,14,Pre-Harvest,DELAY
+38.6,56.3,1.8,2.9,20,3,14,Pink Bud,SKIP
+25.8,51.3,4.4,9.1,19,3,14,Pink Bud,SPRAY
+37.1,49.9,17.5,49.4,15,7,14,Fruit Set,DELAY
+17.7,76.2,20.7,32.1,0,13,0,Harvest,DELAY
+19.2,52.2,11.5,4.9,12,15,21,Dormancy,SPRAY
+26.7,63.8,25.1,34.8,16,2,14,Tight Cluster,DELAY
+28.5,91.1,8.9,52,15,1,14,Green Tip,DELAY
+12.5,65,19.2,31.2,9,4,10,Flowering,DELAY
+34.9,44.8,27.1,38,13,9,14,Fruit Development-II,DELAY
+24,58.2,25.6,50.6,11,2,14,Tight Cluster,DELAY
+36.8,25.1,21,54.4,11,11,14,Fruit Development-IV,DELAY
+10.5,70.6,18.3,34.5,14,9,14,Fruit Development-II,DELAY
+13.6,36.9,1.9,15.6,5,12,14,Pre-Harvest,SPRAY
+12,57.9,0.2,86.6,15,13,0,Harvest,DELAY
+6.9,33.9,24.9,50.8,3,13,0,Harvest,DELAY
+17.3,78.3,18.2,31.8,14,5,14,Petal Fall,DELAY
+32.5,40.4,20,37.3,20,0,21,Delayed Dormancy,DELAY
+21.4,58.2,1.2,10.6,20,11,14,Fruit Development-IV,SPRAY
+30.6,69.3,10.9,13,1,2,14,Tight Cluster,SKIP
+23.7,51.6,6.4,13.5,17,2,14,Tight Cluster,SPRAY
+20.5,55.5,23.7,37.6,19,0,21,Delayed Dormancy,DELAY
+25.5,59.1,7.9,1.7,7,9,14,Fruit Development-II,SPRAY
+25.6,44,23.8,25.8,14,5,14,Petal Fall,DELAY
+27,41.1,1.5,6.2,17,2,14,Tight Cluster,SPRAY
+23.7,84.2,23.8,44.8,19,0,21,Delayed Dormancy,DELAY
+19.7,87,12.1,68.5,14,5,14,Petal Fall,DELAY
+31.6,79.4,24,37.4,10,4,10,Flowering,DELAY
+28.1,35.9,21.2,50.3,11,7,14,Fruit Set,DELAY
+6.2,35.9,18.4,34,16,8,14,Fruit Development-I,DELAY
+38.3,20.7,13,12.6,19,7,14,Fruit Set,SPRAY
+26.6,27.7,26.7,44.1,17,10,14,Fruit Development-III,DELAY
+25.5,42.7,16.3,49.1,2,13,0,Harvest,DELAY
+26.3,40.7,22.8,48.1,15,12,14,Pre-Harvest,DELAY
+37.8,45.4,12.2,25.3,11,10,14,Fruit Development-III,DELAY
+20.9,69.6,17.6,46.8,19,0,21,Delayed Dormancy,DELAY
+11,67.5,9.2,23.4,9,6,14,Fruitlet,SPRAY
+6.3,80.7,14.1,44.7,16,3,14,Pink Bud,DELAY
+27,41.5,19.5,53.1,16,5,14,Petal Fall,DELAY
+11.9,52.8,26.5,48.1,19,14,21,Post-Harvest,DELAY
+15.5,32.5,4.3,21.9,17,8,14,Fruit Development-I,SPRAY
+19.8,67.1,6.7,3.9,18,8,14,Fruit Development-I,SPRAY
+39.3,62.9,1.4,2,18,3,14,Pink Bud,SKIP
+2.7,57.4,22.4,25,11,8,14,Fruit Development-I,DELAY
+28.9,48,30.2,26.3,17,12,14,Pre-Harvest,DELAY
+32.4,75.8,24.6,41.2,18,15,21,Dormancy,DELAY
+31.4,56.3,21.1,53.1,13,12,14,Pre-Harvest,DELAY
+16.4,66.1,27.3,27.7,15,10,14,Fruit Development-III,DELAY
+0.3,30.6,0.6,10.8,15,10,14,Fruit Development-III,SKIP
+34.3,66,17.7,27.5,16,9,14,Fruit Development-II,DELAY
+7,37.6,23.5,42.8,19,14,21,Post-Harvest,DELAY
+23.2,50,13.5,22.7,0,12,14,Pre-Harvest,SKIP
+26.3,26.7,26.2,22.6,19,1,14,Green Tip,DELAY
+33.3,59.9,23.9,32,18,14,21,Post-Harvest,DELAY
+19.6,26.2,26.5,43.6,12,1,14,Green Tip,DELAY
+28.1,62.8,1.1,13.4,20,4,10,Flowering,SPRAY
+5.8,57.3,24.8,31.6,17,2,14,Tight Cluster,DELAY
+31.2,88.8,22.9,34.7,16,6,14,Fruitlet,DELAY
+25.8,78.7,4.7,57.8,12,4,10,Flowering,DELAY
+21.2,42.5,34.3,1.1,3,13,0,Harvest,DELAY
+2.6,56.7,12.1,30.4,11,12,14,Pre-Harvest,DELAY
+31.1,75.2,23.1,31.2,16,9,14,Fruit Development-II,DELAY
+16.8,86,21.8,26.1,12,8,14,Fruit Development-I,DELAY
+5.2,78.7,16.8,37.6,20,15,21,Dormancy,DELAY
+30.5,54.8,12.1,27.6,8,7,14,Fruit Set,DELAY
+24.6,38.5,12.8,28.4,12,7,14,Fruit Set,DELAY
+7.8,85,12.9,35.9,18,15,21,Dormancy,DELAY
+26.7,60.3,0.6,20.7,0,13,0,Harvest,SPRAY
+19.5,32.5,26.3,46.6,15,5,14,Petal Fall,DELAY
+28.9,83.4,15.7,28.3,12,10,14,Fruit Development-III,DELAY
+1.1,24.4,8.2,1.5,17,3,14,Pink Bud,SKIP
+19,45.5,1.9,20.2,5,4,10,Flowering,SPRAY
+9.3,33.3,23.1,26.8,12,11,14,Fruit Development-IV,DELAY
+18.5,36.1,17.5,51.6,15,3,14,Pink Bud,DELAY
+25,64.7,14.7,54.1,17,5,14,Petal Fall,DELAY
+19.8,69.8,8.3,23.4,4,7,14,Fruit Set,SPRAY
+28.5,41,17.2,42.4,20,0,21,Delayed Dormancy,DELAY
+34.3,52.2,12.7,54.7,12,4,10,Flowering,DELAY
+16.2,77.6,23.1,27.9,14,1,14,Green Tip,DELAY
+23.9,46.3,2.4,7.9,16,7,14,Fruit Set,SPRAY
+12.6,43.4,30.7,16.3,17,2,14,Tight Cluster,DELAY
+33.5,51.3,24.6,36.1,19,14,21,Post-Harvest,DELAY
+4.5,83.1,17.3,26,19,0,21,Delayed Dormancy,DELAY
+24.1,62.4,15.3,45.5,15,8,14,Fruit Development-I,DELAY
+4,86.4,22.8,51.6,11,10,14,Fruit Development-III,DELAY
+9.9,44.7,9.1,19.7,8,12,14,Pre-Harvest,SPRAY
+14.2,29.5,29.8,26.3,18,6,14,Fruitlet,DELAY
+29.4,45.8,26.4,40.1,14,6,14,Fruitlet,DELAY
+16.6,44.4,30.3,3.4,19,8,14,Fruit Development-I,DELAY
+15.3,68.8,23.1,54.3,11,9,14,Fruit Development-II,DELAY
+18.5,30.2,26.4,33.7,11,6,14,Fruitlet,DELAY
+23.9,49.9,9.6,11.5,20,3,14,Pink Bud,SPRAY
+29.5,49,5.9,20.7,0,0,21,Delayed Dormancy,SKIP
+27.4,39.3,10.4,14.2,18,9,14,Fruit Development-II,SPRAY
+30.3,56.6,22.7,40.9,15,10,14,Fruit Development-III,DELAY
+22.4,83.4,16.9,48.7,18,14,21,Post-Harvest,DELAY
+25.9,26.9,28.5,12.8,20,15,21,Dormancy,DELAY
+12.3,88.3,25.4,45.8,16,5,14,Petal Fall,DELAY
+10.8,42.7,1.4,5.7,13,4,10,Flowering,SPRAY
+3.2,45.6,17.5,36.2,15,6,14,Fruitlet,DELAY
+6.4,26.6,26.9,48.1,14,5,14,Petal Fall,DELAY
+30.5,43.3,9.9,13.3,4,10,14,Fruit Development-III,SPRAY
+28.2,84.9,17.4,28.4,10,4,10,Flowering,DELAY
+11.6,31,8.6,6.2,5,1,14,Green Tip,SPRAY
+23.1,53.3,3.1,26.2,4,2,14,Tight Cluster,SPRAY
+27.7,57.1,13.4,27.3,6,6,14,Fruitlet,DELAY
+23.7,58.3,12.9,45,14,6,14,Fruitlet,DELAY
+17.4,50.1,12.2,35.3,9,4,10,Flowering,DELAY
+5.2,72.3,19.1,54.8,19,14,21,Post-Harvest,DELAY
+0.1,28.6,4.2,27.7,18,9,14,Fruit Development-II,SKIP
+25.6,33.5,5.7,25.6,6,10,14,Fruit Development-III,SPRAY
+27.6,74.1,14.2,30.6,14,5,14,Petal Fall,DELAY
+3.5,78.7,25.4,34.1,15,9,14,Fruit Development-II,DELAY
+13.1,42,7,14,20,14,21,Post-Harvest,SPRAY
+19.7,69.7,15.9,28.6,13,9,14,Fruit Development-II,DELAY
+4.4,73.5,21.3,42,19,15,21,Dormancy,DELAY
+31.5,49.3,23.7,25.5,19,15,21,Dormancy,DELAY
+7.3,55,23.1,35.7,11,5,14,Petal Fall,DELAY
+10.1,36.7,31.4,2.2,15,8,14,Fruit Development-I,DELAY
+23.6,35.9,17.2,34.5,17,5,14,Petal Fall,DELAY
+11.1,48.2,33.2,0.4,18,9,14,Fruit Development-II,DELAY
+-2.1,26.1,2.2,6.2,15,9,14,Fruit Development-II,SKIP
+35,32.6,14.1,25.5,13,3,14,Pink Bud,DELAY
+7,53.7,27.8,40.7,13,9,14,Fruit Development-II,DELAY
+3,77.9,15.6,50.7,12,5,14,Petal Fall,DELAY
+11.9,58.1,9.7,89.6,14,7,14,Fruit Set,DELAY
+29.3,27.8,13.7,48.8,20,0,21,Delayed Dormancy,DELAY
+34.7,27.8,16.8,25.3,11,1,14,Green Tip,DELAY
+9.4,83.6,15,35.5,11,3,14,Pink Bud,DELAY
+35.9,86.7,17.6,29.8,11,4,10,Flowering,DELAY
+4.5,78.3,24.2,40.9,16,7,14,Fruit Set,DELAY
+8.2,74,12.1,46.8,12,6,14,Fruitlet,DELAY
+13.1,56.9,1.5,23.4,12,15,21,Dormancy,SPRAY
+18,85.5,4.4,74.4,16,13,0,Harvest,DELAY
+15,43.7,23.6,27.5,10,4,10,Flowering,DELAY
+38.6,33.6,5.7,27.6,17,3,14,Pink Bud,SKIP
+34.2,77.2,27,36,11,6,14,Fruitlet,DELAY
+16.3,59,22.8,28.6,19,15,21,Dormancy,DELAY
+37.2,73.2,26.3,30.1,13,12,14,Pre-Harvest,DELAY
+27.6,46.2,3.3,11.9,7,6,14,Fruitlet,SPRAY
+29.6,63.6,24.1,49,14,8,14,Fruit Development-I,DELAY
+23.7,51.3,19.8,33.4,17,11,14,Fruit Development-IV,DELAY
+19.8,34.2,34.4,0.8,20,14,21,Post-Harvest,DELAY
+3,36.6,21.7,34.8,13,2,14,Tight Cluster,DELAY
+25.8,58.8,19.9,39,13,3,14,Pink Bud,DELAY
+11.4,47.3,25.8,41.4,18,15,21,Dormancy,DELAY
+6.3,54.3,25.6,38.3,0,13,0,Harvest,DELAY
+28.5,31.6,29.3,8.7,17,1,14,Green Tip,DELAY
+22.5,56.9,20.9,41.2,19,15,21,Dormancy,DELAY
+7.6,28.6,16.2,42.7,19,15,21,Dormancy,DELAY
+12.2,29,21.4,28.8,13,11,14,Fruit Development-IV,DELAY
+23,74.7,22,36.4,14,11,14,Fruit Development-IV,DELAY
+16.8,28.7,15.9,32,13,11,14,Fruit Development-IV,DELAY
+4.4,44.8,17.4,25.6,13,2,14,Tight Cluster,DELAY
+33.1,61.9,26.4,33,16,1,14,Green Tip,DELAY
+37.5,49.6,18.2,42.2,19,15,21,Dormancy,DELAY
+9.4,57.3,25,45,12,3,14,Pink Bud,DELAY
+-3.6,70.4,7.5,8,14,9,14,Fruit Development-II,SKIP
+16.5,39.7,23.9,27.8,17,9,14,Fruit Development-II,DELAY
+11.8,61.8,20.5,37.8,13,3,14,Pink Bud,DELAY
+12.9,77.3,18.9,41.2,12,2,14,Tight Cluster,DELAY
+24.5,54.5,24.2,30.4,0,13,0,Harvest,DELAY
+9.7,87.5,23.9,39,16,5,14,Petal Fall,DELAY
+28.2,28.9,15.2,38.9,1,13,0,Harvest,DELAY
+29.6,79.9,18.6,50.8,7,4,10,Flowering,DELAY
+11.6,43.7,14.6,45.6,12,6,14,Fruitlet,DELAY
+13.2,64.8,11.6,74.3,18,12,14,Pre-Harvest,DELAY
+34.6,38.1,16.4,25.9,2,13,0,Harvest,DELAY
+3.5,72,24.5,26.7,11,5,14,Petal Fall,DELAY
+33.2,83.5,18.5,35.9,16,10,14,Fruit Development-III,DELAY
+14.2,77.8,7,57.8,19,2,14,Tight Cluster,DELAY
+5.2,64,24.4,34.4,17,8,14,Fruit Development-I,DELAY
+28.8,85.8,15.5,28.2,12,12,14,Pre-Harvest,DELAY
+11.2,63.3,19.8,36.2,11,8,14,Fruit Development-I,DELAY
+19.1,41,16.4,48.5,12,10,14,Fruit Development-III,DELAY
+15.2,45,22.3,52.2,11,11,14,Fruit Development-IV,DELAY
+30.4,40.6,20.8,34.3,16,1,14,Green Tip,DELAY
+26.7,59.8,15.8,38.3,11,11,14,Fruit Development-IV,DELAY
+35,44.6,27,47.7,13,12,14,Pre-Harvest,DELAY
+7.8,53.5,17.1,49.4,16,6,14,Fruitlet,DELAY
+11.9,30.2,24.5,39.8,3,13,0,Harvest,DELAY
+33.6,78.3,25.2,46,15,10,14,Fruit Development-III,DELAY
+25,51.9,4.6,19.5,0,2,14,Tight Cluster,SKIP
+30.5,33.8,18.4,43.8,13,5,14,Petal Fall,DELAY
+20.4,93.8,11.6,88.6,20,2,14,Tight Cluster,DELAY
+13.5,56.1,23.8,32.8,2,13,0,Harvest,DELAY
+38.8,76.7,12.4,6.3,14,9,14,Fruit Development-II,SKIP
+37.1,37.9,23.2,30.1,14,7,14,Fruit Set,DELAY
+7.4,87.3,14.7,42,0,13,0,Harvest,DELAY
+35.4,78.8,19.9,31.7,1,13,0,Harvest,DELAY
+31.3,42.3,23.9,36.5,14,6,14,Fruitlet,DELAY
+37.8,43.4,22.8,37.5,14,6,14,Fruitlet,DELAY
+14.2,43,27.5,16.3,20,4,10,Flowering,DELAY
+38.6,61.2,10,19.8,20,14,21,Post-Harvest,SKIP
+11,67.2,5.2,7.8,19,2,14,Tight Cluster,SPRAY
+22.6,42.1,5.5,10.4,8,1,14,Green Tip,SPRAY
+11.4,57.7,26.9,51.3,12,1,14,Green Tip,DELAY
+18.5,40.4,4.4,27.4,7,2,14,Tight Cluster,SPRAY
+35.3,43.4,26,43.4,17,8,14,Fruit Development-I,DELAY
+17.7,35.7,23.8,39.7,12,8,14,Fruit Development-I,DELAY
+10.2,62.3,6.6,59.9,20,14,21,Post-Harvest,DELAY
+38.7,47.5,1.6,20.2,4,13,0,Harvest,SKIP
+28.1,62.2,2.4,76.4,16,3,14,Pink Bud,DELAY
+37,59.2,21.1,37.5,11,6,14,Fruitlet,DELAY
+26.4,82.7,12.4,45.4,16,7,14,Fruit Set,DELAY
+29.4,34.2,4.5,0.8,7,3,14,Pink Bud,SPRAY
+36.4,63.6,12.1,54.1,20,15,21,Dormancy,DELAY
+11.8,64.5,11.2,7.9,1,14,21,Post-Harvest,SKIP
+23.7,31,16.1,32.2,17,2,14,Tight Cluster,DELAY
+12.6,86.2,4,88.1,19,12,14,Pre-Harvest,DELAY
+39.5,74.2,8.4,10.1,11,4,10,Flowering,SKIP
+19.6,82.6,19.6,41.9,14,11,14,Fruit Development-IV,DELAY
+31.2,64.9,18.9,37.8,11,2,14,Tight Cluster,DELAY
+26.4,67.1,23.4,52.9,15,10,14,Fruit Development-III,DELAY
+39.6,28.9,1.8,25.3,20,2,14,Tight Cluster,SKIP
+12.6,28.1,13.2,26.4,11,7,14,Fruit Set,DELAY
+18.7,71.8,25,35.7,0,13,0,Harvest,DELAY
+38.4,22.7,5.8,19.7,20,0,21,Delayed Dormancy,SPRAY
+18.2,77.5,17.5,52.5,18,14,21,Post-Harvest,DELAY
+14.7,56.9,6.1,0.5,6,6,14,Fruitlet,SPRAY
+38.8,38.2,11.4,17.3,19,3,14,Pink Bud,SKIP
+5.2,33.8,15.1,49.5,16,12,14,Pre-Harvest,DELAY
+9.5,67.2,22.4,38.1,16,6,14,Fruitlet,DELAY
+-4,30,2.1,19.7,17,6,14,Fruitlet,SKIP
+38.4,23.1,0.1,17.7,20,15,21,Dormancy,SPRAY
+28.5,63.7,20.9,33.7,3,13,0,Harvest,DELAY
+23.3,64.7,22.9,49.5,14,12,14,Pre-Harvest,DELAY
+21,52.4,17.1,26.9,16,7,14,Fruit Set,DELAY
+6.2,65.5,22.3,38.4,3,13,0,Harvest,DELAY
+19.3,72.5,7.1,80.2,20,0,21,Delayed Dormancy,DELAY
+24.9,40.6,29.2,26.4,20,14,21,Post-Harvest,DELAY
+32.4,65.4,16.5,47.5,20,15,21,Dormancy,DELAY
+12.4,74.7,11.1,97.3,20,15,21,Dormancy,DELAY
+10,30.7,12.3,10,2,9,14,Fruit Development-II,SKIP
+34.2,27.1,13,37.9,15,5,14,Petal Fall,DELAY
+19.7,94.7,11,88.9,20,7,14,Fruit Set,DELAY
+32.7,81.8,21.7,28.1,11,8,14,Fruit Development-I,DELAY
+36.7,74.1,27.6,48.4,20,14,21,Post-Harvest,DELAY
+3.5,31.9,22.1,51.1,13,3,14,Pink Bud,DELAY
+27.5,74.5,20,51.1,12,5,14,Petal Fall,DELAY
+11.7,63.1,13.6,88.9,14,11,14,Fruit Development-IV,DELAY
+19.1,43.6,14.7,33,16,7,14,Fruit Set,DELAY
+12.3,85.1,5.9,63,13,13,0,Harvest,DELAY
+34.3,86.9,20.3,45.5,0,13,0,Harvest,DELAY
+24.4,50.7,0.8,7.4,20,14,21,Post-Harvest,SPRAY
+16.2,27.4,26.8,29.5,15,5,14,Petal Fall,DELAY
+37.3,76.9,26,54.2,14,1,14,Green Tip,DELAY
+27.2,81.8,23.5,34.4,13,12,14,Pre-Harvest,DELAY
+34.4,64.7,14.3,37.1,20,0,21,Delayed Dormancy,DELAY
+24.5,65.2,19.1,35.4,17,6,14,Fruitlet,DELAY
+33.7,30.5,20.6,36.7,16,12,14,Pre-Harvest,DELAY
+21.5,38.9,20.2,34.4,9,4,10,Flowering,DELAY
+22,39.7,10.8,20.3,8,5,14,Petal Fall,SPRAY
+32.3,41.9,20.1,28.7,17,3,14,Pink Bud,DELAY
+22.6,25.3,17.4,32.1,16,3,14,Pink Bud,DELAY
+23.7,57.6,30.7,3.9,17,7,14,Fruit Set,DELAY
+21.8,62.9,5.1,2.7,6,7,14,Fruit Set,SPRAY
+18.5,35.2,2.4,1.7,17,13,0,Harvest,SPRAY
+20.7,50.7,16.2,40,14,12,14,Pre-Harvest,DELAY
+36.1,72.6,18.7,29.9,20,14,21,Post-Harvest,DELAY
+18.5,87.9,20.2,40.9,12,4,10,Flowering,DELAY
+3.2,35.2,20.9,52.7,11,6,14,Fruitlet,DELAY
+21.6,26.6,26.5,10.4,11,13,0,Harvest,DELAY
+25.8,35.7,6.5,1.1,17,9,14,Fruit Development-II,SPRAY
+-5,72.2,5.8,16,18,9,14,Fruit Development-II,SKIP
+30.1,55.9,23.5,43.2,18,14,21,Post-Harvest,DELAY
+26,34.7,23.6,27.7,20,14,21,Post-Harvest,DELAY
+38.1,64.2,9,24.2,0,13,0,Harvest,SKIP
+6.5,61.4,15.1,43.6,15,9,14,Fruit Development-II,DELAY
+20.8,73.8,20,25.6,16,1,14,Green Tip,DELAY
+11.9,38.4,25.3,50.2,15,5,14,Petal Fall,DELAY
+22.4,46.1,0.6,24.1,0,14,21,Post-Harvest,SKIP
+16.9,80.9,17.1,32.7,11,10,14,Fruit Development-III,DELAY
+12.3,36.9,24.3,29.6,14,3,14,Pink Bud,DELAY
+13,53.5,28,2.8,15,5,14,Petal Fall,DELAY
+11.3,86.2,26.4,26.6,1,13,0,Harvest,DELAY
+29.1,50,13.8,26.8,14,7,14,Fruit Set,DELAY
+18.1,39.3,9.7,5.9,19,13,0,Harvest,SPRAY
+23.3,35,8,12.5,10,3,14,Pink Bud,SPRAY
+7.1,60.1,14.7,32.4,14,6,14,Fruitlet,DELAY
+1.7,20,13.1,13.5,20,14,21,Post-Harvest,SPRAY
+32.3,38.8,25.5,33.4,12,12,14,Pre-Harvest,DELAY
+39.7,72.7,3,14.1,20,2,14,Tight Cluster,SKIP
+36,66.3,27.7,46.2,13,10,14,Fruit Development-III,DELAY
+13.6,38.7,27.3,34.9,16,7,14,Fruit Set,DELAY
+2.1,56,26.4,45.2,10,4,10,Flowering,DELAY
+21.4,76.2,22.4,27.3,18,15,21,Dormancy,DELAY
+14.7,77.8,25.2,35.7,18,14,21,Post-Harvest,DELAY
+29.6,42.8,27.2,0.6,20,0,21,Delayed Dormancy,DELAY
+22.8,62.3,3.1,27.4,5,11,14,Fruit Development-IV,SPRAY
+13.6,37.8,11.5,11.1,4,1,14,Green Tip,SPRAY
+23.5,77.6,9.6,79.1,20,15,21,Dormancy,DELAY
+6.6,85.7,25.7,51.4,12,4,10,Flowering,DELAY
+29.8,57.7,5.9,5.6,19,8,14,Fruit Development-I,SPRAY
+-0.5,71.2,4.5,23.6,20,14,21,Post-Harvest,SKIP
+19.3,44.5,10.6,24.7,3,8,14,Fruit Development-I,SKIP
+38.6,31.7,1.1,16,14,1,14,Green Tip,SKIP
+17.3,29.8,16,29.9,13,7,14,Fruit Set,DELAY
+5.5,56.2,24.9,42.8,16,2,14,Tight Cluster,DELAY
+10.9,55.8,27.3,50,17,10,14,Fruit Development-III,DELAY
+10.5,29.7,21.6,38.2,11,10,14,Fruit Development-III,DELAY
+5.1,28.9,12.5,34.4,20,14,21,Post-Harvest,DELAY
+4.2,77.2,12.9,43.3,14,2,14,Tight Cluster,DELAY
+21.2,41.8,4.2,2.1,18,2,14,Tight Cluster,SPRAY
+30.3,65.6,19.3,38.9,14,7,14,Fruit Set,DELAY
+19.1,43.1,2.1,2.3,19,3,14,Pink Bud,SPRAY
+32.3,83.8,14,40.3,13,2,14,Tight Cluster,DELAY
+24.4,37.1,14.2,26.3,1,13,0,Harvest,DELAY
+20.5,67.4,17.7,42.5,15,9,14,Fruit Development-II,DELAY
+22.3,36.6,34.7,14.5,20,4,10,Flowering,DELAY
+27,52.4,0.8,9.6,1,4,10,Flowering,SKIP
+14.3,68.4,23.1,54.5,15,6,14,Fruitlet,DELAY
+22.4,46.8,16.8,34.9,11,10,14,Fruit Development-III,DELAY
+34.8,57.2,26.7,44.2,20,14,21,Post-Harvest,DELAY
+9.7,56.2,24.3,49.4,17,7,14,Fruit Set,DELAY
+27.2,55.3,0.1,69.2,18,12,14,Pre-Harvest,DELAY
+39.2,22.6,0.4,5.5,15,3,14,Pink Bud,SKIP
+27.9,47.1,20.9,30.4,11,7,14,Fruit Set,DELAY
+34.8,26.4,22.8,36.4,17,5,14,Petal Fall,DELAY
+15.7,64.6,11.3,83.7,18,3,14,Pink Bud,DELAY
+4.4,34.4,26.8,48.8,1,13,0,Harvest,DELAY
+13.4,52.9,22.2,52.6,17,12,14,Pre-Harvest,DELAY
+12.6,34.7,16,43.9,13,6,14,Fruitlet,DELAY
+36.9,82.6,15.3,27.4,10,4,10,Flowering,DELAY
+39.3,49.9,6.5,9,16,2,14,Tight Cluster,SKIP
+19.8,42.4,18.4,52.6,20,15,21,Dormancy,DELAY
+18.9,64.4,3.1,72.4,17,1,14,Green Tip,DELAY
+15.5,60.8,14.1,27.5,14,5,14,Petal Fall,DELAY
+19.3,54.8,4.7,10.3,18,11,14,Fruit Development-IV,SPRAY
+13.4,49.9,14.9,32,16,11,14,Fruit Development-IV,DELAY
+15.9,50.1,6,1.7,17,2,14,Tight Cluster,SPRAY
+17.2,51.8,3.7,14.9,17,7,14,Fruit Set,SPRAY
+29.7,80,15.1,43.1,12,9,14,Fruit Development-II,DELAY
+15.2,38.9,35,26.5,20,8,14,Fruit Development-I,DELAY
+20.5,74.5,14.4,36.9,18,0,21,Delayed Dormancy,DELAY
+20.6,76.1,24.1,46.7,14,6,14,Fruitlet,DELAY
+13.3,37.2,24.3,45.9,12,10,14,Fruit Development-III,DELAY
+22.1,49.4,21.2,28.9,20,14,21,Post-Harvest,DELAY
+25.7,48.1,15.6,37.8,19,0,21,Delayed Dormancy,DELAY
+21.4,31.3,1.5,21.5,17,9,14,Fruit Development-II,SPRAY
+9.4,50.4,20.6,30.7,11,12,14,Pre-Harvest,DELAY
+18.3,83.2,13.5,28.1,15,10,14,Fruit Development-III,DELAY
+19.7,37.5,1,27,4,5,14,Petal Fall,SPRAY
+10.5,32.3,7.3,4.8,6,6,14,Fruitlet,SPRAY
+12.6,46.7,8.2,8.6,16,12,14,Pre-Harvest,SPRAY
+13.2,78.2,22.6,29.8,11,4,10,Flowering,DELAY
+20.1,69.5,16.4,25.2,12,9,14,Fruit Development-II,DELAY
+38.5,74.6,12.3,12.9,20,14,21,Post-Harvest,SKIP
+39.7,43.5,11.5,23.8,17,2,14,Tight Cluster,SKIP
+25.1,48.3,12.8,5.1,9,7,14,Fruit Set,SPRAY
+14.8,64.8,3,13.8,17,3,14,Pink Bud,SPRAY
+28,39.1,19.9,54.8,15,2,14,Tight Cluster,DELAY
+4.8,31.8,24.3,34.8,14,3,14,Pink Bud,DELAY
+10,31.1,8.9,18.9,7,5,14,Petal Fall,SPRAY
+1,35,9.9,3.8,19,12,14,Pre-Harvest,SKIP
+4.5,60.6,15.9,53.5,18,14,21,Post-Harvest,DELAY
+32.3,36.1,12.3,28,19,15,21,Dormancy,DELAY
+16.1,30,24.2,45.3,12,3,14,Pink Bud,DELAY
+24.7,90.7,7.5,73.2,20,14,21,Post-Harvest,DELAY
+18.8,48.9,25.5,10.6,15,3,14,Pink Bud,DELAY
+13.4,55.6,0.4,52.7,20,7,14,Fruit Set,DELAY
+4.3,87.3,13.5,50.1,16,6,14,Fruitlet,DELAY
+3.6,58.3,25,34.7,16,5,14,Petal Fall,DELAY
+35.6,50.7,18.8,32,11,6,14,Fruitlet,DELAY
+18,42.6,4.3,10.1,15,11,14,Fruit Development-IV,SPRAY
+15.3,29.4,15.5,34,15,8,14,Fruit Development-I,DELAY
+5.7,59.9,27.8,50.5,18,15,21,Dormancy,DELAY
+23.6,88.8,23.1,45.3,17,8,14,Fruit Development-I,DELAY
+30.5,51.7,25.7,0.5,19,4,10,Flowering,DELAY
+20.1,83.2,0.2,53,20,14,21,Post-Harvest,DELAY
+0.3,28.3,7,5.7,17,9,14,Fruit Development-II,SKIP
+10.6,72.1,27.8,38.3,13,6,14,Fruitlet,DELAY
+20.4,69.1,7.1,6.3,11,4,10,Flowering,SPRAY
+13.9,40.7,20.6,52.2,16,7,14,Fruit Set,DELAY
+27.1,39.5,26,40.6,12,7,14,Fruit Set,DELAY
+4.3,57,27.3,26.6,18,14,21,Post-Harvest,DELAY
+22,88.2,13,63.3,14,6,14,Fruitlet,DELAY
+13.2,71.9,15.9,30.3,1,13,0,Harvest,DELAY
+38.4,24.8,13.6,11.2,15,9,14,Fruit Development-II,SPRAY
+20.2,72.8,24.2,49.6,19,15,21,Dormancy,DELAY
+17.4,30.4,26.5,34,20,0,21,Delayed Dormancy,DELAY
+8.3,49.7,16.9,33.5,11,4,10,Flowering,DELAY
+24.7,62.8,12.8,52.2,20,15,21,Dormancy,DELAY
+17,50.7,23.9,36.5,19,15,21,Dormancy,DELAY
+3.4,84.9,18.2,42,12,2,14,Tight Cluster,DELAY
+29.8,73.9,17.6,46.3,2,13,0,Harvest,DELAY
+35.4,72.8,15.9,26,17,1,14,Green Tip,DELAY
+26.4,70.3,22.3,32.8,14,11,14,Fruit Development-IV,DELAY
+21.7,56.5,2.3,3.3,0,4,10,Flowering,SKIP
+30.4,33.2,12.7,24.5,2,12,14,Pre-Harvest,SKIP
+20,46.3,33.9,16.4,13,13,0,Harvest,DELAY
+26.1,43.8,2,21,6,2,14,Tight Cluster,SPRAY
+27,55.1,1,85.4,18,9,14,Fruit Development-II,DELAY
+28.4,36.1,18,46.1,1,13,0,Harvest,DELAY
+19,62.6,2,1.3,20,15,21,Dormancy,SPRAY
+-1.9,72.1,2.3,8.2,17,6,14,Fruitlet,SKIP
+9.7,34.4,29.9,21.3,14,3,14,Pink Bud,DELAY
+23.3,61.6,0.5,4.6,15,1,14,Green Tip,SPRAY
+37.5,74.5,26.9,39.2,13,12,14,Pre-Harvest,DELAY
+31,57.7,34.4,18.6,12,13,0,Harvest,DELAY
+33.4,77.4,12,51.1,14,1,14,Green Tip,DELAY
+27.4,41.2,7.7,17.9,16,4,10,Flowering,SPRAY
+25.7,55.9,18.6,30.6,20,14,21,Post-Harvest,DELAY
+28.2,63.8,32.4,19,15,10,14,Fruit Development-III,DELAY
+24.1,30.3,18.8,52.9,19,15,21,Dormancy,DELAY
+12.6,37.7,14.3,40.6,15,3,14,Pink Bud,DELAY
+16,56.9,6,19.2,16,1,14,Green Tip,SPRAY
+19.4,60.1,15.9,30.1,20,14,21,Post-Harvest,DELAY
+13.2,67.2,9.9,16.9,16,2,14,Tight Cluster,SPRAY
+36.3,68.6,22.6,52.7,16,8,14,Fruit Development-I,DELAY
+28.2,62.3,32.7,16.8,20,15,21,Dormancy,DELAY
+28.7,72.1,22.5,48.6,17,12,14,Pre-Harvest,DELAY
+10,32.5,13.4,27.7,1,13,0,Harvest,DELAY
+6.6,45.4,18.1,47.1,13,3,14,Pink Bud,DELAY
+8.8,50.2,18.8,48.1,17,1,14,Green Tip,DELAY
+23.7,39.4,18.3,41.1,10,4,10,Flowering,DELAY
+27.4,45,29.6,16.8,15,10,14,Fruit Development-III,DELAY
+13.1,89.4,14,54.9,16,1,14,Green Tip,DELAY
+9.8,43.9,27.5,26.8,19,15,21,Dormancy,DELAY
+9.6,72.6,25,46,7,4,10,Flowering,DELAY
+28.2,44.4,25,52.4,12,5,14,Petal Fall,DELAY
+14.1,69.1,27.8,47.7,19,0,21,Delayed Dormancy,DELAY
+12.2,70.3,15.1,50.7,14,2,14,Tight Cluster,DELAY
+28,32.2,13.1,8.5,10,3,14,Pink Bud,SPRAY
+17.9,56.4,26.4,31.3,17,5,14,Petal Fall,DELAY
+2.3,72.2,21.2,45.3,17,6,14,Fruitlet,DELAY
+-0.2,25.8,13.6,5,10,4,10,Flowering,SKIP
+25.4,63.6,27.5,43.8,14,3,14,Pink Bud,DELAY
+17.7,67.1,8.3,60.3,19,7,14,Fruit Set,DELAY
+37.7,68.6,13.4,38.9,17,12,14,Pre-Harvest,DELAY
+-2.4,27.3,9,25.4,15,12,14,Pre-Harvest,SKIP
+37.5,56.2,23.1,27.8,20,0,21,Delayed Dormancy,DELAY
+38.3,23.8,12.7,22.3,15,5,14,Petal Fall,SPRAY
+2.7,61.1,20.6,49.4,14,12,14,Pre-Harvest,DELAY
+23,71.4,24.6,28.7,17,2,14,Tight Cluster,DELAY
+34.3,36.7,21.6,30.4,15,6,14,Fruitlet,DELAY
+6.4,33.4,15.3,29.8,20,14,21,Post-Harvest,DELAY
+3.3,88.7,20.1,35.9,15,8,14,Fruit Development-I,DELAY
+36,25,16.8,53.4,15,5,14,Petal Fall,DELAY
+18,62.5,23.1,40.7,13,9,14,Fruit Development-II,DELAY
+25.9,27.9,12.6,29.3,17,6,14,Fruitlet,DELAY
+23.7,39,17.7,28.9,15,6,14,Fruitlet,DELAY
+14.7,51,26.6,12.8,8,13,0,Harvest,DELAY
+7.2,38.2,22.1,33.1,1,13,0,Harvest,DELAY
+25.3,58.2,14.6,49.6,13,11,14,Fruit Development-IV,DELAY
+14.4,40.8,7.4,19.2,1,13,0,Harvest,SPRAY
+17.3,43.3,3,19.1,16,2,14,Tight Cluster,SPRAY
+1.9,67,1.7,14.7,16,8,14,Fruit Development-I,SPRAY
+24.4,59.6,30.5,17,20,15,21,Dormancy,DELAY
+39.6,48.6,1.8,0.3,18,5,14,Petal Fall,SKIP
+7.1,61.9,16.3,52.6,12,4,10,Flowering,DELAY
+11,64.6,23.3,30.5,13,11,14,Fruit Development-IV,DELAY
+11.9,52.8,27.1,51.4,18,14,21,Post-Harvest,DELAY
+5.1,44.9,24.3,50.4,16,9,14,Fruit Development-II,DELAY
+29.8,61.6,0.8,87.7,18,2,14,Tight Cluster,DELAY
+2.4,86.6,22.8,53,18,15,21,Dormancy,DELAY
+26.7,69,20.5,28.7,18,15,21,Dormancy,DELAY
+28.9,71.4,23.2,47.5,12,6,14,Fruitlet,DELAY
+36.7,68.8,26.1,40.7,12,1,14,Green Tip,DELAY
+20.3,93.1,5.9,70.2,16,5,14,Petal Fall,DELAY
+27.3,89,12,65.9,17,3,14,Pink Bud,DELAY
+24.8,52.8,2.4,6.7,20,9,14,Fruit Development-II,SPRAY
+34.1,80.1,12.9,25.2,14,1,14,Green Tip,DELAY
+10.1,65.6,2,7.8,15,10,14,Fruit Development-III,SPRAY
+5.1,58.4,14.5,28.7,3,13,0,Harvest,DELAY
+14,40.8,28,12,20,0,21,Delayed Dormancy,DELAY
+-0.4,41.2,6.1,10.1,20,8,14,Fruit Development-I,SKIP
+9.9,40.8,32.4,25.2,15,6,14,Fruitlet,DELAY
+36.5,88.9,13.9,39.7,14,6,14,Fruitlet,DELAY
+39.8,27.9,13.4,22.2,12,4,10,Flowering,SKIP
+25.3,39.5,7.5,7.5,20,4,10,Flowering,SPRAY
+12.4,56.6,24.2,32.4,18,0,21,Delayed Dormancy,DELAY
+27.3,69.8,2.7,18.1,16,5,14,Petal Fall,SPRAY
+31.2,70.6,20,30.4,20,15,21,Dormancy,DELAY
+17.8,66,2.7,59,10,4,10,Flowering,DELAY
+17.6,51,7.7,21.6,16,6,14,Fruitlet,SPRAY
+4.2,52.8,12.8,28.3,13,10,14,Fruit Development-III,DELAY
+27.6,41.1,26.3,30.5,11,8,14,Fruit Development-I,DELAY
+13.6,43.5,16.5,43.2,14,1,14,Green Tip,DELAY
+-2.5,60.1,9.6,21.6,15,5,14,Petal Fall,SKIP
+25.3,48.6,31,6.7,16,10,14,Fruit Development-III,DELAY
+5.1,31.9,22.1,43.1,11,6,14,Fruitlet,DELAY
+38.1,38.1,6.6,21.3,18,6,14,Fruitlet,SPRAY
+18.2,83.5,12.5,88.4,18,4,10,Flowering,DELAY
+18.1,71.6,26.6,27,14,11,14,Fruit Development-IV,DELAY
+24.3,30.2,25.5,15.9,20,0,21,Delayed Dormancy,DELAY
+21.2,58.4,13.2,38.1,15,12,14,Pre-Harvest,DELAY
+16,64.5,15.3,25.1,15,12,14,Pre-Harvest,DELAY
+2.3,85.4,20.2,40.1,16,6,14,Fruitlet,DELAY
+15.5,65.7,1.7,62.7,18,8,14,Fruit Development-I,DELAY
+29.7,66.1,1.9,93.9,14,7,14,Fruit Set,DELAY
+9.6,32.6,22.4,44,13,7,14,Fruit Set,DELAY
+14.8,35.3,12.6,8.3,0,10,14,Fruit Development-III,SKIP
+9.9,87.7,14.8,54.1,20,0,21,Delayed Dormancy,DELAY
+26.8,86.5,16.1,43.8,15,3,14,Pink Bud,DELAY
+9.9,42.5,21.3,49.2,17,6,14,Fruitlet,DELAY
+25.1,72.4,2.1,75,17,12,14,Pre-Harvest,DELAY
+31.4,36.4,21.1,53.3,12,5,14,Petal Fall,DELAY
+28.5,87.7,9.6,61,15,9,14,Fruit Development-II,DELAY
+18.4,66.9,18.4,46.7,12,2,14,Tight Cluster,DELAY
+15.6,26.3,25.2,47.9,20,0,21,Delayed Dormancy,DELAY
+15.4,67.5,6.6,17.4,15,1,14,Green Tip,SPRAY
+31.5,80.4,13.4,29.2,17,3,14,Pink Bud,DELAY
+13.1,56.1,15.9,41.3,19,14,21,Post-Harvest,DELAY
+12.1,41.9,5.6,18.4,16,3,14,Pink Bud,SPRAY
+2.9,52.8,14.4,44.7,18,0,21,Delayed Dormancy,DELAY
+27.7,83.6,19.9,54.7,12,12,14,Pre-Harvest,DELAY
+12.1,30,17.3,35.8,11,3,14,Pink Bud,DELAY
+8.4,59.5,21.6,45.4,12,1,14,Green Tip,DELAY
+12.3,81.9,16.3,40,13,9,14,Fruit Development-II,DELAY
+27.6,30,12,53,12,8,14,Fruit Development-I,DELAY
+39.6,68.9,1.6,12,14,4,10,Flowering,SKIP
+13,70.4,4.5,72.3,16,4,10,Flowering,DELAY
+17.4,77,7.5,75.6,18,10,14,Fruit Development-III,DELAY
+24.7,51.1,10.9,22.7,3,7,14,Fruit Set,SKIP
+14.1,64,4,10.4,16,2,14,Tight Cluster,SPRAY
+16.9,59,32.8,3.9,17,3,14,Pink Bud,DELAY
+21.9,85.5,18.7,31.3,8,4,10,Flowering,DELAY
+6.2,70.2,14.3,47,16,1,14,Green Tip,DELAY
+23.3,33,9.2,19.2,1,13,0,Harvest,SPRAY
+14.9,30.5,9.1,9.2,13,4,10,Flowering,SPRAY
+28.9,70.4,16.8,37.3,19,15,21,Dormancy,DELAY
+27,43.6,14.5,51.4,18,14,21,Post-Harvest,DELAY
+2.4,79.1,22.9,51.3,15,5,14,Petal Fall,DELAY
+20.1,71.1,18.8,29.7,11,8,14,Fruit Development-I,DELAY
+6.5,38.8,21.9,31.6,12,12,14,Pre-Harvest,DELAY
+18.9,45.4,22.3,49.8,12,2,14,Tight Cluster,DELAY
+25.3,37.7,13.7,27.3,15,1,14,Green Tip,DELAY
+12.6,29.3,27.1,0.3,16,10,14,Fruit Development-III,DELAY
+25,27.1,16.3,54.3,15,6,14,Fruitlet,DELAY
+30.4,28,17,53.3,11,1,14,Green Tip,DELAY
+36.5,57.5,17,36.7,13,11,14,Fruit Development-IV,DELAY
+5.5,51.5,23.9,28,13,4,10,Flowering,DELAY
+-1.7,37.4,2.1,13,20,4,10,Flowering,SKIP
+10.3,39,22.9,29.2,16,2,14,Tight Cluster,DELAY
+20.1,89.5,21.7,40.7,17,5,14,Petal Fall,DELAY
+6.7,43.9,22,53.2,11,10,14,Fruit Development-III,DELAY
+22.4,68.3,7.9,27.8,1,12,14,Pre-Harvest,SKIP
+21,63.8,32.8,2.4,20,0,21,Delayed Dormancy,DELAY
+12.6,36.2,28.6,2.5,20,14,21,Post-Harvest,DELAY
+39.5,59,2,3.5,20,14,21,Post-Harvest,SKIP
+17.8,59.3,34.2,3.6,16,1,14,Green Tip,DELAY
+-1.5,57.2,9,20.7,15,10,14,Fruit Development-III,SKIP
+15.8,36.3,4.4,1.6,20,0,21,Delayed Dormancy,SPRAY
+14.6,55.5,20.6,49.5,18,14,21,Post-Harvest,DELAY
+28.3,66.9,8.5,4.4,17,2,14,Tight Cluster,SPRAY
+19.7,58.1,6.7,7.8,0,2,14,Tight Cluster,SKIP
+7.2,38.9,21.1,54.6,13,4,10,Flowering,DELAY
+26.4,64.1,27.1,5.9,14,12,14,Pre-Harvest,DELAY
+10.8,57.8,5.7,66.3,14,13,0,Harvest,DELAY
+26.1,41.9,25.3,27.8,3,13,0,Harvest,DELAY
+12.7,37.9,27.1,39.4,15,10,14,Fruit Development-III,DELAY
+17.7,84.3,21.1,49.7,15,5,14,Petal Fall,DELAY
+22.6,42.9,13.8,26.3,5,6,14,Fruitlet,DELAY
+39,26.8,13.6,11.4,20,0,21,Delayed Dormancy,SKIP
+32.9,66.2,22.2,42.4,18,14,21,Post-Harvest,DELAY
+8.8,70.3,24.4,43,12,6,14,Fruitlet,DELAY
+30.4,78.1,0.2,91.1,14,11,14,Fruit Development-IV,DELAY
+20.1,81.4,23.2,44.5,14,9,14,Fruit Development-II,DELAY
+14.7,60.3,20.4,48,0,13,0,Harvest,DELAY
+15.4,60.9,14.6,38.1,13,5,14,Petal Fall,DELAY
+27.3,86,26.5,28,0,13,0,Harvest,DELAY
+22.3,46.5,5.5,16.5,19,3,14,Pink Bud,SPRAY
+20.1,77.4,22.7,50.6,12,3,14,Pink Bud,DELAY
+21.9,32.4,25.7,53.5,13,7,14,Fruit Set,DELAY
+31.5,70.7,23.9,25.2,19,14,21,Post-Harvest,DELAY
+11.6,67.8,16.9,52.1,14,7,14,Fruit Set,DELAY
+38.1,70.4,7.3,20.8,16,7,14,Fruit Set,SPRAY
+30.8,39.7,13.6,5.4,10,10,14,Fruit Development-III,SPRAY
+30.8,62.6,14.1,44.1,16,12,14,Pre-Harvest,DELAY
+13.5,35.3,15.7,46.3,12,5,14,Petal Fall,DELAY
+30.2,79.8,22,32.8,15,3,14,Pink Bud,DELAY
+9.3,31.1,19,43.9,15,5,14,Petal Fall,DELAY
+29.3,33.2,5.4,20.8,1,4,10,Flowering,SKIP
+30,37.1,22.4,31.7,18,14,21,Post-Harvest,DELAY
+31.1,49.6,16.2,26.6,11,7,14,Fruit Set,DELAY
+25,62.7,13.7,38.8,11,4,10,Flowering,DELAY
+14.8,32.2,25.8,23.6,20,3,14,Pink Bud,DELAY
+38.8,77.6,1.1,19.2,17,6,14,Fruitlet,SKIP
+18.2,35.5,16.8,52.1,16,10,14,Fruit Development-III,DELAY
+30.9,44.4,31.1,15.3,15,1,14,Green Tip,DELAY
+8.9,26.9,12.4,40.4,12,8,14,Fruit Development-I,DELAY
+6.1,39.1,17.2,31.6,16,6,14,Fruitlet,DELAY
+38.2,48,11.3,12.2,16,4,10,Flowering,SPRAY
+24.1,90.5,3.9,70.9,18,6,14,Fruitlet,DELAY
+30,74.5,12.4,72.3,19,9,14,Fruit Development-II,DELAY
+24.4,64.5,18.9,42,13,8,14,Fruit Development-I,DELAY
+34,87.3,16,37.3,15,2,14,Tight Cluster,DELAY
+13.6,42.9,8.7,7.9,15,11,14,Fruit Development-IV,SPRAY
+15.4,75.7,14,34.6,11,6,14,Fruitlet,DELAY
+26.5,65.9,7.9,10.8,9,10,14,Fruit Development-III,SPRAY
+5.7,43.1,21.7,51.5,17,6,14,Fruitlet,DELAY
+25.3,69.3,19,49.4,12,2,14,Tight Cluster,DELAY
+40,27.2,6.3,16.8,18,6,14,Fruitlet,SKIP
+15.7,55.7,9.4,21.7,18,12,14,Pre-Harvest,SPRAY
+-4.7,40.2,0.2,13.2,20,9,14,Fruit Development-II,SKIP
+11.9,74,18.4,41.7,2,13,0,Harvest,DELAY
+16.2,70.3,19.3,50.5,18,15,21,Dormancy,DELAY
+5.7,39.6,25.2,29.2,13,11,14,Fruit Development-IV,DELAY
+13.8,66.1,4.1,19.9,1,13,0,Harvest,SPRAY
+12.2,67.9,0.8,7.2,19,1,14,Green Tip,SPRAY
+29.3,78.3,1.7,67.3,15,12,14,Pre-Harvest,DELAY
+26.1,58.9,15.8,39.3,3,13,0,Harvest,DELAY
+38.5,62.7,4.9,23.4,15,8,14,Fruit Development-I,SPRAY
+4.7,57.1,15.4,45.1,14,6,14,Fruitlet,DELAY
+16.8,62.6,8.4,11.3,17,12,14,Pre-Harvest,SPRAY
+25.6,80.1,13.7,28.9,13,9,14,Fruit Development-II,DELAY
+33.2,58.4,24.5,30.6,13,12,14,Pre-Harvest,DELAY
+29.9,48.1,26,12.9,3,13,0,Harvest,DELAY
+38.1,41.1,1.7,15.4,16,3,14,Pink Bud,SPRAY
+-1.5,46.5,5.2,1.4,12,13,0,Harvest,SKIP
+17.9,78.8,7.4,75.7,13,13,0,Harvest,DELAY
+25.3,87.3,15.5,26.6,11,3,14,Pink Bud,DELAY
+11.2,39.1,8.7,20,6,8,14,Fruit Development-I,SPRAY
+19.9,31.8,27,17.8,19,12,14,Pre-Harvest,DELAY
+5.4,57.7,23.2,39.3,13,9,14,Fruit Development-II,DELAY
+13.3,43.3,5,21.2,20,7,14,Fruit Set,SPRAY
+2.7,88.3,26.1,30.1,18,15,21,Dormancy,DELAY
+23,56.7,16,28.3,17,11,14,Fruit Development-IV,DELAY
+37.7,79.3,20.4,30,18,0,21,Delayed Dormancy,DELAY
+19,54.4,34.9,7.2,17,3,14,Pink Bud,DELAY
+26.6,42,3.7,11.4,20,8,14,Fruit Development-I,SPRAY
+25,30.8,13.7,24,4,15,21,Dormancy,SKIP
+10.8,73.2,27.6,35.8,16,11,14,Fruit Development-IV,DELAY
+39.9,79.2,12.3,4.9,19,2,14,Tight Cluster,SKIP
+16.1,52.1,27.9,34.3,11,11,14,Fruit Development-IV,DELAY
+6.4,76.7,21.1,48.8,13,10,14,Fruit Development-III,DELAY
+20,57.4,5.1,3.3,17,9,14,Fruit Development-II,SPRAY
+10.4,36.8,29.5,6.1,20,5,14,Petal Fall,DELAY
+9.1,39.1,33.3,1.4,15,3,14,Pink Bud,DELAY
+30.3,57.6,27.3,41.8,11,11,14,Fruit Development-IV,DELAY
+18.5,91.7,4.1,53.5,16,8,14,Fruit Development-I,DELAY
+24.9,52.5,27.5,27.9,13,7,14,Fruit Set,DELAY
+8.2,53.3,26,49.1,12,9,14,Fruit Development-II,DELAY
+-1.1,37.8,13,12.9,15,6,14,Fruitlet,SKIP
+32,31.2,20.4,45.8,15,12,14,Pre-Harvest,DELAY
+17.4,52.3,18.6,25.8,15,11,14,Fruit Development-IV,DELAY
+17.2,74.1,21.8,34.1,18,0,21,Delayed Dormancy,DELAY
+28.8,65.1,0.7,23.7,2,11,14,Fruit Development-IV,SKIP
+18.7,74.6,20.3,50.2,11,12,14,Pre-Harvest,DELAY
+16.7,33.9,3.2,10.6,17,1,14,Green Tip,SPRAY
+23.8,59.6,0.7,5.7,2,1,14,Green Tip,SKIP
+15.6,67.4,13.8,52.3,20,15,21,Dormancy,DELAY
+13.1,65.2,5.7,5.4,15,6,14,Fruitlet,SPRAY
+18.8,32.2,1.7,11.3,5,15,21,Dormancy,SKIP
+21.7,78.4,22.9,50.8,15,7,14,Fruit Set,DELAY
+24.9,37,25.1,44.7,12,3,14,Pink Bud,DELAY
+12.4,68.4,27.3,39.8,16,6,14,Fruitlet,DELAY
+19.3,62.5,1.6,6.2,15,8,14,Fruit Development-I,SPRAY
+9.7,51,31.6,12.4,16,12,14,Pre-Harvest,DELAY
+28,43,27.7,35.7,13,4,10,Flowering,DELAY
+17.6,32.5,9.2,9.9,9,6,14,Fruitlet,SPRAY
+32.9,34.1,24.6,44.8,14,10,14,Fruit Development-III,DELAY
+25.2,49.5,19.5,44.8,15,2,14,Tight Cluster,DELAY
+22,48.2,30.8,23.2,14,8,14,Fruit Development-I,DELAY
+14.1,81.6,7,84.6,16,1,14,Green Tip,DELAY
+31.1,72.6,15.8,52,12,7,14,Fruit Set,DELAY
+17.1,29.2,21.8,28.4,17,12,14,Pre-Harvest,DELAY
+15.5,66,12.5,30.2,11,2,14,Tight Cluster,DELAY
+21.2,37.8,6.9,19,7,14,21,Post-Harvest,SPRAY
+17.6,59.4,24.6,27.6,11,6,14,Fruitlet,DELAY
+28.7,69.4,5.7,78.2,14,3,14,Pink Bud,DELAY
+19.9,63.3,8,13.3,5,10,14,Fruit Development-III,SPRAY
+22.1,34,13.1,37.8,14,11,14,Fruit Development-IV,DELAY
+6.6,58.6,13.6,40,11,2,14,Tight Cluster,DELAY
+29.3,35.1,32,1.9,20,10,14,Fruit Development-III,DELAY
+4.7,62.4,25.7,53,15,5,14,Petal Fall,DELAY
+20.9,65.7,6.4,20.6,17,9,14,Fruit Development-II,SPRAY
+-3.2,28.4,7.7,20.5,20,0,21,Delayed Dormancy,SKIP
+31,61.7,21.8,50.1,17,7,14,Fruit Set,DELAY
+29,53.9,6.7,1.8,19,1,14,Green Tip,SPRAY
+11.7,27.7,12.6,40.2,20,15,21,Dormancy,DELAY
+12.9,80.2,27.5,25.6,11,11,14,Fruit Development-IV,DELAY
+31.2,59.7,25.8,45.5,20,0,21,Delayed Dormancy,DELAY
+3.9,74.8,23.1,37.9,19,0,21,Delayed Dormancy,DELAY
+27.9,69.3,4,4.3,17,4,10,Flowering,SPRAY
+21.8,39.1,8.2,19.5,19,1,14,Green Tip,SPRAY
+2.5,71.8,25,27.3,12,1,14,Green Tip,DELAY
+16.3,54.1,9.8,22,20,14,21,Post-Harvest,SPRAY
+6.4,30,16,41.3,14,12,14,Pre-Harvest,DELAY
+32.9,53.8,16.8,36,15,11,14,Fruit Development-IV,DELAY
+10.8,83,17.1,41.2,11,9,14,Fruit Development-II,DELAY
+39.2,24.7,12.8,23.6,18,1,14,Green Tip,SKIP
+13.6,44.9,11.4,4,3,7,14,Fruit Set,SKIP
+18.3,32.4,20,26,19,14,21,Post-Harvest,DELAY
+11.2,64.2,4.2,0.4,18,12,14,Pre-Harvest,SPRAY
+10.1,49.7,22.6,41,16,12,14,Pre-Harvest,DELAY
+29.6,61.4,32.5,9.4,20,9,14,Fruit Development-II,DELAY
+23.3,74.2,17.5,49.9,14,8,14,Fruit Development-I,DELAY
+35.4,73.9,24.9,41.6,2,13,0,Harvest,DELAY
+27.9,75,16.2,53.8,19,14,21,Post-Harvest,DELAY
+15.6,57.3,3,22,19,7,14,Fruit Set,SPRAY
+38.5,59.6,11,22.7,18,9,14,Fruit Development-II,SPRAY
+23.5,63.4,11.9,12.4,0,0,21,Delayed Dormancy,SKIP
+29.3,49.2,9.3,4.8,20,14,21,Post-Harvest,SPRAY
+21.1,68.1,6.2,7.2,4,2,14,Tight Cluster,SPRAY
+6.6,66,14.4,43.5,11,8,14,Fruit Development-I,DELAY
+13.7,50.3,4.8,7,19,7,14,Fruit Set,SPRAY
+30.5,25.6,33.4,23.8,18,7,14,Fruit Set,DELAY
+14.6,30,19.1,40.3,12,1,14,Green Tip,DELAY
+27.2,52.2,25.7,11.9,16,6,14,Fruitlet,DELAY
+26.3,43.4,5.7,18.3,3,4,10,Flowering,SPRAY
+7.8,27.9,26.9,52.4,11,9,14,Fruit Development-II,DELAY
+31.1,58.2,24.5,40.2,15,3,14,Pink Bud,DELAY
+15.6,62.9,22.5,29.5,17,11,14,Fruit Development-IV,DELAY
+36.5,89.5,21,54.9,16,2,14,Tight Cluster,DELAY
+6.4,82.1,24.8,43.2,3,13,0,Harvest,DELAY
+15.4,39.8,3.4,21.5,5,10,14,Fruit Development-III,SPRAY
+28.9,32.5,15.9,47,14,7,14,Fruit Set,DELAY
+20.1,66.6,9.1,16.9,7,11,14,Fruit Development-IV,SPRAY
+29.4,64.8,12.7,84.4,4,13,0,Harvest,DELAY
+14.3,32.7,18.5,40.2,12,8,14,Fruit Development-I,DELAY
+29.8,83.5,26,25.5,18,15,21,Dormancy,DELAY
+24.7,48.8,1.4,24.3,1,13,0,Harvest,SPRAY
+37.6,33.6,25.9,52.6,19,0,21,Delayed Dormancy,DELAY
+14.3,41.7,4.7,23.1,5,11,14,Fruit Development-IV,SPRAY
+3.6,73,17.7,38.5,14,3,14,Pink Bud,DELAY
+17.7,74.2,23.2,47,20,14,21,Post-Harvest,DELAY
+21.9,44.8,7.1,8.3,18,2,14,Tight Cluster,SPRAY
+23.2,86.4,13.6,33.9,13,5,14,Petal Fall,DELAY
+34.3,62.7,25.5,37.8,13,1,14,Green Tip,DELAY
+30,56.7,13.2,94.4,19,12,14,Pre-Harvest,DELAY
+12,82.2,17,35.4,12,6,14,Fruitlet,DELAY
+39.8,76.4,3.6,17,14,3,14,Pink Bud,SKIP
+7.1,38.4,25.4,47.6,11,7,14,Fruit Set,DELAY
+21.4,76.9,12.1,50,11,1,14,Green Tip,DELAY
+18.4,47.8,1.8,12.7,1,11,14,Fruit Development-IV,SKIP
+17.6,42.1,25.8,54.8,16,3,14,Pink Bud,DELAY
+30.9,73.4,15.6,27.2,12,3,14,Pink Bud,DELAY
+23.8,33,9.6,25,0,10,14,Fruit Development-III,SKIP
+16,63.7,9.3,24.6,0,13,0,Harvest,SPRAY
+17.3,67.7,9.4,7.4,4,0,21,Delayed Dormancy,SKIP
+28.4,43.4,15.2,51.3,20,15,21,Dormancy,DELAY
+19.8,54.4,7.8,0.9,20,6,14,Fruitlet,SPRAY
+24.7,40.3,17.6,40.9,12,8,14,Fruit Development-I,DELAY
+33.5,68.4,19.8,43.9,15,9,14,Fruit Development-II,DELAY
+12.6,39.2,27.4,51.9,17,11,14,Fruit Development-IV,DELAY
+18.1,41.1,18.8,30.3,13,9,14,Fruit Development-II,DELAY
+39.5,70.4,12.1,16.8,19,3,14,Pink Bud,SKIP
+20.2,60.6,32.8,1.7,20,7,14,Fruit Set,DELAY
+18,57.4,29.3,7.3,14,10,14,Fruit Development-III,DELAY
+9.9,66.4,12.7,38.4,12,8,14,Fruit Development-I,DELAY
+30.1,32.2,27.5,43.3,12,5,14,Petal Fall,DELAY
+2.8,49.6,24.5,35,19,0,21,Delayed Dormancy,DELAY
+20.7,48.5,15.2,29.7,15,2,14,Tight Cluster,DELAY
+10.3,77.1,26.6,34.9,12,12,14,Pre-Harvest,DELAY
+3.3,26.3,27,28.1,14,7,14,Fruit Set,DELAY
+15.6,34.2,32.7,6.9,20,15,21,Dormancy,DELAY
+15.6,51,25.1,51.3,17,3,14,Pink Bud,DELAY
+24.9,60.5,5.8,0.4,8,2,14,Tight Cluster,SPRAY
+26.4,37.8,8.5,8.7,2,4,10,Flowering,SKIP
+2.8,42.8,15.2,32.9,3,13,0,Harvest,DELAY
+14.4,46.3,3.1,6.3,20,12,14,Pre-Harvest,SPRAY
+0.1,47.1,8.1,0.7,20,7,14,Fruit Set,SKIP
+19.2,32.1,17,29.3,16,7,14,Fruit Set,DELAY
+13.6,92.7,8.3,56,17,2,14,Tight Cluster,DELAY
+32.2,74.4,12.9,39.8,19,15,21,Dormancy,DELAY
+32,27.4,23,43,17,9,14,Fruit Development-II,DELAY
+25.6,86.8,7.6,67,20,0,21,Delayed Dormancy,DELAY
+19.4,61.1,23.8,47,11,10,14,Fruit Development-III,DELAY
+15.5,74.2,14.6,47.4,1,13,0,Harvest,DELAY
+37,27.5,18.8,30.1,17,6,14,Fruitlet,DELAY
+18.2,30.4,1.6,27.9,8,15,21,Dormancy,SPRAY
+15.4,67.3,14.3,40.7,12,10,14,Fruit Development-III,DELAY
+11,55.1,27,52.8,16,11,14,Fruit Development-IV,DELAY
+-4.9,48.2,13.9,0.2,13,4,10,Flowering,SKIP
+21.4,46.5,13,39.1,12,6,14,Fruitlet,DELAY
+28.4,43.8,0.2,5.4,4,2,14,Tight Cluster,SPRAY
+13,65.6,18.5,32.6,1,13,0,Harvest,DELAY
+5.7,39.1,14.9,41.9,12,2,14,Tight Cluster,DELAY
+22.3,68.7,10.3,17.2,7,12,14,Pre-Harvest,SPRAY
+30.8,58.7,11.2,59,15,6,14,Fruitlet,DELAY
+13.6,83.2,12.8,40.4,19,15,21,Dormancy,DELAY
+13.8,57.5,13.9,41.8,3,13,0,Harvest,DELAY
+14.8,79.5,17.1,27.3,15,12,14,Pre-Harvest,DELAY
+36,79.2,23.4,50.2,15,6,14,Fruitlet,DELAY
+30.4,69.5,20.9,38.1,19,14,21,Post-Harvest,DELAY
+27.8,55.8,28.5,11.9,18,5,14,Petal Fall,DELAY
+29.5,94.8,2.7,69.3,15,6,14,Fruitlet,DELAY
+13.8,84.2,26.7,40.1,18,0,21,Delayed Dormancy,DELAY
+23.1,40.9,35,19.7,16,8,14,Fruit Development-I,DELAY
+31.6,81.1,26.8,54.9,16,1,14,Green Tip,DELAY
+19,81.9,24,49.2,18,14,21,Post-Harvest,DELAY
+24.5,62.1,11.9,56,20,11,14,Fruit Development-IV,DELAY
+16.3,64.3,3.1,18.8,20,3,14,Pink Bud,SPRAY
+28.8,31.8,34.9,20.2,20,0,21,Delayed Dormancy,DELAY
+16.5,79.5,22.7,26.9,20,0,21,Delayed Dormancy,DELAY
+5,53.8,16.4,31,11,4,10,Flowering,DELAY
+16.2,52.4,1.3,10.3,3,13,0,Harvest,SPRAY
+13.7,33.5,3.5,13.8,20,14,21,Post-Harvest,SPRAY
+9.8,49.3,13.3,46.7,12,5,14,Petal Fall,DELAY
+25.1,83.6,15.1,47.7,12,9,14,Fruit Development-II,DELAY
+12.9,30.6,28.2,6.3,15,9,14,Fruit Development-II,DELAY
+8.4,44.2,23.2,32.9,14,8,14,Fruit Development-I,DELAY
+14.6,66.7,19.2,43.9,17,11,14,Fruit Development-IV,DELAY
+17.5,51.5,2.9,19.7,5,5,14,Petal Fall,SPRAY
+21.1,59.7,3.8,14.4,3,9,14,Fruit Development-II,SKIP
+9.7,29.6,31.6,5.2,15,8,14,Fruit Development-I,DELAY
+15.4,49.6,21.4,26,20,14,21,Post-Harvest,DELAY
+33.3,25.5,18.7,35,16,3,14,Pink Bud,DELAY
+15.7,43.7,26.9,0.6,20,3,14,Pink Bud,DELAY
+27,72.5,19.6,32.3,20,14,21,Post-Harvest,DELAY
+19.4,51.1,12.6,52.9,12,11,14,Fruit Development-IV,DELAY
+29.9,87,18.4,25.9,15,3,14,Pink Bud,DELAY
+33.9,87.7,27.1,31,15,5,14,Petal Fall,DELAY
+26.3,27.2,25.9,22.2,12,4,10,Flowering,DELAY
+8,25.1,14.4,51.5,13,11,14,Fruit Development-IV,DELAY
+27.9,72.5,10.1,59.4,18,9,14,Fruit Development-II,DELAY
+16.6,73.8,9.6,85.5,17,11,14,Fruit Development-IV,DELAY
+27.4,74.6,13.5,28.9,17,12,14,Pre-Harvest,DELAY
+28.8,57.8,32.3,11.9,16,4,10,Flowering,DELAY
+9.6,65.4,2.5,6.6,5,2,14,Tight Cluster,SPRAY
+2.1,63.9,18.4,27.3,12,10,14,Fruit Development-III,DELAY
+3.6,44.6,13.5,36.5,8,4,10,Flowering,DELAY
+17.5,57.9,25.3,26.8,13,13,0,Harvest,DELAY
+27.4,48.6,1.2,19.2,1,5,14,Petal Fall,SKIP
+2.4,45.7,21.2,36.5,14,12,14,Pre-Harvest,DELAY
+36.6,51.1,24.3,34.1,19,0,21,Delayed Dormancy,DELAY
+30.9,54.3,18,39.2,13,3,14,Pink Bud,DELAY
+30.6,76.3,5.4,84.4,15,11,14,Fruit Development-IV,DELAY
+14.7,50.6,8.6,24.4,13,0,21,Delayed Dormancy,SPRAY
+3.4,81.4,19.4,26.5,15,1,14,Green Tip,DELAY
+23.8,55.7,25.2,7.5,16,11,14,Fruit Development-IV,DELAY
+18.1,44.3,12.6,28.4,16,11,14,Fruit Development-IV,DELAY
+16.3,36.4,20.6,28.8,12,1,14,Green Tip,DELAY
+11.9,88.2,23,32.3,20,15,21,Dormancy,DELAY
+17.2,30.9,34.8,17.9,20,14,21,Post-Harvest,DELAY
+28.1,47,22.2,34.1,14,12,14,Pre-Harvest,DELAY
+24.9,54.7,25.8,25.5,20,0,21,Delayed Dormancy,DELAY
+37.8,65,20.6,48.8,16,6,14,Fruitlet,DELAY
+39.9,64.8,10.9,7.8,19,1,14,Green Tip,SKIP
+34.8,69.1,16.4,37.2,11,1,14,Green Tip,DELAY
+11.9,55.1,24.6,44,0,13,0,Harvest,DELAY
+13.9,49.5,32.3,17.1,17,7,14,Fruit Set,DELAY
+13.8,50.3,26.9,25.4,2,13,0,Harvest,DELAY
+39.7,32.6,9.8,18.8,16,10,14,Fruit Development-III,SKIP
+30.3,55.3,7.9,9.7,3,12,14,Pre-Harvest,SKIP
+18.9,43.7,26.6,16.4,18,11,14,Fruit Development-IV,DELAY
+17,74.7,24,33.5,16,11,14,Fruit Development-IV,DELAY
+15.5,59.9,18.1,53.5,18,15,21,Dormancy,DELAY
+30.8,77.8,2.5,59.6,20,3,14,Pink Bud,DELAY
+14.7,39.2,26.4,33.4,17,12,14,Pre-Harvest,DELAY
+25.9,69.6,22.1,44.1,15,11,14,Fruit Development-IV,DELAY
+38.9,29.4,12.2,11.2,14,12,14,Pre-Harvest,SKIP
+25.6,69.4,13.6,42.4,14,10,14,Fruit Development-III,DELAY
+24.9,65.2,14.2,43.6,0,13,0,Harvest,DELAY
+13.7,41.2,21.1,39.2,0,13,0,Harvest,DELAY
+28.4,56.2,7.7,24.2,2,11,14,Fruit Development-IV,SKIP
+12.9,92.5,12.9,67.5,20,14,21,Post-Harvest,DELAY
+9.5,55,15.9,43.1,12,2,14,Tight Cluster,DELAY
+20,32.2,21.7,34.9,12,5,14,Petal Fall,DELAY
+36.6,25.4,12.5,45.3,17,7,14,Fruit Set,DELAY
+4.5,52.1,16.2,46.5,18,15,21,Dormancy,DELAY
+31.8,28.9,25,49.8,20,0,21,Delayed Dormancy,DELAY
+22.8,47.6,11,2.9,4,1,14,Green Tip,SPRAY
+15.2,67.7,14.3,32.3,14,3,14,Pink Bud,DELAY
+23.1,28,34,13.8,15,6,14,Fruitlet,DELAY
+38.9,54.1,8.3,21.3,15,8,14,Fruit Development-I,SKIP
+21.4,53.6,28.1,20,18,9,14,Fruit Development-II,DELAY
+17.8,44.2,23.9,45.9,12,9,14,Fruit Development-II,DELAY
+11.3,39.8,25.6,42.5,12,9,14,Fruit Development-II,DELAY
+25.4,69.8,5.7,17.3,5,0,21,Delayed Dormancy,SKIP
+23.1,57.6,20.4,36.3,14,11,14,Fruit Development-IV,DELAY
+19.4,56.5,18.1,45.1,11,5,14,Petal Fall,DELAY
+13.9,66.1,10.9,89.9,19,10,14,Fruit Development-III,DELAY
+-1,70.4,11.8,21.9,18,6,14,Fruitlet,SKIP
+15.1,27.1,22,53.6,15,7,14,Fruit Set,DELAY
+27.6,51.5,1.1,22.3,7,2,14,Tight Cluster,SPRAY
+24.2,81,3.4,85.1,17,7,14,Fruit Set,DELAY
+14.8,41.1,10.4,20.5,1,5,14,Petal Fall,SKIP
+4.2,39.8,21.4,42.4,10,4,10,Flowering,DELAY
+30.1,45.7,22.1,30.9,11,3,14,Pink Bud,DELAY
+11.2,78.6,8.4,66.4,20,14,21,Post-Harvest,DELAY
+6,82.6,24.4,30.8,3,13,0,Harvest,DELAY
+-0.8,39.7,6.8,7.9,20,0,21,Delayed Dormancy,SKIP
+11,42.9,21,34.3,14,8,14,Fruit Development-I,DELAY
+36,56.7,17.1,54.2,14,3,14,Pink Bud,DELAY
+25.2,56.9,1,19,20,15,21,Dormancy,SPRAY
+25.3,38.5,5.5,7,19,5,14,Petal Fall,SPRAY
+29.4,33.4,31.7,9.1,20,15,21,Dormancy,DELAY
+32.7,64.7,14.5,53.7,14,12,14,Pre-Harvest,DELAY
+11.7,85.6,19.6,50.7,2,13,0,Harvest,DELAY
+25,58.2,28.2,8.6,18,11,14,Fruit Development-IV,DELAY
+2.2,86.1,12.9,37.3,16,12,14,Pre-Harvest,DELAY
+29.6,26.3,23.3,31.3,12,4,10,Flowering,DELAY
+9.5,42.1,28.8,15.6,19,8,14,Fruit Development-I,DELAY
+24.2,53.6,16.4,27.2,12,6,14,Fruitlet,DELAY
+35.9,63.5,27.2,53.4,17,10,14,Fruit Development-III,DELAY
+34.7,56.7,16.5,43.2,14,12,14,Pre-Harvest,DELAY
+15.1,39.8,34.2,3.1,15,1,14,Green Tip,DELAY
+39.7,54.4,7.9,12.3,16,2,14,Tight Cluster,SKIP
+31.4,69.8,14.2,48.1,17,8,14,Fruit Development-I,DELAY
+15,75.2,24,31.4,13,10,14,Fruit Development-III,DELAY
+16.3,52.1,32,7.2,20,14,21,Post-Harvest,DELAY
+-2,69.9,0.8,27.7,15,4,10,Flowering,SKIP
+37.8,87.4,26,34.8,20,0,21,Delayed Dormancy,DELAY
+23,54.4,30.7,27.3,20,15,21,Dormancy,DELAY
+32.5,30.7,26.8,43.3,12,5,14,Petal Fall,DELAY
+17.5,43,19.2,51.4,16,2,14,Tight Cluster,DELAY
+4.6,67.1,17.4,40.8,12,4,10,Flowering,DELAY
+16.5,44.1,22,36.7,0,13,0,Harvest,DELAY
+14.7,63.9,9.4,67.7,17,7,14,Fruit Set,DELAY
+22.7,48.1,26.1,51,12,6,14,Fruitlet,DELAY
+9.4,36.8,12.4,43.1,17,6,14,Fruitlet,DELAY
+21.4,87.1,17.2,34.5,12,1,14,Green Tip,DELAY
+18.3,65.8,13.1,62.4,16,6,14,Fruitlet,DELAY
+-4.1,46.6,10.4,20.7,20,0,21,Delayed Dormancy,SKIP
+16.4,38.4,18.1,49.4,11,1,14,Green Tip,DELAY
+22.8,58.6,14.6,31.3,14,5,14,Petal Fall,DELAY
+13.4,37.4,27.8,49,13,11,14,Fruit Development-IV,DELAY
+28.9,30.6,4.2,9.2,20,15,21,Dormancy,SPRAY
+27.4,42.4,33.5,8.4,19,11,14,Fruit Development-IV,DELAY
+31.2,81.9,12.3,53.9,16,2,14,Tight Cluster,DELAY
+12.9,55.4,7.3,58.7,17,10,14,Fruit Development-III,DELAY
+28.1,81.4,5.2,71.9,15,1,14,Green Tip,DELAY
+30.2,59.7,11.3,5.1,0,13,0,Harvest,SPRAY
+15.7,80,12.7,64.7,16,5,14,Petal Fall,DELAY
+13.9,82.8,12.5,51.2,19,0,21,Delayed Dormancy,DELAY
+29.5,72,14.7,28,13,1,14,Green Tip,DELAY
+12.2,49,10.8,18.8,19,7,14,Fruit Set,SPRAY
+26.8,30,6.7,25.2,8,14,21,Post-Harvest,SPRAY
+17,54.5,10,13.4,5,4,10,Flowering,SPRAY
+11.9,67.7,3.2,2.3,1,6,14,Fruitlet,SKIP
+11.3,39,2.6,18.5,5,12,14,Pre-Harvest,SPRAY
+20.7,62.5,26.1,47.8,18,14,21,Post-Harvest,DELAY
+25.8,62.7,27,26,17,10,14,Fruit Development-III,DELAY
+30.6,88.7,12.2,44,17,12,14,Pre-Harvest,DELAY
+9.3,44.2,33.6,5.3,20,7,14,Fruit Set,DELAY
+9.7,65.4,20.7,28.5,13,12,14,Pre-Harvest,DELAY
+14.6,87.3,6.8,78.3,19,10,14,Fruit Development-III,DELAY
+14.3,58.7,13,36,16,3,14,Pink Bud,DELAY
+6.5,39.8,19.3,28.3,20,0,21,Delayed Dormancy,DELAY
+15.8,42.4,34.8,2.3,20,9,14,Fruit Development-II,DELAY
+13.3,63.6,3.1,0.5,5,5,14,Petal Fall,SPRAY
+21.1,28.1,20.5,41.2,12,4,10,Flowering,DELAY
+23.6,55.4,9.4,5,20,5,14,Petal Fall,SPRAY
+36.4,52.6,15.2,26.5,10,4,10,Flowering,DELAY
+30.4,65.7,6.6,3.8,4,9,14,Fruit Development-II,SPRAY
+23.7,38.4,10.3,16.6,2,0,21,Delayed Dormancy,SKIP
+7.1,56.3,14.6,54.2,12,1,14,Green Tip,DELAY
+25.3,50.4,15.1,50,11,12,14,Pre-Harvest,DELAY
+11.9,83,14,47.2,16,7,14,Fruit Set,DELAY
+23.8,85.4,0.2,57.6,14,4,10,Flowering,DELAY
+23.5,40.1,19,49.7,15,3,14,Pink Bud,DELAY
+28.3,63,25.4,23.5,20,14,21,Post-Harvest,DELAY
+17.3,35.9,23.4,51,14,3,14,Pink Bud,DELAY
+11.8,59.3,10.6,19,16,9,14,Fruit Development-II,SPRAY
+36.7,52.4,22.2,51,19,15,21,Dormancy,DELAY
+25,46.4,22.7,32.5,13,8,14,Fruit Development-I,DELAY
+39,59.9,1.5,21.9,19,2,14,Tight Cluster,SKIP
+32.1,49.4,20.3,52.8,19,15,21,Dormancy,DELAY
+23.3,76.6,27.3,42.3,11,1,14,Green Tip,DELAY
+18.3,45.7,10.4,9.7,7,7,14,Fruit Set,SPRAY
+20.8,86.1,25,43.8,19,14,21,Post-Harvest,DELAY
+9.5,92.8,1.4,96.2,20,0,21,Delayed Dormancy,DELAY
+11.1,78.2,17.5,54.2,18,14,21,Post-Harvest,DELAY
+3.7,54.8,27.9,32.9,17,8,14,Fruit Development-I,DELAY
+23.3,59.6,10.5,21.9,2,5,14,Petal Fall,SKIP
+14,65.1,23.8,50.1,18,15,21,Dormancy,DELAY
+5.6,71.9,22.2,34.4,14,10,14,Fruit Development-III,DELAY
+9.3,80.6,19.8,35.1,14,5,14,Petal Fall,DELAY
+36.5,46,13.8,42.5,15,11,14,Fruit Development-IV,DELAY
+21.4,50.9,23.1,31,11,9,14,Fruit Development-II,DELAY
+7.2,47.1,17.7,29,14,12,14,Pre-Harvest,DELAY
+28.5,82,24.8,43.4,11,3,14,Pink Bud,DELAY
+17.9,27.7,20.8,45,13,10,14,Fruit Development-III,DELAY
+32,88.9,15.9,31.8,20,0,21,Delayed Dormancy,DELAY
+14.4,25.8,31.1,23.5,17,6,14,Fruitlet,DELAY
+32.5,62.8,22,51.7,14,6,14,Fruitlet,DELAY
+37.3,77.2,16.2,36.1,12,8,14,Fruit Development-I,DELAY
+4.8,70.1,17.1,49.8,16,10,14,Fruit Development-III,DELAY
+22.8,31.3,26.7,54.6,16,7,14,Fruit Set,DELAY
+5.8,78.7,15.6,35.5,20,15,21,Dormancy,DELAY
+22.7,28.5,21.9,39.9,14,7,14,Fruit Set,DELAY
+8.2,61.4,20.9,26.7,13,2,14,Tight Cluster,DELAY
+7.3,69.3,13,46.6,20,15,21,Dormancy,DELAY
+28.2,71.4,19.9,46.1,12,8,14,Fruit Development-I,DELAY
+39.4,39.8,8,24.5,17,12,14,Pre-Harvest,SKIP
+37.3,63.1,25.8,54.1,7,4,10,Flowering,DELAY
+29.9,29.6,13,37.4,12,11,14,Fruit Development-IV,DELAY
+26,69.6,11.7,0.8,7,6,14,Fruitlet,SPRAY
+28.9,53,10.4,8.5,18,3,14,Pink Bud,SPRAY
+7,47.3,13.5,35.7,16,12,14,Pre-Harvest,DELAY
+20,37,18.4,31.8,0,13,0,Harvest,DELAY
+5.4,41.8,26.1,26.8,15,10,14,Fruit Development-III,DELAY
+5.4,25.1,27.8,25.4,13,1,14,Green Tip,DELAY
+21.4,64.4,13.4,5.3,9,12,14,Pre-Harvest,SPRAY
+30.5,58.9,9.6,59.4,20,15,21,Dormancy,DELAY
+27.4,82.2,14.8,29.5,17,5,14,Petal Fall,DELAY
+28.7,65.5,8.7,2.6,20,14,21,Post-Harvest,SPRAY
+22,61.7,1.4,61.3,15,9,14,Fruit Development-II,DELAY
+35.4,60.6,18.2,38.4,11,10,14,Fruit Development-III,DELAY
+12.1,63.4,29.9,22.2,14,2,14,Tight Cluster,DELAY
+0.7,70.9,1.3,18.3,18,11,14,Fruit Development-IV,SKIP
+25.2,43.4,14.2,47.9,13,12,14,Pre-Harvest,DELAY
+15.6,56.9,19.9,34.6,3,13,0,Harvest,DELAY
+26,53,30.3,1.2,14,12,14,Pre-Harvest,DELAY
+28.9,62.1,14.8,34.4,11,9,14,Fruit Development-II,DELAY
+17.5,39.1,30.4,23.1,20,0,21,Delayed Dormancy,DELAY
+26.5,27.9,15.4,38.7,12,5,14,Petal Fall,DELAY
+4.6,38.2,15.3,44.2,11,7,14,Fruit Set,DELAY
+9.4,69.8,26.8,25.1,12,1,14,Green Tip,DELAY
+37.5,78.7,17.9,50.1,11,10,14,Fruit Development-III,DELAY
+22.7,65.3,12.9,84.7,20,4,10,Flowering,DELAY
+18,25.4,33.2,10.6,20,9,14,Fruit Development-II,DELAY
+19.6,64,22,36.9,16,6,14,Fruitlet,DELAY
+10.6,59.6,2.2,90,20,14,21,Post-Harvest,DELAY
+8,73.1,27.3,46.5,16,5,14,Petal Fall,DELAY
+15.3,47.8,26.1,3.3,20,12,14,Pre-Harvest,DELAY
+22,57.4,14,54.9,14,6,14,Fruitlet,DELAY
+9.8,70.5,1.2,85.3,20,15,21,Dormancy,DELAY
+15.4,73,19.1,48.1,16,7,14,Fruit Set,DELAY
+28.1,27.8,12.2,29.6,17,6,14,Fruitlet,DELAY
+14.6,38,22.3,36.7,12,8,14,Fruit Development-I,DELAY
+10.1,65.8,17.4,46.6,11,9,14,Fruit Development-II,DELAY
+22.2,66.5,2.3,78.3,20,14,21,Post-Harvest,DELAY
+18.2,51.4,6.8,3.7,17,1,14,Green Tip,SPRAY
+23.7,30.2,0,1.3,18,11,14,Fruit Development-IV,SPRAY
+29.4,27.3,20.7,25.6,17,3,14,Pink Bud,DELAY
+25.2,43.4,21.9,38.5,20,15,21,Dormancy,DELAY
+24.1,47.4,27.8,38.6,12,7,14,Fruit Set,DELAY
+15,34.4,22.2,30.2,19,14,21,Post-Harvest,DELAY
+15.3,26.4,24.9,29.3,14,8,14,Fruit Development-I,DELAY
+21.5,39.8,18.4,50.2,2,13,0,Harvest,DELAY
+17.2,52.2,23.7,38.3,14,6,14,Fruitlet,DELAY
+23.6,30.3,30.3,6.9,20,14,21,Post-Harvest,DELAY
+28.3,76,17.8,38.9,17,6,14,Fruitlet,DELAY
+13.7,30.7,26.1,18.3,9,13,0,Harvest,DELAY
+16.4,90.6,9.2,97,13,13,0,Harvest,DELAY
+2.9,38.4,21.1,30.2,16,5,14,Petal Fall,DELAY
+22.7,77.1,14.4,34.5,8,4,10,Flowering,DELAY
+19.5,64.7,24.2,40.9,12,4,10,Flowering,DELAY
+30.3,30.6,12.1,50.9,11,1,14,Green Tip,DELAY
+13.3,83.6,15.2,29.5,12,10,14,Fruit Development-III,DELAY
+15.1,84.1,21.3,49.8,14,9,14,Fruit Development-II,DELAY
+12.4,31.6,21,52,12,10,14,Fruit Development-III,DELAY
+21.2,65.2,14.5,41.6,14,5,14,Petal Fall,DELAY
+34.5,88.4,22.6,29.4,14,8,14,Fruit Development-I,DELAY
+6.9,49.8,18.1,30.1,11,3,14,Pink Bud,DELAY
+23.1,36.8,26.3,54.1,16,11,14,Fruit Development-IV,DELAY
+37.6,82.6,13.1,29,13,11,14,Fruit Development-IV,DELAY
+6,85.8,27.4,30.9,16,12,14,Pre-Harvest,DELAY
+17.1,69.3,5.4,13.7,19,10,14,Fruit Development-III,SPRAY
+15.1,41.4,20.2,54.5,0,13,0,Harvest,DELAY
+10.1,64.6,4.3,73.5,20,15,21,Dormancy,DELAY
+-0.4,27.8,13.7,17.5,19,10,14,Fruit Development-III,SKIP
+28.9,70.2,0.5,84.3,20,0,21,Delayed Dormancy,DELAY
+27.8,61.4,5.7,9.6,5,10,14,Fruit Development-III,SPRAY
+19.6,42.3,26.6,52.6,11,8,14,Fruit Development-I,DELAY
+34.2,26.5,14.1,47.9,12,10,14,Fruit Development-III,DELAY
+13.1,62.1,8.6,19,15,2,14,Tight Cluster,SPRAY
+14.3,84.1,13.1,42.5,19,0,21,Delayed Dormancy,DELAY
+5.8,32.9,23.3,31,16,10,14,Fruit Development-III,DELAY
+10.1,61.7,2.6,1.1,15,2,14,Tight Cluster,SPRAY
+13.2,62.7,9.9,13.9,2,12,14,Pre-Harvest,SKIP
+28,32.5,2.6,0.2,5,15,21,Dormancy,SKIP
+21.7,37.6,1.7,21.3,3,6,14,Fruitlet,SKIP
+29.2,39.8,18.3,50.1,13,5,14,Petal Fall,DELAY
+12.3,52.7,25.2,47.1,0,13,0,Harvest,DELAY
+10.4,57.5,4.8,87.2,18,8,14,Fruit Development-I,DELAY
+-4.9,39.1,10.8,25.6,19,13,0,Harvest,SKIP
+28.2,45.7,17.7,49.3,13,2,14,Tight Cluster,DELAY
+-2.8,33.7,2.4,19.3,20,15,21,Dormancy,SKIP
+13.7,76.8,27.1,37.1,19,14,21,Post-Harvest,DELAY
+-2.1,67.3,5.3,24.4,20,14,21,Post-Harvest,SKIP
+0.5,29.1,13.2,6.1,14,12,14,Pre-Harvest,SKIP
+11.8,37.9,20,29.7,17,12,14,Pre-Harvest,DELAY
+39,76.8,2.2,27.1,14,8,14,Fruit Development-I,SKIP
+4.4,46,19.6,33.7,12,11,14,Fruit Development-IV,DELAY
+17,25.8,16.9,29.8,20,15,21,Dormancy,DELAY
+17.4,32.9,14.1,33.5,16,9,14,Fruit Development-II,DELAY
+33.1,49,27.5,26.9,14,11,14,Fruit Development-IV,DELAY
+9.5,46.2,15.7,51.2,13,11,14,Fruit Development-IV,DELAY
+22,62.5,17.3,30.8,18,15,21,Dormancy,DELAY
+22.6,84.2,23.3,43.3,17,10,14,Fruit Development-III,DELAY
+18.9,26.3,20.2,27.9,17,7,14,Fruit Set,DELAY
+4.9,56.9,21.6,51.7,12,4,10,Flowering,DELAY
+39.6,62.7,5.1,21.8,17,8,14,Fruit Development-I,SKIP
+16.5,63,5.3,3.2,17,7,14,Fruit Set,SPRAY
+13.3,82.4,15.2,49.3,12,10,14,Fruit Development-III,DELAY
+24.7,37.8,8.8,6.2,18,3,14,Pink Bud,SPRAY
+32.7,44.4,15.3,33.9,0,13,0,Harvest,DELAY
+40,57.6,7.8,16.6,10,13,0,Harvest,SKIP
+18.4,37.9,21.7,33.5,15,3,14,Pink Bud,DELAY
+12.5,64.7,6.1,8.1,16,4,10,Flowering,SPRAY
+24.6,67,18.3,34.8,17,12,14,Pre-Harvest,DELAY
+13.7,74.2,12.6,40.4,16,1,14,Green Tip,DELAY
+35.4,34.1,13.6,29.9,12,4,10,Flowering,DELAY
+30.4,38.5,29.1,21,17,7,14,Fruit Set,DELAY
+20.9,66.7,18.3,29.6,17,12,14,Pre-Harvest,DELAY
+18.1,32.5,26.6,32.8,12,2,14,Tight Cluster,DELAY
+22.1,28.4,25.5,31.8,11,1,14,Green Tip,DELAY
+29.9,93.2,1.9,67.3,17,1,14,Green Tip,DELAY
+19.8,51.8,32,15.4,14,12,14,Pre-Harvest,DELAY
+9.5,62.9,12.1,46.1,15,6,14,Fruitlet,DELAY
+31.8,50.8,14.4,25.2,16,11,14,Fruit Development-IV,DELAY
+20.2,31.4,27,17,16,9,14,Fruit Development-II,DELAY
+17.6,51,29.5,12.5,19,6,14,Fruitlet,DELAY
+10.8,62.2,8.2,19.2,16,12,14,Pre-Harvest,SPRAY
+26.3,82.6,25.1,35.8,11,9,14,Fruit Development-II,DELAY
+33.8,41.4,20.2,34.3,12,7,14,Fruit Set,DELAY
+9.4,86.5,18.2,34.8,14,5,14,Petal Fall,DELAY
+19.3,63.8,24.7,45,12,5,14,Petal Fall,DELAY
+33.8,80.4,21.9,50.7,13,2,14,Tight Cluster,DELAY
+0.1,23.2,3,5.3,20,0,21,Delayed Dormancy,SKIP
+-0.4,73.9,4.2,7.4,20,11,14,Fruit Development-IV,SKIP
+27.6,67.3,1.9,2.5,20,6,14,Fruitlet,SPRAY
+33.9,70.2,16.4,25.7,15,7,14,Fruit Set,DELAY
+13.7,70.9,5.3,53.8,20,15,21,Dormancy,DELAY
+37,62.5,12.7,26.9,19,14,21,Post-Harvest,DELAY
+9.3,42.4,22.7,53.9,12,9,14,Fruit Development-II,DELAY
+31.2,89.7,12.7,41.9,17,7,14,Fruit Set,DELAY
+27.3,76.5,23.4,47.3,2,13,0,Harvest,DELAY
+19,43.9,26.6,18.4,16,11,14,Fruit Development-IV,DELAY
+18,48.2,28.7,27.5,14,4,10,Flowering,DELAY
+29.1,57.1,20.7,35.8,10,4,10,Flowering,DELAY
+33.9,46.6,17.7,39,17,2,14,Tight Cluster,DELAY
+14.4,84.7,27.7,29.4,13,5,14,Petal Fall,DELAY
+22.7,88.5,24.7,49.7,14,5,14,Petal Fall,DELAY
+33.7,89.4,20.7,40.6,15,2,14,Tight Cluster,DELAY
+23.6,36.6,3.2,19.9,10,0,21,Delayed Dormancy,SPRAY
+21.1,40.8,31.6,11,20,15,21,Dormancy,DELAY
+37.6,39.7,22.3,29.7,1,13,0,Harvest,DELAY
+36.9,77,19.9,52.5,20,0,21,Delayed Dormancy,DELAY
+-2.9,77.1,2.7,0.5,16,9,14,Fruit Development-II,SKIP
+11.3,48.1,1.3,20.8,20,3,14,Pink Bud,SPRAY
+15.6,45.5,2.9,12,9,12,14,Pre-Harvest,SPRAY
+23.4,69.1,27.6,40,19,15,21,Dormancy,DELAY
+1,45.4,8.2,24.7,20,0,21,Delayed Dormancy,SKIP
+38.2,52.6,1.2,20.3,20,0,21,Delayed Dormancy,SPRAY
+14.3,64.4,25.3,8.7,20,14,21,Post-Harvest,DELAY
+5.4,69.4,21.5,45.3,11,6,14,Fruitlet,DELAY
+19.2,82.9,5.4,96.4,20,14,21,Post-Harvest,DELAY
+27.1,56.9,26.4,33.8,12,8,14,Fruit Development-I,DELAY
+18.4,52.5,34.7,2.2,17,1,14,Green Tip,DELAY
+0.4,66.3,0.6,5.1,20,15,21,Dormancy,SKIP
+0.7,26.1,1.9,20.7,20,15,21,Dormancy,SKIP
+30.6,52.9,23.3,51.9,19,14,21,Post-Harvest,DELAY
+3.2,53.4,23.2,27,11,3,14,Pink Bud,DELAY
+25.9,55.9,20.1,32.3,12,8,14,Fruit Development-I,DELAY
+21.4,56.6,4.9,21.9,17,3,14,Pink Bud,SPRAY
+37,67.7,21.3,28.5,11,8,14,Fruit Development-I,DELAY
+11.9,53.1,25.1,1.7,20,7,14,Fruit Set,DELAY
+21.9,25.4,33.8,3.8,20,0,21,Delayed Dormancy,DELAY
+8.8,55.9,19.7,28,19,15,21,Dormancy,DELAY
+27.9,60.8,10.6,74.9,14,2,14,Tight Cluster,DELAY
+0.9,69.7,5.7,21.1,14,5,14,Petal Fall,SKIP
+3,68.7,26.9,36.7,15,10,14,Fruit Development-III,DELAY
+6.6,65,24.6,51.7,16,7,14,Fruit Set,DELAY
+15.3,60.9,6.1,0.9,1,5,14,Petal Fall,SKIP
+30,75.2,12.6,33.3,13,2,14,Tight Cluster,DELAY
+37.5,47.2,25.4,43.2,19,14,21,Post-Harvest,DELAY
+15.9,81.6,23,45.9,20,15,21,Dormancy,DELAY
+5.3,56.8,17.5,40.5,12,4,10,Flowering,DELAY
+29.6,60,30.9,6.4,16,2,14,Tight Cluster,DELAY
+14.5,44.9,25.2,40.5,14,7,14,Fruit Set,DELAY
+-0.3,68.1,9.6,5.3,19,8,14,Fruit Development-I,SKIP
+21.9,38.3,19.4,40.6,11,11,14,Fruit Development-IV,DELAY
+9.4,76.3,25.3,30.5,16,9,14,Fruit Development-II,DELAY
+38.5,52.2,2,17,20,15,21,Dormancy,SKIP
+31.3,89,12.1,30.7,13,3,14,Pink Bud,DELAY
+37.7,62.9,16.4,42,18,15,21,Dormancy,DELAY
+-0.6,48.6,5.4,3.3,15,8,14,Fruit Development-I,SKIP
+10.8,32.8,1.2,11.8,16,3,14,Pink Bud,SPRAY
+26.7,38.3,26.3,42,11,3,14,Pink Bud,DELAY
+24.8,41.4,3.4,6.2,9,3,14,Pink Bud,SPRAY
+14.7,40.4,12.4,42.5,17,8,14,Fruit Development-I,DELAY
+-3.6,25.5,10.4,27.4,16,7,14,Fruit Set,SKIP
+27.6,63.8,6.4,60,20,15,21,Dormancy,DELAY
+14.8,42.3,6.4,13.2,18,7,14,Fruit Set,SPRAY
+26.9,46.3,4.9,3.3,20,14,21,Post-Harvest,SPRAY
+13.5,51.9,29.4,24.5,16,12,14,Pre-Harvest,DELAY
+22.5,63.5,8.5,10.4,1,10,14,Fruit Development-III,SKIP
+38.6,36.4,10,25.2,17,12,14,Pre-Harvest,SKIP
+26.7,61.6,22.3,26.9,20,15,21,Dormancy,DELAY
+16.9,25.8,29.4,12.5,20,0,21,Delayed Dormancy,DELAY
+14.5,42.5,26.6,32.8,12,2,14,Tight Cluster,DELAY
+23.2,54,11.3,23.7,6,5,14,Petal Fall,SPRAY
+11,91.6,1.3,85.4,14,11,14,Fruit Development-IV,DELAY
+19,36.7,33.6,7.8,15,8,14,Fruit Development-I,DELAY
+8,29.3,25.9,43.6,15,7,14,Fruit Set,DELAY
+1.6,21,13.5,16.9,14,5,14,Petal Fall,SKIP
+11.7,75.9,20.5,48.4,15,2,14,Tight Cluster,DELAY
+7.5,85.6,15.9,25.3,17,11,14,Fruit Development-IV,DELAY
+20.5,26.3,20.1,26.7,12,5,14,Petal Fall,DELAY
+27.6,64.7,8.5,69.6,20,5,14,Petal Fall,DELAY
+18.4,71.2,23.4,29.9,15,8,14,Fruit Development-I,DELAY
+38.6,60.7,5.5,15.2,17,1,14,Green Tip,SKIP
+36,48,21.7,46.6,20,14,21,Post-Harvest,DELAY
+20.8,51.5,20.1,40,17,12,14,Pre-Harvest,DELAY
+30.9,63.7,1.6,25.3,6,1,14,Green Tip,SPRAY
+16.3,37.9,0.2,9.6,20,12,14,Pre-Harvest,SPRAY
+23.3,74.3,14.2,48.8,10,4,10,Flowering,DELAY
+28.9,65.1,5.6,86.2,16,7,14,Fruit Set,DELAY
+17,28.3,27.2,51.9,11,6,14,Fruitlet,DELAY
+19.2,40.5,31.5,12.1,18,9,14,Fruit Development-II,DELAY
+21.1,31.6,13.7,23.7,1,9,14,Fruit Development-II,SKIP
+29.3,31.6,34.9,4.1,19,11,14,Fruit Development-IV,DELAY
+13.8,50.8,0.3,11.3,9,8,14,Fruit Development-I,SPRAY
+15.3,27,30.2,3.5,20,14,21,Post-Harvest,DELAY
+20.5,68.3,20.8,47.5,20,15,21,Dormancy,DELAY
+7.5,78.6,17.3,46.4,16,2,14,Tight Cluster,DELAY
+11.1,70.4,5.5,54,16,8,14,Fruit Development-I,DELAY
+9,62,18.7,49.8,18,0,21,Delayed Dormancy,DELAY
+11.2,84.5,12,27,0,13,0,Harvest,DELAY
+30.3,39.2,26.6,30,16,8,14,Fruit Development-I,DELAY
+38.7,71,13.4,7.2,20,15,21,Dormancy,SKIP
+26,79.3,21.4,45.5,17,10,14,Fruit Development-III,DELAY
+18.7,40.9,10.3,6.6,20,7,14,Fruit Set,SPRAY
+15.6,64.5,1.5,4.1,3,12,14,Pre-Harvest,SKIP
+11,83.8,26.8,45.9,15,7,14,Fruit Set,DELAY
+16.4,61.8,16.8,32.3,15,11,14,Fruit Development-IV,DELAY
+25.9,75.4,26.8,26.7,19,15,21,Dormancy,DELAY
+38.7,27.1,3.3,24.6,15,13,0,Harvest,SKIP
+16.6,80.2,16.6,43.3,12,12,14,Pre-Harvest,DELAY
+22.1,59.1,26,2.3,19,10,14,Fruit Development-III,DELAY
+-1.6,79.5,0,5,20,0,21,Delayed Dormancy,SKIP
+15.2,69.6,25.2,35.7,15,9,14,Fruit Development-II,DELAY
+16.3,26.6,30.8,27.7,18,2,14,Tight Cluster,DELAY
+8.9,36,18.3,54.8,18,0,21,Delayed Dormancy,DELAY
+24.2,59.2,25.3,33.5,11,8,14,Fruit Development-I,DELAY
+11.4,66.8,23.2,27.9,20,14,21,Post-Harvest,DELAY
+3.2,80.4,22.6,45.8,17,7,14,Fruit Set,DELAY
+15.7,56.1,11.4,11.7,7,14,21,Post-Harvest,SPRAY
+9.6,55,23.3,26.1,11,9,14,Fruit Development-II,DELAY
+39.4,66.2,9.6,16.2,19,3,14,Pink Bud,SKIP
+6.4,66.9,27.1,41.6,20,15,21,Dormancy,DELAY
+9.6,55.8,12.5,29.7,12,9,14,Fruit Development-II,DELAY
+26.8,62.1,4.3,17.9,18,11,14,Fruit Development-IV,SPRAY
+33.1,54.2,25.1,47.4,16,12,14,Pre-Harvest,DELAY
+36.5,73.8,25.9,30.5,1,13,0,Harvest,DELAY
+19.5,89.2,14.4,51.5,12,8,14,Fruit Development-I,DELAY
+34.7,71.9,18.7,48.1,20,15,21,Dormancy,DELAY
+30.8,49.2,12,39.5,17,11,14,Fruit Development-IV,DELAY
+24,59.3,32.4,7.7,17,6,14,Fruitlet,DELAY
+36.2,77,19.3,46.6,15,6,14,Fruitlet,DELAY
+29.2,27.9,17.3,37.2,16,9,14,Fruit Development-II,DELAY
+33.6,85.4,26.6,43.3,12,2,14,Tight Cluster,DELAY
+10,42.2,26.3,50.6,17,10,14,Fruit Development-III,DELAY
+22.9,50.7,12.1,31.9,12,7,14,Fruit Set,DELAY
+18.6,68.3,8.8,6,20,14,21,Post-Harvest,SPRAY
+36.3,76.7,22.2,34.2,20,0,21,Delayed Dormancy,DELAY
+22.9,59.7,20.8,48.4,17,1,14,Green Tip,DELAY
+16,72.2,14.8,44.7,11,7,14,Fruit Set,DELAY
+29.8,55.8,1.8,88,8,13,0,Harvest,DELAY
+26.2,52,26.5,31.1,12,5,14,Petal Fall,DELAY
+15.8,46.7,30.5,1.9,15,11,14,Fruit Development-IV,DELAY
+2.1,40.6,24.5,48.8,13,3,14,Pink Bud,DELAY
+39,50.6,6.7,17.2,20,5,14,Petal Fall,SKIP
+17.1,45.5,2.1,20.8,20,2,14,Tight Cluster,SPRAY
+24.3,88,24.3,54.8,18,0,21,Delayed Dormancy,DELAY
+26.9,51.4,6.7,25.9,5,4,10,Flowering,SPRAY
+38.9,32.7,2.7,17.8,20,11,14,Fruit Development-IV,SKIP
+28.8,79.2,26.9,48.4,15,2,14,Tight Cluster,DELAY
+13.4,26.7,29.5,0.1,20,14,21,Post-Harvest,DELAY
+35.6,67.2,18.6,50.1,19,0,21,Delayed Dormancy,DELAY
+21.9,52.5,1.3,3,20,14,21,Post-Harvest,SPRAY
+25.7,55.5,2.7,11.8,18,10,14,Fruit Development-III,SPRAY
+11.1,42,10.6,3,17,9,14,Fruit Development-II,SPRAY
+12.1,80.2,27.7,54.3,13,12,14,Pre-Harvest,DELAY
+28.6,51.4,12.4,33.6,12,2,14,Tight Cluster,DELAY
+35.5,64.2,25.6,35.9,11,2,14,Tight Cluster,DELAY
+13.5,33,21.2,42.5,11,8,14,Fruit Development-I,DELAY
+27.5,47,30.4,24.1,20,7,14,Fruit Set,DELAY
+25.7,31.5,18.5,52.9,13,9,14,Fruit Development-II,DELAY
+14.9,27.1,25.7,26.6,18,13,0,Harvest,DELAY
+39.6,52.5,3.7,16.5,20,0,21,Delayed Dormancy,SKIP
+23.3,77.8,12.1,82.3,14,2,14,Tight Cluster,DELAY
+12.7,93.3,12.1,76.5,20,15,21,Dormancy,DELAY
+33.5,62.5,23.7,50.3,19,0,21,Delayed Dormancy,DELAY
+22.5,70.5,11.6,66,15,7,14,Fruit Set,DELAY
+16.8,62.6,16.3,43.5,11,12,14,Pre-Harvest,DELAY
+19.9,69.1,5.7,5.4,1,13,0,Harvest,SPRAY
+31.3,62.7,27.5,32.5,12,4,10,Flowering,DELAY
+25.4,84.3,9.6,58.4,15,1,14,Green Tip,DELAY
+22.7,67.4,23.5,49.9,11,8,14,Fruit Development-I,DELAY
+18.8,60.9,9.1,57.9,11,13,0,Harvest,DELAY
+15.6,58.7,16.4,44.9,17,10,14,Fruit Development-III,DELAY
+13.1,51.6,34.5,6.8,17,4,10,Flowering,DELAY
+11.1,53.2,14.5,48.4,17,8,14,Fruit Development-I,DELAY
+20.9,38.2,13.8,33.6,13,1,14,Green Tip,DELAY
+19.5,60.5,0.7,10,17,8,14,Fruit Development-I,SPRAY
+26.8,42.9,19.6,36.7,12,7,14,Fruit Set,DELAY
+9.4,64.4,6.8,62.5,20,15,21,Dormancy,DELAY
+20.5,52.6,27.7,18.4,20,3,14,Pink Bud,DELAY
+2.7,61.9,26.2,32.2,13,9,14,Fruit Development-II,DELAY
+29.3,68.4,20.9,43.4,17,8,14,Fruit Development-I,DELAY
+37.2,25.2,27.3,34.8,16,5,14,Petal Fall,DELAY
+2.1,37.6,13.7,34.2,3,13,0,Harvest,DELAY
+11.8,38,18.4,50.3,15,8,14,Fruit Development-I,DELAY
+39.8,22.7,4.7,13.2,15,11,14,Fruit Development-IV,SKIP
+17.5,61.6,23,28.1,12,10,14,Fruit Development-III,DELAY
+3.6,55.4,20.6,47.2,11,7,14,Fruit Set,DELAY
+9.9,38.9,17.9,26.1,18,14,21,Post-Harvest,DELAY
+23.1,60.6,33.9,2.6,7,13,0,Harvest,DELAY
+26.4,46.5,31.3,21.3,14,3,14,Pink Bud,DELAY
+21.5,67.7,23.1,25.2,19,15,21,Dormancy,DELAY
+33.9,31.5,20.1,31.9,15,6,14,Fruitlet,DELAY
+29.6,55.1,30.6,4.6,19,8,14,Fruit Development-I,DELAY
+22.6,68.4,15.1,49.7,12,3,14,Pink Bud,DELAY
+9.1,38.6,14.1,38.8,16,1,14,Green Tip,DELAY
+9.7,84,10.1,69.6,20,14,21,Post-Harvest,DELAY
+26.7,36.4,4.2,3.8,2,13,0,Harvest,SPRAY
+34.1,32.1,24.2,31.4,12,5,14,Petal Fall,DELAY
+24.4,61.6,10,86.3,16,13,0,Harvest,DELAY
+7.7,89.8,20.5,42,14,10,14,Fruit Development-III,DELAY
+-3,75.6,11.2,23.4,6,13,0,Harvest,SKIP
+19.2,33.6,8.1,22.3,2,12,14,Pre-Harvest,SKIP
+29.9,34.5,6.7,25.5,9,1,14,Green Tip,SPRAY
+20.9,64.3,1.8,95.6,18,4,10,Flowering,DELAY
+10.8,51,1.3,7.3,8,2,14,Tight Cluster,SPRAY
+3.6,56.9,25.4,29.2,13,4,10,Flowering,DELAY
+5.2,34.6,19.1,37.7,16,7,14,Fruit Set,DELAY
+13.6,35.7,16.4,50.4,11,2,14,Tight Cluster,DELAY
+30.1,75.4,23.1,50.9,16,1,14,Green Tip,DELAY
+25.7,87.3,8.2,56,20,0,21,Delayed Dormancy,DELAY
+5.5,75.9,20.6,36.1,20,15,21,Dormancy,DELAY
+37.6,45.3,22.8,48.8,20,0,21,Delayed Dormancy,DELAY
+11.4,30.5,25,43,15,9,14,Fruit Development-II,DELAY
+29,33.1,2.5,21.4,16,15,21,Dormancy,SPRAY
+-4.7,22.6,0.7,18.5,15,1,14,Green Tip,SKIP
+11,54,27.8,4.2,17,12,14,Pre-Harvest,DELAY
+26.5,75.5,13.9,69.7,14,3,14,Pink Bud,DELAY
+26.3,70,0.6,86.3,19,11,14,Fruit Development-IV,DELAY
+14.3,79.1,8.6,74.1,20,15,21,Dormancy,DELAY
+30,87,25.7,40.8,18,0,21,Delayed Dormancy,DELAY
+28.6,64.6,2.8,11.6,19,2,14,Tight Cluster,SPRAY
+30.2,50.8,30.5,13.3,20,0,21,Delayed Dormancy,DELAY
+20.6,57.6,3.7,59.4,14,6,14,Fruitlet,DELAY
+24.3,44.2,14.7,42.1,12,4,10,Flowering,DELAY
+7.7,40.8,18.7,46.5,13,9,14,Fruit Development-II,DELAY
+30.1,35.1,29.6,1.1,12,13,0,Harvest,DELAY
+24.7,35.2,27.1,36.2,13,9,14,Fruit Development-II,DELAY
+24.9,69.8,7.6,61,15,1,14,Green Tip,DELAY
+18.9,45,24.7,50.9,20,0,21,Delayed Dormancy,DELAY
+28.3,48.9,20.9,40,18,0,21,Delayed Dormancy,DELAY
+19.2,88.3,0.9,85,14,8,14,Fruit Development-I,DELAY
+4.1,80.4,15.8,52.5,12,9,14,Fruit Development-II,DELAY
+14.7,42.6,9.9,11.1,3,11,14,Fruit Development-IV,SKIP
+5.2,71.2,19.3,39,13,4,10,Flowering,DELAY
+23.8,37.9,21.5,43.9,12,3,14,Pink Bud,DELAY
+-0.5,72.9,12,20.3,20,15,21,Dormancy,SKIP
+13.8,50.3,19.4,40,19,15,21,Dormancy,DELAY
+13.6,56.1,11.3,80.1,20,0,21,Delayed Dormancy,DELAY
+27.4,76,0.2,85,10,13,0,Harvest,DELAY
+19.9,72.4,25.2,42.9,20,15,21,Dormancy,DELAY
+33.8,69.2,18.3,43.3,2,13,0,Harvest,DELAY
+4.7,64.2,24.9,51.1,12,4,10,Flowering,DELAY
+14,40.9,29.8,23.5,18,9,14,Fruit Development-II,DELAY
+16.7,36.1,23.6,53.2,11,4,10,Flowering,DELAY
+-3.1,25.5,13.1,19.5,14,4,10,Flowering,SKIP
+16.7,73.6,25.3,43.9,13,4,10,Flowering,DELAY
+-2,51.2,1.3,20.9,17,10,14,Fruit Development-III,SKIP
+36,81.9,12.9,51.5,19,0,21,Delayed Dormancy,DELAY
+10.9,64.8,0.4,4.3,7,12,14,Pre-Harvest,SPRAY
+11.2,62,3.1,95.1,16,2,14,Tight Cluster,DELAY
+20.3,36.9,21.2,39.6,17,1,14,Green Tip,DELAY
+22.2,83.7,21.9,54.5,19,15,21,Dormancy,DELAY
+3.5,40.7,26.3,25.1,15,9,14,Fruit Development-II,DELAY
+14.3,40.4,25.8,52.4,20,14,21,Post-Harvest,DELAY
+9.6,66.9,21.8,28.7,7,4,10,Flowering,DELAY
+27,64.4,12.8,36,15,11,14,Fruit Development-IV,DELAY
+12.3,36.8,12.3,54.9,13,2,14,Tight Cluster,DELAY
+23.5,62.2,27.1,37.6,15,5,14,Petal Fall,DELAY
+25.6,79,22.3,47.8,16,12,14,Pre-Harvest,DELAY
+15.5,51.4,5.1,10.8,7,14,21,Post-Harvest,SPRAY
+15.9,60.9,9.8,12.5,14,4,10,Flowering,SPRAY
+5.9,79.5,24.9,31.7,17,5,14,Petal Fall,DELAY
+17.5,61.7,27.4,26.6,11,4,10,Flowering,DELAY
+19,50.9,13.9,47.9,18,0,21,Delayed Dormancy,DELAY
+15.8,92.7,10.1,77,20,14,21,Post-Harvest,DELAY
+23.7,48.5,15.9,53.5,12,10,14,Fruit Development-III,DELAY
+37.3,78.8,26.4,53.8,20,0,21,Delayed Dormancy,DELAY
+34.5,61.8,18.9,25.9,17,3,14,Pink Bud,DELAY
+29.5,60.4,14.3,44.8,7,4,10,Flowering,DELAY
+14.4,66,26.8,31.5,15,12,14,Pre-Harvest,DELAY
+5.5,79,26.1,48,20,15,21,Dormancy,DELAY
+37.3,73.8,16,30.8,13,10,14,Fruit Development-III,DELAY
+10.7,76.8,17,40.3,16,12,14,Pre-Harvest,DELAY
+32,35.7,24,25,16,1,14,Green Tip,DELAY
+34.7,50.3,28,28.5,3,13,0,Harvest,DELAY
+26.9,68.4,13.6,93,14,6,14,Fruitlet,DELAY
+22.2,41.2,3.2,13.3,20,2,14,Tight Cluster,SPRAY
+0.4,72.3,13.3,18,19,10,14,Fruit Development-III,SKIP
+13.9,36.2,25.2,13.9,17,4,10,Flowering,DELAY
+24.3,48,1.5,8.9,18,9,14,Fruit Development-II,SPRAY
+14.4,61.1,13.5,51.2,12,4,10,Flowering,DELAY
+35.2,88.8,21,53,18,15,21,Dormancy,DELAY
+23.8,40.5,13.6,5.6,7,8,14,Fruit Development-I,SPRAY
+30,67.6,10,60.2,16,7,14,Fruit Set,DELAY
+29.4,48.6,2.9,27.9,2,12,14,Pre-Harvest,SKIP
+9,59.5,10.5,63.4,18,3,14,Pink Bud,DELAY
+40,27.3,3.1,2.1,19,10,14,Fruit Development-III,SKIP
+10.1,68.4,12.1,9,2,9,14,Fruit Development-II,SKIP
+29.5,33.8,3,21.9,16,12,14,Pre-Harvest,SPRAY
+27.3,40.9,30.3,26,20,14,21,Post-Harvest,DELAY
+8.1,37.1,12.2,29.8,18,15,21,Dormancy,DELAY
+23.2,78.8,13.6,30.8,20,15,21,Dormancy,DELAY
+16.5,63.2,11,19.2,1,13,0,Harvest,SPRAY
+33.2,40.1,25.2,32.3,11,7,14,Fruit Set,DELAY
+37.9,51.5,17.4,42.2,14,5,14,Petal Fall,DELAY
+27.3,60.4,22.2,37.1,18,0,21,Delayed Dormancy,DELAY
+4.2,81,19.9,52,20,14,21,Post-Harvest,DELAY
+2.6,74.7,18,29.3,12,4,10,Flowering,DELAY
+16.2,31.4,34.9,19,19,5,14,Petal Fall,DELAY
+20.9,42.9,26,7.4,18,11,14,Fruit Development-IV,DELAY
+20.8,75.1,14.8,54.5,8,4,10,Flowering,DELAY
+36.9,74.1,27.3,41.7,15,10,14,Fruit Development-III,DELAY
+22.4,41.6,7.7,0.5,2,8,14,Fruit Development-I,SKIP
+3.4,46.5,12.5,43.2,12,4,10,Flowering,DELAY
+21.5,88.4,21.6,45.7,15,7,14,Fruit Set,DELAY
+12.7,64.4,25.5,43.3,15,9,14,Fruit Development-II,DELAY
+12.2,54.4,20.7,38.7,17,2,14,Tight Cluster,DELAY
+17.9,48.2,14.9,51.9,14,1,14,Green Tip,DELAY
+20.9,93.9,2.6,96.8,20,14,21,Post-Harvest,DELAY
+29.3,32.5,6.9,21.4,18,8,14,Fruit Development-I,SPRAY
+27.9,78,6.1,75.9,20,15,21,Dormancy,DELAY
+13.3,69.8,0.5,18,2,4,10,Flowering,SKIP
+24,86.7,5.2,85.4,20,0,21,Delayed Dormancy,DELAY
+16,72.3,17.3,38.7,11,11,14,Fruit Development-IV,DELAY
+8,83.5,14.8,47.4,19,0,21,Delayed Dormancy,DELAY
+17.6,53.7,2.7,9.9,9,8,14,Fruit Development-I,SPRAY
+22.9,60.3,7.5,79.7,16,9,14,Fruit Development-II,DELAY
+10,86.1,20.7,52,15,12,14,Pre-Harvest,DELAY
+14.7,82.4,12.8,61,20,3,14,Pink Bud,DELAY
+35.6,36.6,27.1,36.7,15,10,14,Fruit Development-III,DELAY
+23.2,81.4,15.6,40.9,17,5,14,Petal Fall,DELAY
+11.3,58.4,5.2,0.7,10,11,14,Fruit Development-IV,SPRAY
+36.4,86.7,20.9,25.5,19,15,21,Dormancy,DELAY
+12.3,42,12.1,34.2,20,15,21,Dormancy,DELAY
+34.2,78.6,13.2,50,14,3,14,Pink Bud,DELAY
+20.5,83.2,8.1,64.9,20,15,21,Dormancy,DELAY
+9.6,45,17.2,38.6,13,2,14,Tight Cluster,DELAY
+25,69.6,12.4,91.2,17,10,14,Fruit Development-III,DELAY
+-1.9,77.6,3.7,23.7,19,3,14,Pink Bud,SKIP
+10.7,44.2,5,13.5,15,3,14,Pink Bud,SPRAY
+23.8,79.3,24.1,25.2,19,15,21,Dormancy,DELAY
+20.6,64.3,4.9,4.6,1,4,10,Flowering,SKIP
+34.9,75.4,18.7,53.7,17,10,14,Fruit Development-III,DELAY
+18.2,53.7,16.8,30,3,13,0,Harvest,DELAY
+37.4,83.1,16.5,44,16,10,14,Fruit Development-III,DELAY
+30.7,45.6,23.4,43.4,1,13,0,Harvest,DELAY
+29,68.7,11.4,12,2,4,10,Flowering,SKIP
+27.6,31.7,8.8,8.2,20,0,21,Delayed Dormancy,SPRAY
+11.9,90.1,12.4,91.7,20,7,14,Fruit Set,DELAY
+4.5,25.4,17.4,26,12,10,14,Fruit Development-III,DELAY
+8.6,31.5,16.9,50.5,3,13,0,Harvest,DELAY
+37.8,56.9,20,50.5,12,12,14,Pre-Harvest,DELAY
+24.9,53.7,27.2,44.3,1,13,0,Harvest,DELAY
+30.7,58.1,12.9,8.1,2,0,21,Delayed Dormancy,SKIP
+8.2,60.3,25.1,47.1,12,6,14,Fruitlet,DELAY
+12.2,63.6,0.1,8.5,1,2,14,Tight Cluster,SKIP
+27.7,50.8,4.6,10.8,16,1,14,Green Tip,SPRAY
+12.6,48.9,7.3,2.4,14,14,21,Post-Harvest,SPRAY
+34.4,56.2,17.1,47.4,13,5,14,Petal Fall,DELAY
+15.6,81.1,27.1,34.8,15,8,14,Fruit Development-I,DELAY
+29.9,68.5,19.3,52,15,2,14,Tight Cluster,DELAY
+16.1,60.7,14.9,38.2,11,7,14,Fruit Set,DELAY
+-0.2,75.5,9.2,27.1,20,15,21,Dormancy,SKIP
+21.7,77.7,8.6,87.6,15,10,14,Fruit Development-III,DELAY
+30.8,67.7,21.4,44.2,12,3,14,Pink Bud,DELAY
+16.2,69.5,13.5,89.9,18,4,10,Flowering,DELAY
+14.9,29.9,32.2,13,19,6,14,Fruitlet,DELAY
+39.9,35.7,3.6,22.7,20,15,21,Dormancy,SKIP
+39.7,20.2,8,12.3,15,3,14,Pink Bud,SKIP
+19.3,51.1,7,3.2,7,1,14,Green Tip,SPRAY
+29.8,50.8,1.8,0.8,10,10,14,Fruit Development-III,SPRAY
+17.7,32.4,11.7,21,0,5,14,Petal Fall,SKIP
+16.9,64.9,10.5,19.2,19,10,14,Fruit Development-III,SPRAY
+12.9,31.9,1.7,3.3,20,15,21,Dormancy,SPRAY
+-2.1,23.2,8.5,20.9,14,5,14,Petal Fall,SKIP
+-4.3,27.3,10.1,12.5,19,3,14,Pink Bud,SKIP
+13.2,45.2,2.9,0.4,2,6,14,Fruitlet,SKIP
+22.6,47.7,10.1,2.4,6,8,14,Fruit Development-I,SPRAY
+12.5,54.6,10,8.9,18,9,14,Fruit Development-II,SPRAY
+26.1,59.5,4.5,5.1,18,3,14,Pink Bud,SPRAY
+19.8,47,0.5,0.3,15,12,14,Pre-Harvest,SPRAY
+26.3,41.5,10.7,21,18,7,14,Fruit Set,SPRAY
+-3.8,21,6.1,9.8,20,9,14,Fruit Development-II,SKIP
+20,62.3,4.2,23.2,7,1,14,Green Tip,SPRAY
+0.9,21.6,6.5,14.4,20,8,14,Fruit Development-I,SKIP
+-4.6,57.8,9.2,7.3,20,5,14,Petal Fall,SKIP
+21.6,53.8,12.4,21.8,7,2,14,Tight Cluster,SPRAY
+16.8,58.5,3.6,22.1,9,1,14,Green Tip,SPRAY
+-4.7,30.6,4,25,17,13,0,Harvest,SKIP
+39.6,54.9,12,18.4,19,7,14,Fruit Set,SKIP
+27.7,67,7.7,6.2,19,12,14,Pre-Harvest,SPRAY
+-4.9,43.2,2.2,26.1,18,9,14,Fruit Development-II,SKIP
+-1.3,72.8,1.9,7.2,17,7,14,Fruit Set,SKIP
+14.3,63.2,6.5,16.6,20,2,14,Tight Cluster,SPRAY
+23.1,36.5,11.5,5.7,6,7,14,Fruit Set,SPRAY
+39.8,31.2,3.5,25.7,16,3,14,Pink Bud,SKIP
+18.9,46.5,9.3,2.3,14,4,10,Flowering,SPRAY
+12,54,2.5,23.7,7,1,14,Green Tip,SPRAY
+1.2,24.2,1.1,19.1,14,11,14,Fruit Development-IV,SKIP
+11,53.8,7.2,6.6,16,1,14,Green Tip,SPRAY
+1.1,66.2,4.7,8.1,14,11,14,Fruit Development-IV,SKIP
+11.6,41.2,10.8,2,19,2,14,Tight Cluster,SPRAY
+20.4,45.8,10,27.8,4,0,21,Delayed Dormancy,SKIP
+28.4,32.1,5.8,5,16,13,0,Harvest,SPRAY
+24.3,39.3,4.5,7.1,6,4,10,Flowering,SPRAY
+39.3,59.1,4.7,4.1,15,8,14,Fruit Development-I,SKIP
+13.6,51.4,5.1,1.8,0,13,0,Harvest,SPRAY
+11.7,51.5,13.4,14.3,4,10,14,Fruit Development-III,SPRAY
+10.9,34.7,2,3.9,15,6,14,Fruitlet,SPRAY
+17.5,47.4,1.6,25.5,16,0,21,Delayed Dormancy,SPRAY
+1.1,22.1,2.8,21.6,14,6,14,Fruitlet,SKIP
+9.3,60.9,10.6,12,17,15,21,Dormancy,SPRAY
+18.4,44.5,11.8,15.9,12,0,21,Delayed Dormancy,SPRAY
+21.1,30.2,10.4,19.7,20,0,21,Delayed Dormancy,SPRAY
+10.6,32.1,9.9,27.9,8,15,21,Dormancy,SPRAY
+11.8,63.8,2,23.6,5,1,14,Green Tip,SPRAY
+39,73.2,12.4,7.8,10,4,10,Flowering,SKIP
+39.8,33.6,11.4,22.2,14,2,14,Tight Cluster,SKIP
+19.2,62.4,6.5,15,11,4,10,Flowering,SPRAY
+27.5,53,3.4,15.7,20,15,21,Dormancy,SPRAY
+13.1,61,7.3,8.9,20,1,14,Green Tip,SPRAY
+18.9,47.8,3,1.1,17,1,14,Green Tip,SPRAY
+39.7,55.7,0.7,9.9,20,15,21,Dormancy,SKIP
+27.6,47.1,5.6,15.4,17,8,14,Fruit Development-I,SPRAY
+14.4,55.3,9.1,1.6,16,5,14,Petal Fall,SPRAY
+11.4,59.5,0.4,0.9,18,9,14,Fruit Development-II,SPRAY
+22.7,68.4,6.1,9.1,17,1,14,Green Tip,SPRAY
+11.8,45.7,2.4,3,15,7,14,Fruit Set,SPRAY
+27.9,33.5,8.3,16.6,13,14,21,Post-Harvest,SPRAY
+14.6,63.7,4.6,17.7,16,9,14,Fruit Development-II,SPRAY
+9.1,37.6,9.8,4.7,10,5,14,Petal Fall,SPRAY
+26.3,50.9,12.7,20.2,10,5,14,Petal Fall,SPRAY
+17.6,50.7,7.8,16.5,20,15,21,Dormancy,SPRAY
+16.9,61.7,2.5,18.2,18,6,14,Fruitlet,SPRAY
+11.1,51.5,1.8,2,0,14,21,Post-Harvest,SKIP
+9.9,67.8,8.1,26.8,6,15,21,Dormancy,SPRAY
+18.8,47.3,10.8,15.1,19,8,14,Fruit Development-I,SPRAY
+39.8,76.5,7.8,9,19,8,14,Fruit Development-I,SKIP
+27.7,55.4,13.4,14.9,3,4,10,Flowering,SPRAY
+38.5,75.9,8.3,14.1,2,13,0,Harvest,SPRAY
+30.7,40.6,5.4,26.1,2,4,10,Flowering,SKIP
+19.9,51.2,3.9,3.7,20,0,21,Delayed Dormancy,SPRAY
+18.8,66.6,7.8,8.9,3,2,14,Tight Cluster,SKIP
+-4.7,72.2,13.1,18.9,20,14,21,Post-Harvest,SKIP
+22.1,39.1,6.3,17.4,16,6,14,Fruitlet,SPRAY
+16.6,58.4,7.3,10.9,0,3,14,Pink Bud,SKIP
+13.2,50.9,8.5,0,11,14,21,Post-Harvest,SPRAY
+10.3,35,4.4,7.8,19,6,14,Fruitlet,SPRAY
+28,39.7,9.9,17.4,18,6,14,Fruitlet,SPRAY
+20.6,40.9,7.5,10.8,15,7,14,Fruit Set,SPRAY
+14.4,45.4,4.4,1.3,17,10,14,Fruit Development-III,SPRAY
+38.8,63.8,11.1,1.3,16,12,14,Pre-Harvest,SKIP
+25.9,56.9,4.6,7.6,9,8,14,Fruit Development-I,SPRAY
+28.8,52.9,8.3,9.5,19,2,14,Tight Cluster,SPRAY
+-1.6,67.9,13.8,5.2,17,6,14,Fruitlet,SKIP
+11,60.8,4.6,5.3,8,9,14,Fruit Development-II,SPRAY
+12.9,36.3,6.4,7.7,15,10,14,Fruit Development-III,SPRAY
+10,46.8,6.2,8.7,20,15,21,Dormancy,SPRAY
+38.4,55.6,10.1,5,16,11,14,Fruit Development-IV,SPRAY
+22,60.1,3.4,19.8,4,3,14,Pink Bud,SPRAY
+21.9,50,1.4,15.9,20,5,14,Petal Fall,SPRAY
+-2.4,71.5,1.8,6.8,14,11,14,Fruit Development-IV,SKIP
+0.9,28.9,8.6,15.9,20,9,14,Fruit Development-II,SKIP
+11.4,67.4,6.1,1.1,16,12,14,Pre-Harvest,SPRAY
+-3,59.4,0.3,6.5,17,7,14,Fruit Set,SKIP
+30.1,36.1,11.3,2.5,10,8,14,Fruit Development-I,SPRAY
+30.8,38.6,12.3,6.4,1,4,10,Flowering,SKIP
+-1.9,60.2,6,12.8,20,6,14,Fruitlet,SKIP
+30.4,54.7,9.7,5,2,4,10,Flowering,SKIP
+38,29,1.6,4.9,19,7,14,Fruit Set,SPRAY
+27.7,44,0.9,17.8,13,4,10,Flowering,SPRAY
+10.9,36.5,2.8,4.8,20,0,21,Delayed Dormancy,SPRAY
+18.8,63,5.7,17.1,9,3,14,Pink Bud,SPRAY
+-2,62.4,0.9,9.7,20,0,21,Delayed Dormancy,SKIP
+38.9,65.4,13.1,24,15,1,14,Green Tip,SKIP
+38.9,77.9,1.5,27.2,15,12,14,Pre-Harvest,SKIP
+22.4,48.7,4.9,9,18,8,14,Fruit Development-I,SPRAY
+18.2,64.1,9,15.1,4,3,14,Pink Bud,SPRAY
+39.5,54.5,1.3,9.1,15,12,14,Pre-Harvest,SKIP
+38.7,44.3,1.1,14.3,20,14,21,Post-Harvest,SKIP
+25.4,30,9.6,12.6,16,8,14,Fruit Development-I,SPRAY
+0.5,20,0.6,9.7,20,0,21,Delayed Dormancy,SKIP
+29.6,45.7,3.8,9.6,6,8,14,Fruit Development-I,SPRAY
+13.8,33.3,11,19.3,3,7,14,Fruit Set,SKIP
+16.3,34.9,7.6,9,20,5,14,Petal Fall,SPRAY
+38.6,49.8,10.3,12.4,17,3,14,Pink Bud,SKIP
+21.7,65.5,8.8,12,5,12,14,Pre-Harvest,SPRAY
+20.8,46.4,5.7,19.9,16,10,14,Fruit Development-III,SPRAY
+26.1,41.9,10.5,25.2,10,9,14,Fruit Development-II,SPRAY
+18.8,53.4,8,13.4,20,1,14,Green Tip,SPRAY
+16.5,47.4,7.5,21.7,7,0,21,Delayed Dormancy,SPRAY
+11.8,52.9,6.6,3.8,5,2,14,Tight Cluster,SPRAY
+38.1,69.6,11.2,24,19,11,14,Fruit Development-IV,SPRAY
+39.4,54.1,2.9,6.8,18,12,14,Pre-Harvest,SKIP
+9.9,35.4,7.1,6.7,7,9,14,Fruit Development-II,SPRAY
+22.5,57.9,10.5,7.1,7,13,0,Harvest,SPRAY
+21,35.4,13.7,0.2,2,3,14,Pink Bud,SKIP
+0.9,37.4,3.7,24.9,19,11,14,Fruit Development-IV,SKIP
+12.2,63.1,0.6,4.2,18,6,14,Fruitlet,SPRAY
+-3.5,52.8,6.3,18.3,1,13,0,Harvest,SKIP
+-0.8,49.7,1.9,26.7,20,0,21,Delayed Dormancy,SKIP
+12.2,51.6,4.2,0.9,20,14,21,Post-Harvest,SPRAY
+21.7,42.2,9.1,17.6,18,2,14,Tight Cluster,SPRAY
+14.2,37.3,7.1,7.8,15,5,14,Petal Fall,SPRAY
+12.6,34.3,7.3,7,19,11,14,Fruit Development-IV,SPRAY
+38.8,64,11.2,24.8,16,2,14,Tight Cluster,SKIP
+28.2,50,3,10,20,14,21,Post-Harvest,SPRAY
+11.9,47.5,0.6,11.3,16,15,21,Dormancy,SPRAY
+20.1,34.7,6.3,11.6,11,13,0,Harvest,SPRAY
+10.4,50.8,2.7,6.4,20,6,14,Fruitlet,SPRAY
+18.1,30.1,6.4,18.8,15,2,14,Tight Cluster,SPRAY
+26.5,43.5,7.6,23.6,1,1,14,Green Tip,SKIP
+27.8,58.9,2.7,9.8,15,7,14,Fruit Set,SPRAY
+21.2,44.8,3.6,14,9,2,14,Tight Cluster,SPRAY
+13.8,40.4,9.3,0.3,17,9,14,Fruit Development-II,SPRAY
+26.2,58.3,5.9,2,19,4,10,Flowering,SPRAY
+-2.1,53.7,7.3,12.8,14,7,14,Fruit Set,SKIP
+12.5,56.2,2.9,11.7,12,13,0,Harvest,SPRAY
+29.4,42.2,2,3.2,18,8,14,Fruit Development-I,SPRAY
+20.2,63.9,7.7,8.5,17,5,14,Petal Fall,SPRAY
+16.9,33.9,1.1,1,15,12,14,Pre-Harvest,SPRAY
+12.4,46.1,3.4,16.4,19,5,14,Petal Fall,SPRAY
+39.2,65.7,7.8,1.3,19,3,14,Pink Bud,SKIP
+39.1,40.3,3.2,12.5,17,12,14,Pre-Harvest,SKIP
+39.6,24,8.7,3.3,20,14,21,Post-Harvest,SKIP
+24.7,63.5,9.8,18.1,17,4,10,Flowering,SPRAY
+14.4,44.6,10.8,21,20,2,14,Tight Cluster,SPRAY
+17.4,32.9,5.2,8,20,7,14,Fruit Set,SPRAY
+11,30.1,0.2,3.3,4,10,14,Fruit Development-III,SPRAY
+38.6,46.1,10.3,27.7,20,14,21,Post-Harvest,SKIP
+19.2,44.5,11.3,21.1,7,6,14,Fruitlet,SPRAY
+23.7,67.7,6.6,3.2,16,8,14,Fruit Development-I,SPRAY
+26.7,63.2,7.2,10.8,20,15,21,Dormancy,SPRAY
+17.9,52.1,0.5,4.9,1,9,14,Fruit Development-II,SKIP
+13.8,54.2,1.8,19.6,7,10,14,Fruit Development-III,SPRAY
+27,32.4,11.6,20.1,7,1,14,Green Tip,SPRAY
+9.6,52.6,10.4,28,0,13,0,Harvest,SPRAY
+38.2,38.5,5.2,4.5,14,3,14,Pink Bud,SKIP
+27.9,35.7,0.3,13.7,15,12,14,Pre-Harvest,SPRAY
+29.7,36.6,6.5,15.2,4,11,14,Fruit Development-IV,SPRAY
+16.3,50.1,11,20.6,0,13,0,Harvest,SPRAY
+14.9,49.3,9.2,21.8,5,5,14,Petal Fall,SPRAY
+-3.7,58.8,1.3,26.5,20,14,21,Post-Harvest,SKIP
+-4.7,35.7,11.6,9.6,1,13,0,Harvest,SKIP
+23.9,46.8,0.2,11.6,18,7,14,Fruit Set,SPRAY
+16.2,48.5,2.8,11.9,7,11,14,Fruit Development-IV,SPRAY
+14.7,58.5,13.5,8.4,0,13,0,Harvest,SPRAY
+26.7,49.8,6.8,4.2,20,14,21,Post-Harvest,SPRAY
+18.5,58.2,0.9,0.3,0,14,21,Post-Harvest,SKIP
+39.7,21.2,13.7,10.2,20,10,14,Fruit Development-III,SKIP
+14.6,39.9,2.9,9.3,17,13,0,Harvest,SPRAY
+-1.6,21.3,5.7,19.6,14,7,14,Fruit Set,SKIP
+21.8,60.7,7.1,17.2,17,15,21,Dormancy,SPRAY
+19.1,55.4,8.8,21.9,20,0,21,Delayed Dormancy,SPRAY
+-0.5,75.1,4.1,10.5,15,1,14,Green Tip,SKIP
+12.6,53.3,6.2,10.7,6,13,0,Harvest,SPRAY
+39.9,30.6,12.5,10.6,19,4,10,Flowering,SKIP
+19.9,36.1,8.9,15.2,4,0,21,Delayed Dormancy,SKIP
+16.6,68.8,7.1,1.2,13,4,10,Flowering,SPRAY
+19,46.3,1.1,11.6,19,11,14,Fruit Development-IV,SPRAY
+23.1,49.3,6.8,18.7,15,5,14,Petal Fall,SPRAY
+-1.5,49.8,13.6,1.7,20,0,21,Delayed Dormancy,SKIP
+28.5,65.4,7.6,10.3,17,7,14,Fruit Set,SPRAY
+24.6,62.3,3.5,18.4,17,11,14,Fruit Development-IV,SPRAY
+9.5,38.4,5.4,21.5,6,4,10,Flowering,SPRAY
+-3,72,10.1,9.6,17,10,14,Fruit Development-III,SKIP
+0.6,28.8,4.4,16.8,17,12,14,Pre-Harvest,SKIP
+-1.4,43.6,0.6,11.1,20,14,21,Post-Harvest,SKIP
+21.5,63,10.7,0.9,19,11,14,Fruit Development-IV,SPRAY
+39.6,76.1,9.3,7.2,8,13,0,Harvest,SKIP
+-4.1,65.5,13.1,17.8,18,1,14,Green Tip,SKIP
+21.1,37.8,3.5,13.4,17,10,14,Fruit Development-III,SPRAY
+17.5,48.7,8.5,21.4,20,14,21,Post-Harvest,SPRAY
+16.9,49.6,3,23.8,2,5,14,Petal Fall,SKIP
+-1.7,33.4,7.5,9.5,15,5,14,Petal Fall,SKIP
+24.2,54.9,2.8,26.9,3,14,21,Post-Harvest,SKIP
+0.5,60.4,2.6,21.2,20,0,21,Delayed Dormancy,SKIP
+39.4,48.4,10.6,14.2,17,1,14,Green Tip,SKIP
+-0.5,78.9,9.8,16,17,8,14,Fruit Development-I,SKIP
+0.4,27.7,10.4,27.3,16,6,14,Fruitlet,SKIP
+13.1,51.9,7.7,19.4,20,12,14,Pre-Harvest,SPRAY
+13.6,48,8.2,21.7,16,8,14,Fruit Development-I,SPRAY
+10.3,65.2,5.8,10.8,2,3,14,Pink Bud,SKIP
+-2.5,30.5,3.6,8.5,14,11,14,Fruit Development-IV,SKIP
+9.3,60.8,8.9,23.1,7,2,14,Tight Cluster,SPRAY
+19.3,44.2,8.5,16.5,20,0,21,Delayed Dormancy,SPRAY
+14.5,35.9,12.2,24,0,13,0,Harvest,SPRAY
+22.2,60.5,4.6,7.9,0,2,14,Tight Cluster,SKIP
+-1.8,59.4,0.9,25.2,20,15,21,Dormancy,SKIP
+20.5,59,11.7,9,10,5,14,Petal Fall,SPRAY
+39.3,63,10.6,4.6,17,7,14,Fruit Set,SKIP
+13.6,64,6.2,19.6,12,15,21,Dormancy,SPRAY
+13.7,68.7,12.8,2.4,1,12,14,Pre-Harvest,SKIP
+13.6,40.5,7.2,11.5,8,12,14,Pre-Harvest,SPRAY
+-2.3,72.4,0.7,16.4,20,15,21,Dormancy,SKIP
+23.6,60.7,4.8,19.9,17,10,14,Fruit Development-III,SPRAY
+-2.4,56.1,9.8,4.1,17,3,14,Pink Bud,SKIP
+1.7,62.6,1.9,23.2,16,7,14,Fruit Set,SPRAY
+38.9,28.4,11.3,22.8,20,14,21,Post-Harvest,SKIP
+17.5,49.3,6.4,4.4,17,8,14,Fruit Development-I,SPRAY
+19.1,50.7,8.3,8.9,1,2,14,Tight Cluster,SKIP
+19.6,39.7,4.4,16.3,5,1,14,Green Tip,SPRAY
+0.8,75.5,10.1,10.4,20,0,21,Delayed Dormancy,SKIP
+11.9,61.5,0.3,9,11,4,10,Flowering,SPRAY
+29.8,39.3,10.8,2.9,13,4,10,Flowering,SPRAY
+17.3,68.9,11.2,4.4,9,5,14,Petal Fall,SPRAY
+-0.2,38.3,7,8.4,20,8,14,Fruit Development-I,SKIP
+24.6,53.3,3.9,9.6,18,6,14,Fruitlet,SPRAY
+0.8,40.1,2.5,10.7,17,11,14,Fruit Development-IV,SKIP
+21.8,57.6,13,3.6,10,7,14,Fruit Set,SPRAY
+27.9,53.5,12.6,0.3,12,14,21,Post-Harvest,SPRAY
+23.9,52.6,7.4,10.7,19,6,14,Fruitlet,SPRAY
+17.4,33.2,11,2.8,1,3,14,Pink Bud,SKIP
+-0.3,37.4,1.7,23.5,17,4,10,Flowering,SKIP
+1.5,78.2,6.7,14.3,17,9,14,Fruit Development-II,SPRAY
+-3.7,22.3,8.9,8.4,14,12,14,Pre-Harvest,SKIP
+31,36.8,9,3.3,4,12,14,Pre-Harvest,SPRAY
+15.1,43.1,2.2,5.4,4,4,10,Flowering,SPRAY
+24.1,67.4,3.8,0.7,17,3,14,Pink Bud,SPRAY
+1.5,75.4,0.1,26,16,6,14,Fruitlet,SPRAY
+18,48.2,10.3,17.6,8,8,14,Fruit Development-I,SPRAY
+23.8,67.1,3.1,10.8,5,1,14,Green Tip,SPRAY
+17.8,46.8,2.6,10,20,0,21,Delayed Dormancy,SPRAY
+38.7,38.9,3.9,26.8,14,10,14,Fruit Development-III,SKIP
+-1.1,36.7,5.2,1.7,20,12,14,Pre-Harvest,SKIP
+29.3,35.6,5.4,1.3,0,2,14,Tight Cluster,SKIP
+-0.5,27.5,11,4.5,14,11,14,Fruit Development-IV,SKIP
+17.8,55,7.5,9.7,17,4,10,Flowering,SPRAY
+28.8,39.8,9.1,17,16,6,14,Fruitlet,SPRAY
+15.3,44.7,1.7,8.6,10,5,14,Petal Fall,SPRAY
+39.9,39.6,7.5,9.3,11,4,10,Flowering,SKIP
+-1.1,66.5,2.7,18.1,12,4,10,Flowering,SKIP
+11.3,35.5,8.7,3.3,2,13,0,Harvest,SPRAY
+25.1,53.1,10.6,20.6,4,1,14,Green Tip,SPRAY
+38.6,46.8,6.8,22.8,20,0,21,Delayed Dormancy,SKIP
+9.8,65.5,11.1,18.4,6,1,14,Green Tip,SPRAY
+21.6,63.1,5.4,10,0,13,0,Harvest,SPRAY
+19.5,31.7,3.5,0.6,19,6,14,Fruitlet,SPRAY
+38.3,74.3,9.8,9.4,14,5,14,Petal Fall,SKIP
+-2,35.3,1,10.4,20,14,21,Post-Harvest,SKIP
+17.2,42,1.5,6.7,8,5,14,Petal Fall,SPRAY
+12.9,31.9,1.6,18.9,16,1,14,Green Tip,SPRAY
+10.9,45.9,9.1,3.3,15,10,14,Fruit Development-III,SPRAY
+39.6,45.4,2,14.5,16,6,14,Fruitlet,SKIP
+26.2,57.6,8.1,14.5,11,4,10,Flowering,SPRAY
+-2.2,50.7,11.4,3.9,4,13,0,Harvest,SKIP
+23.9,58.6,13.5,0,4,5,14,Petal Fall,SPRAY
+20.7,47.7,7.1,18.5,17,12,14,Pre-Harvest,SPRAY
+39.5,79.6,9.8,9.1,20,14,21,Post-Harvest,SKIP
+17.1,46.3,10.9,13.9,0,8,14,Fruit Development-I,SKIP
+15.6,56.2,9.9,21.5,20,7,14,Fruit Set,SPRAY
+13.4,59.9,3.7,5.6,1,13,0,Harvest,SPRAY
+-1.7,75.5,12.6,8.1,12,4,10,Flowering,SKIP
+11,37.9,1.9,21.7,20,14,21,Post-Harvest,SPRAY
+38.3,70.4,5.3,5.1,19,11,14,Fruit Development-IV,SPRAY
+20.5,49.8,5.8,12.2,20,11,14,Fruit Development-IV,SPRAY
+39.2,56.3,5.5,21.9,16,3,14,Pink Bud,SKIP
+25.7,47.7,7.5,9.6,18,7,14,Fruit Set,SPRAY
+25.3,63.6,1.1,24.2,0,9,14,Fruit Development-II,SKIP
+10.2,69.5,0.1,17.1,18,8,14,Fruit Development-I,SPRAY
+15.8,36,1.4,15,8,12,14,Pre-Harvest,SPRAY
+17,61.8,11.1,18.8,1,13,0,Harvest,SPRAY
+-5,72.9,8.2,2.3,16,3,14,Pink Bud,SKIP
+1.9,73.2,5.8,13.4,20,7,14,Fruit Set,SPRAY
+39.1,75.6,3,15.4,20,8,14,Fruit Development-I,SKIP
+12.5,49.2,7.3,0.6,17,14,21,Post-Harvest,SPRAY
+39.5,70,6.7,8,20,15,21,Dormancy,SKIP
+1.3,60.8,12.8,15.3,20,7,14,Fruit Set,SKIP
+26.5,58.9,6.1,7,15,8,14,Fruit Development-I,SPRAY
+22.1,30.3,8.5,10.3,18,10,14,Fruit Development-III,SPRAY
+13.1,41.2,8.9,16.6,15,8,14,Fruit Development-I,SPRAY
+23.3,62.9,0.8,14.1,17,5,14,Petal Fall,SPRAY
+21.9,66,11.2,3.5,0,13,0,Harvest,SPRAY
+39,22.9,3,9.2,15,11,14,Fruit Development-IV,SKIP
+16.3,48.8,2.3,17.1,15,6,14,Fruitlet,SPRAY
+20,53.7,5.6,8.8,1,2,14,Tight Cluster,SKIP
+21.9,30.7,9,1.9,2,12,14,Pre-Harvest,SKIP
+39.2,30.5,2.2,7.1,20,0,21,Delayed Dormancy,SKIP
+20.6,45,3.4,6.8,16,2,14,Tight Cluster,SPRAY
+27.5,68.9,1.5,12.9,9,12,14,Pre-Harvest,SPRAY
+0.2,65,4.3,27.7,16,10,14,Fruit Development-III,SKIP
+18.3,57.4,10.3,20.2,15,8,14,Fruit Development-I,SPRAY
+23,36.4,3.5,22.4,1,2,14,Tight Cluster,SKIP
+39.6,77.3,0.4,5.4,20,15,21,Dormancy,SKIP
+28.5,62.1,0.3,26,10,1,14,Green Tip,SPRAY
+-4.7,67.5,11.6,7.3,17,12,14,Pre-Harvest,SKIP
+9.5,64.8,8.9,27.2,9,10,14,Fruit Development-III,SPRAY
+-0.4,73.1,1.9,16.6,14,7,14,Fruit Set,SKIP
+25.2,59.2,9.4,11.5,20,0,21,Delayed Dormancy,SPRAY
+25.1,68.3,3.3,12.3,8,3,14,Pink Bud,SPRAY
+13.8,68.9,10.3,16.1,9,12,14,Pre-Harvest,SPRAY
+14.6,55.4,0.9,10.5,20,15,21,Dormancy,SPRAY
+27,32.4,1.5,22,0,6,14,Fruitlet,SKIP
+17.8,69.5,6.8,26,5,7,14,Fruit Set,SPRAY
+16.9,53.4,9.8,0.9,18,8,14,Fruit Development-I,SPRAY
+24.3,67.5,8.5,1.8,7,10,14,Fruit Development-III,SPRAY
+18.6,41,6,11.4,20,5,14,Petal Fall,SPRAY
+16.9,44.4,5.1,2.7,15,7,14,Fruit Set,SPRAY
+26.4,56.4,7.6,10.6,16,8,14,Fruit Development-I,SPRAY
+26.7,57,6.4,21.3,17,11,14,Fruit Development-IV,SPRAY
+26,40.5,9,21.7,6,12,14,Pre-Harvest,SPRAY
+29.3,39.2,3.8,2.3,16,6,14,Fruitlet,SPRAY
+1.4,61.2,2,5.8,20,10,14,Fruit Development-III,SKIP
+15.2,50.9,2.2,7.1,11,4,10,Flowering,SPRAY
+38.4,20.7,0,13.5,20,3,14,Pink Bud,SPRAY
+-0.4,58.2,2.6,2.6,15,11,14,Fruit Development-IV,SKIP
+27.6,45.8,0.7,8.4,8,1,14,Green Tip,SPRAY
+12.1,45.7,13.4,12.9,2,6,14,Fruitlet,SKIP
+14.1,60.9,5.2,6.5,16,0,21,Delayed Dormancy,SPRAY
+23.1,30.2,5.1,6.7,5,9,14,Fruit Development-II,SPRAY
+16.3,50.5,8.9,19.8,9,7,14,Fruit Set,SPRAY
+19.1,61.2,6.4,20.7,19,9,14,Fruit Development-II,SPRAY
+39.3,45.1,6.5,14.3,20,15,21,Dormancy,SKIP
+13.6,50.3,3.8,27.7,0,4,10,Flowering,SKIP
+-2.3,75.3,13.4,20.1,13,13,0,Harvest,SKIP
+25.7,62.6,9.8,18.4,18,8,14,Fruit Development-I,SPRAY
+10.7,45.3,10.3,5.6,19,10,14,Fruit Development-III,SPRAY
+0.5,27,8.1,21.1,20,10,14,Fruit Development-III,SKIP
+-2.8,76.3,2.1,4.5,19,1,14,Green Tip,SKIP
+38.7,24,3.9,14,20,0,21,Delayed Dormancy,SKIP
+39.1,36.5,11.6,6.4,19,3,14,Pink Bud,SKIP
+29,43.7,10.3,26.1,3,12,14,Pre-Harvest,SKIP
+11.9,34.8,7.9,15.4,5,4,10,Flowering,SPRAY
+12.6,30.8,11,9.4,14,14,21,Post-Harvest,SPRAY
+0,72.9,3.6,5.4,20,14,21,Post-Harvest,SKIP
+16.8,46.2,7.8,6.8,19,12,14,Pre-Harvest,SPRAY
+24.3,41.4,7.1,2.7,19,10,14,Fruit Development-III,SPRAY
+20.9,37.6,11.5,4.4,3,8,14,Fruit Development-I,SKIP
+30,40.7,14,1.5,4,15,21,Dormancy,SKIP
+16.3,52.5,4.2,17.8,20,1,14,Green Tip,SPRAY
+16.4,49.7,1.4,11.9,11,14,21,Post-Harvest,SPRAY
+26.5,62.8,2.9,8.5,0,13,0,Harvest,SPRAY
+12.9,56.6,1.5,8.2,15,4,10,Flowering,SPRAY
+29.9,41.8,10.9,11.2,20,10,14,Fruit Development-III,SPRAY
+19.5,42.4,1.4,6,6,14,21,Post-Harvest,SPRAY
+21.5,55.8,4.4,7.6,6,8,14,Fruit Development-I,SPRAY
+23.2,50.7,8.1,18.2,15,3,14,Pink Bud,SPRAY
+12.9,62,2.9,12.2,17,9,14,Fruit Development-II,SPRAY
+14.9,48.5,5.1,6.6,15,12,14,Pre-Harvest,SPRAY
+14,32.8,1.1,20.8,19,8,14,Fruit Development-I,SPRAY
+39.2,20.2,13.2,6.9,14,7,14,Fruit Set,SKIP
+15.4,37.4,8.8,27,1,7,14,Fruit Set,SKIP
+22.3,55.8,4.1,22,2,1,14,Green Tip,SKIP
+17.8,41.5,0.7,9.7,19,10,14,Fruit Development-III,SPRAY
+28.4,48.2,5.2,16.6,18,3,14,Pink Bud,SPRAY
+40,57,2.4,2.6,20,14,21,Post-Harvest,SKIP
+27.5,60.3,3.4,15.3,19,11,14,Fruit Development-IV,SPRAY
+38.4,63.1,13.4,17.2,19,5,14,Petal Fall,SPRAY
+39.1,65.8,9.7,4.3,20,14,21,Post-Harvest,SKIP
+26.9,39.2,7.9,5.5,16,10,14,Fruit Development-III,SPRAY
+20.3,56.2,2.7,23.9,10,7,14,Fruit Set,SPRAY
+-4.6,69.7,2.2,11.6,20,9,14,Fruit Development-II,SKIP
+18.1,40.3,4.2,14.6,3,5,14,Petal Fall,SKIP
+-3.1,48.8,3,11,17,4,10,Flowering,SKIP
+18.4,68.5,5.5,18.3,13,0,21,Delayed Dormancy,SPRAY
+38.9,65.7,4.1,9.8,15,6,14,Fruitlet,SKIP
+18.7,58.7,5.4,15.4,20,15,21,Dormancy,SPRAY
+15.3,61.6,4.6,0.8,10,14,21,Post-Harvest,SPRAY
+13.2,48.2,6.2,8.5,5,1,14,Green Tip,SPRAY
+30.5,64,13.6,16,0,12,14,Pre-Harvest,SKIP
+-3,64.9,10.2,16,20,7,14,Fruit Set,SKIP
+19,53.3,9.1,16.4,16,9,14,Fruit Development-II,SPRAY
+15.8,63,13.9,19,7,2,14,Tight Cluster,SPRAY
+38.2,47.9,5.4,24.6,19,6,14,Fruitlet,SPRAY
+22.8,30.1,5.6,4.8,19,6,14,Fruitlet,SPRAY
+39.1,75.4,3,18.1,15,13,0,Harvest,SKIP
+-2.4,44,6.4,17,16,4,10,Flowering,SKIP
+29.1,57.1,1.9,1.2,20,14,21,Post-Harvest,SPRAY
+19.1,54,9.8,20.1,18,8,14,Fruit Development-I,SPRAY
+16.3,54.8,3.6,16.2,19,8,14,Fruit Development-I,SPRAY
+19.2,40,6.9,25.4,8,14,21,Post-Harvest,SPRAY
+38.7,24.5,7.2,11.9,16,12,14,Pre-Harvest,SKIP
+39.2,58.2,2,16.3,15,12,14,Pre-Harvest,SKIP
+-1.7,48.3,4,8,15,11,14,Fruit Development-IV,SKIP
+38.2,21.7,2.5,10.4,20,0,21,Delayed Dormancy,SPRAY
+29.8,36.9,9.9,10.4,19,5,14,Petal Fall,SPRAY
+39.3,58.4,12.2,11.8,20,15,21,Dormancy,SKIP
+26,50.8,6.8,8.6,20,14,21,Post-Harvest,SPRAY
+9.8,32.3,13.4,22.3,8,8,14,Fruit Development-I,SPRAY
+23.5,47.8,2.9,0.6,19,12,14,Pre-Harvest,SPRAY
+11.8,68.5,10,11.4,20,3,14,Pink Bud,SPRAY
+38.4,61.6,11.9,0.2,20,6,14,Fruitlet,SPRAY
+38.4,52.1,11.3,9.6,15,5,14,Petal Fall,SPRAY
+26,34.2,6.9,4.6,1,13,0,Harvest,SPRAY
+28.8,66.6,5.8,11.9,18,5,14,Petal Fall,SPRAY
+28.6,69.7,11.8,27.7,7,9,14,Fruit Development-II,SPRAY
+14.9,56.8,9.2,3.7,19,1,14,Green Tip,SPRAY
+1.8,41.6,8.2,17.9,20,3,14,Pink Bud,SPRAY
+38.8,42.8,0.1,27,16,9,14,Fruit Development-II,SKIP
+38.5,76.4,8.2,16.6,20,14,21,Post-Harvest,SKIP
+14.5,68.2,6.3,0.6,15,1,14,Green Tip,SPRAY
+22.7,42.8,12.4,21.7,1,7,14,Fruit Set,SKIP
+39.3,49.5,7.2,12.9,16,6,14,Fruitlet,SKIP
+38.7,41.2,6.9,15.9,18,12,14,Pre-Harvest,SKIP
+18.9,42,4,19.6,17,12,14,Pre-Harvest,SPRAY
+28.8,65.8,8.5,14.2,19,11,14,Fruit Development-IV,SPRAY
+25.1,51.9,4.2,1.6,11,14,21,Post-Harvest,SPRAY
+25.7,59.5,3.1,21.8,15,7,14,Fruit Set,SPRAY
+-0.7,68,9.2,25.3,20,0,21,Delayed Dormancy,SKIP
+27.9,52.4,2.3,14.7,9,1,14,Green Tip,SPRAY
+26.5,34.3,6.3,13,19,11,14,Fruit Development-IV,SPRAY
+38.4,21.6,2.7,13.9,19,7,14,Fruit Set,SPRAY
+16.3,65.6,8.3,21.5,15,2,14,Tight Cluster,SPRAY
+-4.2,66.9,8.1,24.3,20,14,21,Post-Harvest,SKIP
+27.7,43,7.6,19.4,11,15,21,Dormancy,SPRAY
+12.2,61.1,2.8,1.7,18,9,14,Fruit Development-II,SPRAY
+12.7,59.9,0.3,9.3,5,2,14,Tight Cluster,SPRAY
+14.1,44.7,11,1.5,9,6,14,Fruitlet,SPRAY
+38.7,72.6,1.7,22.7,19,13,0,Harvest,SKIP
+25.5,47.1,4.6,3.9,1,11,14,Fruit Development-IV,SKIP
+-4.9,27.5,10,7.9,19,1,14,Green Tip,SKIP
+1.7,40.5,7.8,24.7,19,12,14,Pre-Harvest,SPRAY
+19.8,53.1,1.3,9.2,15,8,14,Fruit Development-I,SPRAY
+19.1,62,2.4,21.5,7,7,14,Fruit Set,SPRAY
+13.1,60,8,12.2,15,7,14,Fruit Set,SPRAY
+27.5,30.8,0.7,6.9,16,15,21,Dormancy,SPRAY
+0.6,54.2,12.5,14.4,16,7,14,Fruit Set,SKIP
+20.2,50.1,6.3,16.4,7,8,14,Fruit Development-I,SPRAY
+1.8,23.5,1.8,20.8,20,4,10,Flowering,SPRAY
+18.7,43.7,7.1,6,18,12,14,Pre-Harvest,SPRAY
+15.9,56.2,3.5,25.1,3,1,14,Green Tip,SKIP
+12.6,55.8,9.8,13.8,15,8,14,Fruit Development-I,SPRAY
+18.4,51.2,8.6,7.4,4,14,21,Post-Harvest,SKIP
+17.9,47.4,10,14.3,20,0,21,Delayed Dormancy,SPRAY
+16.5,52.6,4.4,20,18,12,14,Pre-Harvest,SPRAY
+39.2,75,4,5.6,18,9,14,Fruit Development-II,SKIP
+-3.5,20.9,2.1,22.6,20,15,21,Dormancy,SKIP
+-3.4,41.1,5.5,22.3,15,6,14,Fruitlet,SKIP
+25,38.3,9.4,3.4,10,13,0,Harvest,SPRAY
+39.4,46.1,8,8.4,20,0,21,Delayed Dormancy,SKIP
+9.7,43.3,6.1,25.7,1,10,14,Fruit Development-III,SKIP
+13.7,34.1,3.9,0.7,16,10,14,Fruit Development-III,SPRAY
+21,38.4,12.1,11.7,9,14,21,Post-Harvest,SPRAY
+0.1,45.6,2.6,3.2,20,14,21,Post-Harvest,SKIP
+25.3,31,6.4,17.3,18,10,14,Fruit Development-III,SPRAY
+22,54.3,8.5,2.6,18,1,14,Green Tip,SPRAY
+20.7,55.7,6.7,3.2,20,15,21,Dormancy,SPRAY
+22,33.3,10.6,4.8,16,11,14,Fruit Development-IV,SPRAY
+28.9,63.1,5.3,14.9,18,8,14,Fruit Development-I,SPRAY
+16.7,36.2,6.3,15.1,12,15,21,Dormancy,SPRAY
+0.9,61.5,7,2.9,20,0,21,Delayed Dormancy,SKIP
+16.2,41.2,12.3,0.8,6,7,14,Fruit Set,SPRAY
+38.2,43.2,10.8,15.1,17,12,14,Pre-Harvest,SPRAY
+27.9,62.9,5.5,2.9,15,9,14,Fruit Development-II,SPRAY
+13.8,34.8,3,20.2,15,7,14,Fruit Set,SPRAY
+27.7,66.9,6.4,20.2,20,3,14,Pink Bud,SPRAY
+18.5,51.2,2.5,4.8,20,4,10,Flowering,SPRAY
+38.9,68.6,9.5,10.1,17,9,14,Fruit Development-II,SKIP
+18.8,58.9,1.8,17.5,10,15,21,Dormancy,SPRAY
+23.1,31.4,9.3,15.7,12,4,10,Flowering,SPRAY
+23.7,44.5,2.5,5.3,20,15,21,Dormancy,SPRAY
+0.9,21.5,0.6,5.8,20,14,21,Post-Harvest,SKIP
+22.2,44.6,10,19.6,8,7,14,Fruit Set,SPRAY
+16.1,52.3,13,12.3,4,5,14,Petal Fall,SPRAY
+29.6,59.3,9.7,19.3,20,14,21,Post-Harvest,SPRAY
+40,44.1,0.1,27.1,20,0,21,Delayed Dormancy,SKIP
+27.8,34.8,13.5,22,5,4,10,Flowering,SPRAY
+39.4,54.6,2.5,11.2,17,3,14,Pink Bud,SKIP
+9.3,62.5,11.9,3.2,0,6,14,Fruitlet,SKIP
+14.5,34.3,3.4,21.3,17,1,14,Green Tip,SPRAY
+29.9,33.9,13.1,21.8,8,0,21,Delayed Dormancy,SPRAY
+-3.4,42.9,8.6,16,17,2,14,Tight Cluster,SKIP
+18.3,43.6,7.1,19.3,1,13,0,Harvest,SPRAY
+16.5,54.2,2.8,9.7,6,2,14,Tight Cluster,SPRAY
+21.2,40.9,9.1,11.5,20,15,21,Dormancy,SPRAY
+25.5,49.3,0.1,5.1,16,11,14,Fruit Development-IV,SPRAY
+10.4,55.1,4.8,10.6,19,2,14,Tight Cluster,SPRAY
+27.5,44.1,3,26,10,0,21,Delayed Dormancy,SPRAY
+29.6,31.2,6.6,13,17,12,14,Pre-Harvest,SPRAY
+16.9,33.7,13.7,9.1,0,0,21,Delayed Dormancy,SKIP
+23.3,51.3,7.7,16.7,20,9,14,Fruit Development-II,SPRAY
+16.9,60.3,6.8,12.5,6,14,21,Post-Harvest,SPRAY
+11.7,46.9,10.2,23.3,5,1,14,Green Tip,SPRAY
+19,34.1,11.2,0.4,4,9,14,Fruit Development-II,SPRAY
+28.2,44.8,12.3,3.3,6,15,21,Dormancy,SPRAY
+39.7,44.9,0.8,23,18,6,14,Fruitlet,SKIP
+19.5,44.8,3.6,10.4,17,1,14,Green Tip,SPRAY
+19,39.3,5.5,10.7,0,5,14,Petal Fall,SKIP
+24.6,57.4,10.3,19.8,9,9,14,Fruit Development-II,SPRAY
+9.9,66.4,9.3,24.9,1,13,0,Harvest,SPRAY
+15.2,55.9,2.1,15.1,6,13,0,Harvest,SPRAY
+18.8,33.5,13.1,7.2,9,5,14,Petal Fall,SPRAY
+19.8,37.4,0.7,13.1,1,4,10,Flowering,SKIP
+27.1,31.8,13.2,0.2,7,9,14,Fruit Development-II,SPRAY
+11.8,41.3,11.2,5,6,9,14,Fruit Development-II,SPRAY
+13.5,38,1,9.1,12,13,0,Harvest,SPRAY
+11,45.3,12.2,16.8,2,5,14,Petal Fall,SKIP
+19.1,54.2,4.1,7.8,15,11,14,Fruit Development-IV,SPRAY
+39.2,63.4,0.6,9.8,19,12,14,Pre-Harvest,SKIP
+19.4,65.2,3.5,3.2,20,8,14,Fruit Development-I,SPRAY
+29.3,48,7,21.2,17,12,14,Pre-Harvest,SPRAY
+38.5,58.3,2.6,15.2,20,15,21,Dormancy,SKIP
+29.4,56.7,13.2,18.3,4,7,14,Fruit Set,SPRAY
+26.8,54.5,0.7,8.4,17,11,14,Fruit Development-IV,SPRAY
+39,42.4,3.3,23.6,15,6,14,Fruitlet,SKIP
+-1.4,67.6,7.9,7.8,19,7,14,Fruit Set,SKIP
+16.3,68.6,7.6,10.9,20,14,21,Post-Harvest,SPRAY
+14.6,38,1.4,15,1,13,0,Harvest,SPRAY
+11.2,58.7,0.2,3.2,18,8,14,Fruit Development-I,SPRAY
+28.4,62.1,10.2,18.3,17,12,14,Pre-Harvest,SPRAY
+30.9,44.3,5.5,9.4,1,2,14,Tight Cluster,SKIP
+-0.1,46.4,8.6,18.7,19,2,14,Tight Cluster,SKIP
+28,55.7,1.4,7.9,9,5,14,Petal Fall,SPRAY
+14.5,58.6,0.2,3.5,4,7,14,Fruit Set,SPRAY
+-1.7,79.9,2.2,27.9,16,12,14,Pre-Harvest,SKIP
+11.1,62,3.4,11.7,17,0,21,Delayed Dormancy,SPRAY
+21.6,64.5,12,5.9,2,2,14,Tight Cluster,SKIP
+28.8,31.2,13.5,16.2,6,8,14,Fruit Development-I,SPRAY
+38.1,69.6,8.4,21.5,18,10,14,Fruit Development-III,SPRAY
+12.5,48.7,4,14.8,0,4,10,Flowering,SKIP
+18.4,69.1,3.4,6.9,4,6,14,Fruitlet,SPRAY
+12.3,63.4,9.9,14.1,15,10,14,Fruit Development-III,SPRAY
+15,46.1,6.4,1.2,15,12,14,Pre-Harvest,SPRAY
+39,68.5,5,22.1,20,10,14,Fruit Development-III,SKIP
+39.5,41.8,5.1,5.8,17,12,14,Pre-Harvest,SKIP
+12.8,30.9,9.3,0.5,16,12,14,Pre-Harvest,SPRAY
+38.5,63.6,4.7,22.4,19,13,0,Harvest,SPRAY
+30.2,45.8,9.3,3.6,12,0,21,Delayed Dormancy,SPRAY
+17.1,30.2,6.2,4.3,20,15,21,Dormancy,SPRAY
+30.7,32.1,8.7,23.6,7,7,14,Fruit Set,SPRAY
+30.9,58,8,21.6,2,11,14,Fruit Development-IV,SKIP
+19.6,53.6,4.3,1.5,20,14,21,Post-Harvest,SPRAY
+12.9,47.3,9.8,16.5,0,11,14,Fruit Development-IV,SKIP
+38.8,67.2,3.5,12.5,1,13,0,Harvest,SKIP
+39.5,34.3,12.7,12.8,15,6,14,Fruitlet,SKIP
+26.3,30.6,9.8,3.4,2,5,14,Petal Fall,SKIP
+22,39.2,1.2,2.8,10,9,14,Fruit Development-II,SPRAY
+39.6,65.1,5.6,10.4,17,9,14,Fruit Development-II,SKIP
+15.1,32.2,1,15.3,19,7,14,Fruit Set,SPRAY
+27.9,34.3,1.2,19.1,17,7,14,Fruit Set,SPRAY
+38.6,45.3,13.3,16.6,12,13,0,Harvest,SKIP
+27.9,63.5,6.8,16.5,3,9,14,Fruit Development-II,SKIP
+25.6,63.5,0.9,7.7,5,15,21,Dormancy,SKIP
+13.7,64.7,13.2,14.4,9,11,14,Fruit Development-IV,SPRAY
+15.8,67.5,2,8.6,18,10,14,Fruit Development-III,SPRAY
+26.6,68.5,3.8,20.5,15,8,14,Fruit Development-I,SPRAY
+38.5,38.9,9.4,2.5,16,3,14,Pink Bud,SPRAY
+18.4,56.9,10.8,0.7,20,5,14,Petal Fall,SPRAY
+39.7,75.3,4.5,13.5,14,7,14,Fruit Set,SKIP
+38.7,38.8,2.9,27.2,20,2,14,Tight Cluster,SKIP
+16.9,53.2,4.6,11.5,0,12,14,Pre-Harvest,SKIP
+-3.9,27.3,8.7,5.6,19,2,14,Tight Cluster,SKIP
+28.4,48.7,10.3,14.5,20,10,14,Fruit Development-III,SPRAY
+38.8,61.3,3.1,26,10,4,10,Flowering,SKIP
+39.8,74.3,0.2,9.2,18,9,14,Fruit Development-II,SKIP
+-3.8,42.6,7.9,23.8,15,5,14,Petal Fall,SKIP
+17.5,59.6,7.3,14.6,7,12,14,Pre-Harvest,SPRAY
+-0.6,33.8,4.2,1.3,18,11,14,Fruit Development-IV,SKIP
+-0.9,49.6,6.9,27.1,15,6,14,Fruitlet,SKIP
+23.8,56.2,7,16.5,20,0,21,Delayed Dormancy,SPRAY
+16.3,58.8,3.3,13.6,15,3,14,Pink Bud,SPRAY
+20.9,35.6,8.1,7.7,20,6,14,Fruitlet,SPRAY
+-1.5,44.1,7.1,3.2,17,6,14,Fruitlet,SKIP
+22.3,42,5.3,17.8,20,0,21,Delayed Dormancy,SPRAY
+11.7,66.1,4.9,10,19,7,14,Fruit Set,SPRAY
+11.8,36.3,9.1,5.6,17,4,10,Flowering,SPRAY
+38.1,58.3,11.6,24,17,5,14,Petal Fall,SPRAY
+0.2,54.1,11.1,12.6,14,4,10,Flowering,SKIP
+1.1,27.7,2.1,5.8,14,10,14,Fruit Development-III,SKIP
+1.7,32.9,10.1,19.6,20,15,21,Dormancy,SPRAY
+26.6,42.3,5.4,14.9,1,13,0,Harvest,SPRAY
+16.3,55.7,2.3,22.8,10,8,14,Fruit Development-I,SPRAY
+-3.1,74.1,9.2,8.1,18,3,14,Pink Bud,SKIP
+38.6,42.5,9,22.7,20,14,21,Post-Harvest,SKIP
+39.1,39.5,2.8,2.1,19,7,14,Fruit Set,SKIP
+1.9,64.6,7.5,19.1,17,2,14,Tight Cluster,SPRAY
+29.8,55.4,10.1,13.9,15,5,14,Petal Fall,SPRAY
+20.9,61.6,13.5,14.3,7,15,21,Dormancy,SPRAY
+27,54.7,8.4,13.6,20,9,14,Fruit Development-II,SPRAY
+29.2,32.7,13.7,16.2,2,5,14,Petal Fall,SKIP
+-0.1,55.6,0.4,8.8,15,13,0,Harvest,SKIP
+20.2,35.6,4.4,5.4,17,5,14,Petal Fall,SPRAY
+22.2,51,2.6,4,0,13,0,Harvest,SPRAY
+10.5,33.4,12.4,10.8,3,1,14,Green Tip,SKIP
+12.8,55,6.3,8.2,16,3,14,Pink Bud,SPRAY
+16.2,56.2,3.5,16.4,15,6,14,Fruitlet,SPRAY
+38.9,20.9,6.2,20.1,20,14,21,Post-Harvest,SKIP
+13.2,59.6,8.5,7.9,19,11,14,Fruit Development-IV,SPRAY
+38.6,46,10.7,4,20,8,14,Fruit Development-I,SKIP
+29.4,36.8,9.6,21.5,20,0,21,Delayed Dormancy,SPRAY
+38.5,25.9,9.3,0.4,17,7,14,Fruit Set,SPRAY
+38.7,60.6,1.1,11.8,18,2,14,Tight Cluster,SKIP
+17.9,53.7,1.1,4.1,5,4,10,Flowering,SPRAY
+1.5,49.7,0.7,19.8,17,6,14,Fruitlet,SPRAY
+39.1,67.4,1.8,24,17,7,14,Fruit Set,SKIP
+15.4,51.7,1,10,9,10,14,Fruit Development-III,SPRAY
+38.8,60.3,5.7,19.8,17,9,14,Fruit Development-II,SKIP
+-2,76.7,2.8,12.4,9,13,0,Harvest,SKIP
+39.3,64.8,3.4,18.5,20,10,14,Fruit Development-III,SKIP
+26.6,46.9,12.4,3.6,4,3,14,Pink Bud,SPRAY
+28.3,56.9,10.6,20.4,20,0,21,Delayed Dormancy,SPRAY
+23.4,37.9,4.9,8.4,0,2,14,Tight Cluster,SKIP
+15.2,63,4.4,12.6,9,9,14,Fruit Development-II,SPRAY
+20.2,46.3,1.8,16.6,20,6,14,Fruitlet,SPRAY
+17.6,49.6,5.3,13.1,20,0,21,Delayed Dormancy,SPRAY
+39.7,76.9,9.8,2.7,19,2,14,Tight Cluster,SKIP
+38.4,63.2,13.6,8.3,20,9,14,Fruit Development-II,SPRAY
+-1.7,52.6,4.8,9,17,3,14,Pink Bud,SKIP
+25.4,45.6,2.2,26,8,2,14,Tight Cluster,SPRAY
+11,39.3,4.4,0.6,16,7,14,Fruit Set,SPRAY
+18.5,61.7,6.4,9.6,16,12,14,Pre-Harvest,SPRAY
+12.7,44.5,6.2,14.6,10,5,14,Petal Fall,SPRAY
+19.4,59.8,10.6,3.3,15,9,14,Fruit Development-II,SPRAY
+16.7,60.6,1.5,0.1,4,12,14,Pre-Harvest,SPRAY
+0.1,64.4,11.1,5.1,12,13,0,Harvest,SKIP
+9.4,34.2,3.7,18.5,6,0,21,Delayed Dormancy,SPRAY
+22.8,30.6,5.1,3.8,20,14,21,Post-Harvest,SPRAY
+29.8,55.5,8.2,18.5,20,0,21,Delayed Dormancy,SPRAY
+16.5,67.2,9.2,21.7,15,14,21,Post-Harvest,SPRAY
+25.7,44.3,10.3,1.8,9,2,14,Tight Cluster,SPRAY
+12.9,30.2,11,14.2,10,5,14,Petal Fall,SPRAY
+27,60.4,5.2,5,20,5,14,Petal Fall,SPRAY
+10.4,65.5,4.1,1.5,6,4,10,Flowering,SPRAY
+-0.4,50.9,11.4,9.3,14,3,14,Pink Bud,SKIP
+38.1,71.1,11.1,7.4,20,14,21,Post-Harvest,SPRAY
+18.5,46,5.8,10.1,16,1,14,Green Tip,SPRAY
+26.7,63.5,12.3,8.1,0,11,14,Fruit Development-IV,SKIP
+26.8,49.6,10.1,12.7,5,2,14,Tight Cluster,SPRAY
+-3.3,21.9,7.5,9.3,20,14,21,Post-Harvest,SKIP
+24.9,40.9,8.6,8.1,15,9,14,Fruit Development-II,SPRAY
+11,46.9,10.7,0.9,20,4,10,Flowering,SPRAY
+38.3,64.9,4.3,12.7,20,15,21,Dormancy,SPRAY
+24.6,53,10.4,4.2,5,8,14,Fruit Development-I,SPRAY
+10.2,47.2,11.3,12.9,4,4,10,Flowering,SPRAY
+39.3,37.4,3.1,0.6,14,10,14,Fruit Development-III,SKIP
+10.9,34.8,9.9,9,18,5,14,Petal Fall,SPRAY
+22.8,49.5,10.1,12.9,2,9,14,Fruit Development-II,SKIP
+28.2,48.9,1.3,3.8,10,7,14,Fruit Set,SPRAY
+39.8,37.4,1.8,5.3,19,11,14,Fruit Development-IV,SKIP
+10.7,55.9,3.7,7.6,17,7,14,Fruit Set,SPRAY
+39.1,22.6,11.8,16.8,19,3,14,Pink Bud,SKIP
+9.9,34.8,0.2,6.1,0,0,21,Delayed Dormancy,SKIP
+-1,77.6,1.1,25.6,16,2,14,Tight Cluster,SKIP
+18,44.1,5.8,3.2,20,12,14,Pre-Harvest,SPRAY
+28.3,46.5,9.8,14.7,20,15,21,Dormancy,SPRAY
+14.2,62.2,6.6,6.5,2,4,10,Flowering,SKIP
+-1.5,45.2,7.9,10.2,20,0,21,Delayed Dormancy,SKIP
+25.2,61.8,3.1,7.3,20,9,14,Fruit Development-II,SPRAY
+26.4,42.4,10.5,1.6,6,7,14,Fruit Set,SPRAY
+27,58.5,7.7,10.4,17,10,14,Fruit Development-III,SPRAY
+10.5,31.2,8.2,3.9,20,0,21,Delayed Dormancy,SPRAY
+25.9,60.4,7.9,11.1,1,3,14,Pink Bud,SKIP
+-3.9,59.2,12.1,7.2,20,14,21,Post-Harvest,SKIP
+39.4,49.9,3,25.3,20,10,14,Fruit Development-III,SKIP
+38,32.1,2,25.9,20,10,14,Fruit Development-III,SPRAY
+17.8,32.3,5.6,19.1,20,1,14,Green Tip,SPRAY
+13,62.9,6.7,1.4,2,3,14,Pink Bud,SKIP
+14.2,35.1,5.6,4.3,17,7,14,Fruit Set,SPRAY
+15,60.3,9.3,6.3,12,13,0,Harvest,SPRAY
+16.8,46.5,1.2,12.2,5,11,14,Fruit Development-IV,SPRAY
+23.3,42,13.2,11.5,10,6,14,Fruitlet,SPRAY
+12.2,52.5,7.1,19.6,20,0,21,Delayed Dormancy,SPRAY
+39.3,29.8,1.1,10,18,13,0,Harvest,SKIP
+20.8,68.4,3.7,22.2,9,3,14,Pink Bud,SPRAY
+-3.3,40.3,3.5,13.3,16,12,14,Pre-Harvest,SKIP
+25.7,66.7,0.9,12.1,19,11,14,Fruit Development-IV,SPRAY
+-0.9,27.6,2.6,16.7,20,15,21,Dormancy,SKIP
+16.4,44,1.2,5.1,17,1,14,Green Tip,SPRAY
+25.5,60.5,3.7,4.4,16,7,14,Fruit Set,SPRAY
+38.7,34.3,4.7,8.5,14,12,14,Pre-Harvest,SKIP
+13.8,54.8,5.2,21.5,0,15,21,Dormancy,SKIP
+12.8,33.4,6.6,13.4,0,4,10,Flowering,SKIP
+16.4,59.8,7,19.5,18,10,14,Fruit Development-III,SPRAY
+15.9,37.2,7.6,17.7,19,4,10,Flowering,SPRAY
+29.1,62.2,7.4,4.2,5,2,14,Tight Cluster,SPRAY
+10.3,41.5,4.1,17.4,15,4,10,Flowering,SPRAY
+39.3,66,11.5,2.4,19,7,14,Fruit Set,SKIP
+21.9,35.2,6.7,11.4,9,9,14,Fruit Development-II,SPRAY
+25.6,60.9,9.6,14.7,17,7,14,Fruit Set,SPRAY
+28.1,51.7,10.3,13.9,5,0,21,Delayed Dormancy,SKIP
+23.7,45.1,8.1,1.1,19,10,14,Fruit Development-III,SPRAY
+-0.8,66.2,2.3,21.2,18,3,14,Pink Bud,SKIP
+15.3,66.3,2.8,1.9,18,8,14,Fruit Development-I,SPRAY
+21.5,44.1,10.2,19.2,20,11,14,Fruit Development-IV,SPRAY
+39.7,44.5,3.6,22.8,20,15,21,Dormancy,SKIP
+1.3,65.8,0.4,2.1,14,10,14,Fruit Development-III,SKIP
+23.1,61.8,7.3,19.5,15,7,14,Fruit Set,SPRAY
+-3,35,1.9,1.6,20,0,21,Delayed Dormancy,SKIP
+29,46.4,10.9,3.8,16,1,14,Green Tip,SPRAY
+28.5,32.6,7.9,17.1,11,0,21,Delayed Dormancy,SPRAY
+1.7,23.2,9.6,12.7,16,3,14,Pink Bud,SPRAY
+27.8,67.6,1.7,17.3,20,14,21,Post-Harvest,SPRAY
+38.3,35.4,1.6,16.6,20,5,14,Petal Fall,SPRAY
+12.8,69.3,10.5,6.1,6,1,14,Green Tip,SPRAY
+11.7,46.2,1,13.6,16,8,14,Fruit Development-I,SPRAY
+27,47.4,10.8,17.8,18,6,14,Fruitlet,SPRAY
+11.3,33.4,4.9,13.2,20,4,10,Flowering,SPRAY
+16.3,48.6,10,13.7,19,11,14,Fruit Development-IV,SPRAY
+11.3,32.6,8.5,14.3,11,13,0,Harvest,SPRAY
+26.7,40.1,11,7,17,5,14,Petal Fall,SPRAY
+-3,65.7,3.3,26.5,20,10,14,Fruit Development-III,SKIP
+25.9,38.6,0.2,20.1,15,10,14,Fruit Development-III,SPRAY
+16.6,61.5,10.3,0.7,17,11,14,Fruit Development-IV,SPRAY
+11.8,43.9,3,17.9,20,9,14,Fruit Development-II,SPRAY
+-1.4,50.6,7.5,20.6,19,12,14,Pre-Harvest,SKIP
+-1.6,69.5,9.9,6,20,2,14,Tight Cluster,SKIP
+19,54.7,8.6,4,0,8,14,Fruit Development-I,SKIP
+16.7,36,7.3,17.6,13,15,21,Dormancy,SPRAY
+15.7,53.4,11.7,7,0,15,21,Dormancy,SKIP
+29.8,47,3.2,7.1,16,11,14,Fruit Development-IV,SPRAY
+26.2,53.2,9.7,19.7,17,6,14,Fruitlet,SPRAY
+11.2,54.2,11.2,27.1,6,10,14,Fruit Development-III,SPRAY
+-2.7,69.5,6.3,8.2,15,8,14,Fruit Development-I,SKIP
+38.1,67,3.8,12.1,16,1,14,Green Tip,SPRAY
+10.3,65.6,0.4,6.4,18,8,14,Fruit Development-I,SPRAY
+39,71.4,13.6,18.5,20,15,21,Dormancy,SKIP
+21.5,42.4,3.7,16.7,19,9,14,Fruit Development-II,SPRAY
+10.5,45,7.2,16.1,20,14,21,Post-Harvest,SPRAY
+24.2,65.1,4.5,22.7,2,9,14,Fruit Development-II,SKIP
+0.7,66.7,6.1,24.5,20,0,21,Delayed Dormancy,SKIP
+-0.8,45.9,3.1,13.9,20,11,14,Fruit Development-IV,SKIP
+38.4,54.5,10,21.2,20,0,21,Delayed Dormancy,SPRAY
+11.8,45.2,6.3,7.8,19,9,14,Fruit Development-II,SPRAY
+23.1,31.1,2.1,5.1,20,11,14,Fruit Development-IV,SPRAY
+29.8,41.6,2.6,18.9,7,8,14,Fruit Development-I,SPRAY
+38.5,23.2,3.4,22.9,19,9,14,Fruit Development-II,SPRAY
+19.2,34.1,0.8,13.1,20,0,21,Delayed Dormancy,SPRAY
+-3.4,24.7,2.9,5.9,14,3,14,Pink Bud,SKIP
+24.4,50.4,4.1,9.7,16,2,14,Tight Cluster,SPRAY
+24.1,58,11,21.5,16,7,14,Fruit Set,SPRAY
+19.6,55.3,0.6,23.6,0,14,21,Post-Harvest,SKIP
+17.4,40.8,9.7,11.9,1,13,0,Harvest,SPRAY
+38.3,64.3,5.3,26.8,14,10,14,Fruit Development-III,SKIP
+23.7,42.5,1.3,10.1,20,14,21,Post-Harvest,SPRAY
+38.2,40.9,13.5,19.9,18,10,14,Fruit Development-III,SPRAY
+1.4,50.4,13.6,10.2,20,0,21,Delayed Dormancy,SKIP
+39.5,52.1,2.7,26.7,17,3,14,Pink Bud,SKIP
+26.8,62.3,9.6,17.6,6,1,14,Green Tip,SPRAY
+-1.9,46.1,5.8,27.5,17,3,14,Pink Bud,SKIP
+40,64.9,11.5,1.6,20,0,21,Delayed Dormancy,SKIP
+21.7,36.4,6.4,7.4,3,0,21,Delayed Dormancy,SKIP
+16.4,55.2,0.5,18.8,19,6,14,Fruitlet,SPRAY
+25.4,34.8,7.4,7.5,8,11,14,Fruit Development-IV,SPRAY
+26.4,34.1,0.2,15.7,20,0,21,Delayed Dormancy,SPRAY
+29.6,59.4,4.1,7.3,20,15,21,Dormancy,SPRAY
+-1.1,65.2,8.2,27.8,16,8,14,Fruit Development-I,SKIP
+21.3,31.2,6.7,21.8,19,4,10,Flowering,SPRAY
+39.4,26,9.7,11.1,14,5,14,Petal Fall,SKIP
+0.4,72.5,2.2,16.5,16,12,14,Pre-Harvest,SKIP
+23.8,45.1,7.1,0.7,8,5,14,Petal Fall,SPRAY
+38.6,75.1,6.4,20.6,15,7,14,Fruit Set,SKIP
+14.3,56.8,5.5,0.7,20,12,14,Pre-Harvest,SPRAY
+20.6,59,0.1,15.5,18,9,14,Fruit Development-II,SPRAY
+15.7,36.7,10.7,18.5,20,14,21,Post-Harvest,SPRAY
+-2.9,27,8.6,13.6,19,3,14,Pink Bud,SKIP
+26.3,46.1,2.4,5,4,4,10,Flowering,SPRAY
+24.1,63.3,6.4,9,18,9,14,Fruit Development-II,SPRAY
+21.3,64.3,0.1,13.1,18,2,14,Tight Cluster,SPRAY
+39.7,27.8,10.3,13.7,16,1,14,Green Tip,SKIP
+23.9,46.2,12.7,24.2,15,14,21,Post-Harvest,SPRAY
+39.8,34.7,11.6,18.1,20,5,14,Petal Fall,SKIP
+-0.3,70.8,13.6,8,15,13,0,Harvest,SKIP
+39,31.5,11.7,25.3,18,8,14,Fruit Development-I,SKIP
+23.1,52.4,12.9,15.8,5,15,21,Dormancy,SKIP
+23.5,65.3,1.8,17.4,19,1,14,Green Tip,SPRAY
+21.6,52.4,4.1,4.9,8,2,14,Tight Cluster,SPRAY
+10.6,43.7,5.1,15.8,9,5,14,Petal Fall,SPRAY
+25.4,39.1,9.5,9.8,6,2,14,Tight Cluster,SPRAY
+-0.2,44.9,9.1,2,19,8,14,Fruit Development-I,SKIP
+10.7,40.2,10.8,27.3,4,4,10,Flowering,SPRAY
+-3.7,27.8,4.7,4.3,20,6,14,Fruitlet,SKIP
+16.6,38.6,5.5,19.7,19,6,14,Fruitlet,SPRAY
+19.3,53,11.6,4.7,7,6,14,Fruitlet,SPRAY
+11.5,65.3,1.8,5.7,20,15,21,Dormancy,SPRAY
+18.9,47.8,2.1,2.1,20,15,21,Dormancy,SPRAY
+30.4,60.4,9.1,4.9,4,8,14,Fruit Development-I,SPRAY
+25.8,67.5,1,11.7,18,11,14,Fruit Development-IV,SPRAY
+16.1,30.8,10.5,20.3,3,10,14,Fruit Development-III,SKIP
+9,49.6,7.4,17.8,6,9,14,Fruit Development-II,SPRAY
+30.5,46.5,0.5,26,6,6,14,Fruitlet,SPRAY
+38.6,47.1,7.9,14.2,18,7,14,Fruit Set,SKIP
+12.5,51.4,13.3,21.1,6,2,14,Tight Cluster,SPRAY
+18,39.4,13.8,2.4,3,3,14,Pink Bud,SKIP
+26.7,31.1,12.6,16.6,4,7,14,Fruit Set,SPRAY
+16.8,50.8,10.8,12.2,20,15,21,Dormancy,SPRAY
+39.4,62.1,2.5,28,20,0,21,Delayed Dormancy,SKIP
+17.3,59.9,5.7,9.1,18,7,14,Fruit Set,SPRAY
+-3.8,73.2,5.2,0.3,8,13,0,Harvest,SKIP
+12.5,45.2,5.1,9.7,7,9,14,Fruit Development-II,SPRAY
+11.9,57.1,5.9,21.2,10,1,14,Green Tip,SPRAY
+10.3,33,9.5,26.4,0,12,14,Pre-Harvest,SKIP
+16.3,68.1,10.6,25.6,10,0,21,Delayed Dormancy,SPRAY
+30.6,52.8,6.8,26.8,6,7,14,Fruit Set,SPRAY
+11.7,60.4,0.5,22.7,7,8,14,Fruit Development-I,SPRAY
+23.4,33,9.3,26.7,2,5,14,Petal Fall,SKIP
+30,30.3,10.3,25.1,10,11,14,Fruit Development-IV,SPRAY
+-1.9,37.6,0,8.7,20,4,10,Flowering,SKIP
+-2.1,33.3,5.4,18.5,18,6,14,Fruitlet,SKIP
+15.6,45.7,9.5,13.7,1,0,21,Delayed Dormancy,SKIP
+29.3,45.6,12.7,13.2,5,10,14,Fruit Development-III,SPRAY
+27.7,55.9,7.3,14.8,20,0,21,Delayed Dormancy,SPRAY
+26.6,45.3,7.4,5,20,15,21,Dormancy,SPRAY
+29.6,67.5,4.7,1.8,9,15,21,Dormancy,SPRAY
+-0.2,44.8,1.3,26.7,18,8,14,Fruit Development-I,SKIP
+38.7,53.3,7.8,12.5,18,3,14,Pink Bud,SKIP
+25.3,54.7,12.7,0.7,8,6,14,Fruitlet,SPRAY
+27,45.3,4.6,1.3,4,12,14,Pre-Harvest,SPRAY
+23,69.9,10.4,5.5,19,11,14,Fruit Development-IV,SPRAY
+27.6,53.2,1.9,9.5,11,4,10,Flowering,SPRAY
+11.6,60.5,1.7,23.5,0,13,0,Harvest,SPRAY
+-1.6,68.7,3.2,25.2,16,6,14,Fruitlet,SKIP
+38.9,55.5,9.7,24.4,20,0,21,Delayed Dormancy,SKIP
+1.2,56.1,13.7,8.2,20,0,21,Delayed Dormancy,SKIP
+38.9,34.7,10.8,25.9,16,9,14,Fruit Development-II,SKIP
+-3.4,30,3.7,6.4,20,12,14,Pre-Harvest,SKIP
+10.7,56.7,0.6,11.5,5,1,14,Green Tip,SPRAY
+39.9,33.1,11.3,23.4,20,14,21,Post-Harvest,SKIP
+26.3,39.2,7.9,18.3,6,7,14,Fruit Set,SPRAY
+20.8,31.4,2.4,5.6,7,5,14,Petal Fall,SPRAY
+16.7,53.7,3.4,21.7,9,3,14,Pink Bud,SPRAY
+13.4,46.8,4,12.5,8,5,14,Petal Fall,SPRAY
+-0.8,77.5,5.8,26.1,20,15,21,Dormancy,SKIP
+39.3,56.7,11.5,26.3,20,0,21,Delayed Dormancy,SKIP
+10.3,46.5,9.4,13.5,19,10,14,Fruit Development-III,SPRAY
+17.9,61.2,10.4,26,1,9,14,Fruit Development-II,SKIP
+26.1,36.6,3.2,8.2,20,14,21,Post-Harvest,SPRAY
+38.8,56.4,11.3,18.4,19,7,14,Fruit Set,SKIP
+38.7,55,1.7,3.7,20,14,21,Post-Harvest,SKIP
+28.5,51.5,6.9,15.1,17,10,14,Fruit Development-III,SPRAY
+29.7,41.9,5.9,5.3,19,13,0,Harvest,SPRAY
+-1.3,60.6,0.3,18.3,20,0,21,Delayed Dormancy,SKIP
+38.8,64.1,11.9,11.5,20,15,21,Dormancy,SKIP
+39.4,38.2,8.5,11.3,16,6,14,Fruitlet,SKIP
+28.1,56.1,9.3,15.4,20,14,21,Post-Harvest,SPRAY
+38.6,44,6,11.7,20,0,21,Delayed Dormancy,SKIP
+15.2,69.2,6.4,4.9,4,1,14,Green Tip,SPRAY
+18,30.9,6.9,9.5,15,11,14,Fruit Development-IV,SPRAY
+15,42.4,13.5,16.7,4,7,14,Fruit Set,SPRAY
+22.7,63,10.1,5.5,18,9,14,Fruit Development-II,SPRAY
+38.2,24.8,7.6,17.5,19,8,14,Fruit Development-I,SPRAY
+-2.6,52.6,1.5,19.2,20,7,14,Fruit Set,SKIP
+11.5,45.5,7,11.5,16,6,14,Fruitlet,SPRAY
+29.6,32.4,13.4,8.3,6,2,14,Tight Cluster,SPRAY
+20.9,31.6,5.1,17.7,15,5,14,Petal Fall,SPRAY
+20.8,41.6,9.2,4.3,16,5,14,Petal Fall,SPRAY
+12.8,61.5,11.9,0.1,4,0,21,Delayed Dormancy,SKIP
+28.8,68.6,11.9,24.4,6,3,14,Pink Bud,SPRAY
+27.6,44.1,7.1,1.4,18,3,14,Pink Bud,SPRAY
+22.4,67.8,8,13.9,16,2,14,Tight Cluster,SPRAY
+30.5,43.8,9.6,24,3,2,14,Tight Cluster,SKIP
+19.8,41.6,0.3,11.4,3,4,10,Flowering,SPRAY
+26.4,45.1,6.1,25.4,3,9,14,Fruit Development-II,SKIP
+-3.4,57.4,13.6,20.8,20,14,21,Post-Harvest,SKIP
+15,57.5,1.6,12.2,17,11,14,Fruit Development-IV,SPRAY
+23.7,34.8,6.4,1.3,8,9,14,Fruit Development-II,SPRAY
+15.3,37.1,12.8,21.9,4,7,14,Fruit Set,SPRAY
+20.8,45.5,0.2,5.3,5,11,14,Fruit Development-IV,SPRAY
+39.7,44.4,11.3,2.8,19,7,14,Fruit Set,SKIP
+15.9,61,9.5,12.5,20,3,14,Pink Bud,SPRAY
+23.5,35.4,5.2,3,18,8,14,Fruit Development-I,SPRAY
+27.2,40.5,1.1,13.6,18,5,14,Petal Fall,SPRAY
+-0.5,51.5,13,6.7,17,10,14,Fruit Development-III,SKIP
+25.9,39.5,8.2,19.7,1,13,0,Harvest,SPRAY
+11.1,35.6,8.5,5.1,16,10,14,Fruit Development-III,SPRAY
+19.7,38.3,9.8,4.2,13,0,21,Delayed Dormancy,SPRAY
+22.2,60.3,13.7,24.5,9,2,14,Tight Cluster,SPRAY
+-1,59.1,2.6,16.7,18,9,14,Fruit Development-II,SKIP
+27.5,69.2,6.9,5.2,0,12,14,Pre-Harvest,SKIP
+20.1,62.8,9.8,3,20,14,21,Post-Harvest,SPRAY
+11,37,3.9,8.9,20,15,21,Dormancy,SPRAY
+15.7,34.7,7.7,8.2,17,9,14,Fruit Development-II,SPRAY
+27.2,58.6,4.2,15.3,18,2,14,Tight Cluster,SPRAY
+18.1,42.7,10.2,25.3,7,9,14,Fruit Development-II,SPRAY
+38.3,75.6,8.7,15.1,20,0,21,Delayed Dormancy,SPRAY
+14.3,64.7,1.5,14.6,3,7,14,Fruit Set,SKIP
+13.1,34,2.8,19.9,15,6,14,Fruitlet,SPRAY
+15.4,55.6,8,20.8,15,3,14,Pink Bud,SPRAY
+22.7,60,9,21.8,17,11,14,Fruit Development-IV,SPRAY
+38.1,63,6.8,26.9,20,14,21,Post-Harvest,SPRAY
+-2.6,58.7,4.5,26.1,20,0,21,Delayed Dormancy,SKIP
+25.6,65.9,8.3,12.7,9,12,14,Pre-Harvest,SPRAY
+28.1,30.1,2.1,14.1,15,11,14,Fruit Development-IV,SPRAY
+18.8,55.8,8.2,22.1,1,7,14,Fruit Set,SKIP
+21.6,59.8,3.7,10.6,20,0,21,Delayed Dormancy,SPRAY
+-5,53.5,8.4,8.5,20,6,14,Fruitlet,SKIP
+39.4,30.1,8.7,7.5,15,9,14,Fruit Development-II,SKIP
+15,47,2.9,18.5,17,12,14,Pre-Harvest,SPRAY
+24.9,37.5,10.9,3.6,18,11,14,Fruit Development-IV,SPRAY
+13.6,58.5,5.8,1.6,8,0,21,Delayed Dormancy,SPRAY
+19.2,56.8,3,21.3,15,2,14,Tight Cluster,SPRAY
+38.5,57,3.7,1,3,13,0,Harvest,SPRAY
+19.9,50,0.8,3.2,18,11,14,Fruit Development-IV,SPRAY
+20.9,69.5,3.5,15.9,13,4,10,Flowering,SPRAY
+-3.2,52,9.9,17.5,20,1,14,Green Tip,SKIP
+38,69.6,12.8,16.5,10,13,0,Harvest,SPRAY
+22.1,68.8,0.6,10.9,6,6,14,Fruitlet,SPRAY
+23.6,32.1,2.4,9.2,19,1,14,Green Tip,SPRAY
+25.8,63.2,4.9,27.3,5,5,14,Petal Fall,SPRAY
+-4.5,61.9,8.3,21,19,4,10,Flowering,SKIP
+11,30.1,0,17.8,0,0,21,Delayed Dormancy,SKIP
+9.4,65.2,3.7,7.4,9,12,14,Pre-Harvest,SPRAY
+15.4,56.9,12.5,11.2,1,1,14,Green Tip,SKIP
+9.4,36.3,13.1,4.6,7,8,14,Fruit Development-I,SPRAY
+39.5,22.7,0.3,26.5,17,5,14,Petal Fall,SKIP
+-0.8,79.9,4.1,14.9,14,8,14,Fruit Development-I,SKIP
+24.6,55.5,3.2,26.9,4,2,14,Tight Cluster,SPRAY
+20.6,54.1,9,7,4,10,14,Fruit Development-III,SPRAY
+39,66,8.3,8.6,19,2,14,Tight Cluster,SKIP
+12.4,46.5,7.2,5.7,10,1,14,Green Tip,SPRAY
+27.7,48.1,7.2,0.1,16,3,14,Pink Bud,SPRAY
+27.1,40.5,0.4,5.7,17,5,14,Petal Fall,SPRAY
+25,48.7,10.8,24.5,5,0,21,Delayed Dormancy,SKIP
+-1.4,52.4,6.3,5.6,20,0,21,Delayed Dormancy,SKIP
+10.9,65.6,1.7,24.7,5,14,21,Post-Harvest,SKIP
+40,46.4,13.8,12.8,17,5,14,Petal Fall,SKIP
+14.5,47.7,2.8,5.9,17,6,14,Fruitlet,SPRAY
+13.3,46,4.1,9.8,0,9,14,Fruit Development-II,SKIP
+23.7,44.3,8,23.9,7,2,14,Tight Cluster,SPRAY
+24.1,49.2,4,11.7,20,15,21,Dormancy,SPRAY
+15.5,54.6,12.1,21.2,2,0,21,Delayed Dormancy,SKIP
+14.3,36,6.5,11.1,19,3,14,Pink Bud,SPRAY
+25.6,68,7.5,8.1,17,1,14,Green Tip,SPRAY
+12.4,69.4,2.9,7.3,20,6,14,Fruitlet,SPRAY
+10.1,53.3,0.4,2.6,20,15,21,Dormancy,SPRAY
+17.2,37.2,8.5,21.2,20,10,14,Fruit Development-III,SPRAY
+23.7,52.8,2.3,15.8,15,10,14,Fruit Development-III,SPRAY
+13.5,38,1.4,0,8,3,14,Pink Bud,SPRAY
+29.1,43.3,7.1,27.3,8,11,14,Fruit Development-IV,SPRAY
+27.2,43,7.2,5.6,5,4,10,Flowering,SPRAY
+14.3,48.9,8.3,3.4,17,1,14,Green Tip,SPRAY
+10,68.7,5.7,7.9,20,12,14,Pre-Harvest,SPRAY
+15.3,43,4.5,24.8,9,3,14,Pink Bud,SPRAY
+22.2,56.5,1.3,3.2,20,14,21,Post-Harvest,SPRAY
+22,60,10.2,3,20,5,14,Petal Fall,SPRAY
+17.1,54.6,12.6,20.4,8,0,21,Delayed Dormancy,SPRAY
+24,49.6,5.1,21,20,15,21,Dormancy,SPRAY
+23.1,39.8,2.9,0.7,20,12,14,Pre-Harvest,SPRAY
+12.3,32.6,4.7,18.3,16,7,14,Fruit Set,SPRAY
+-0.5,77.9,5.2,18.6,18,2,14,Tight Cluster,SKIP
+27.1,57.6,8.6,13.6,18,2,14,Tight Cluster,SPRAY
+38.4,50.4,13.2,12.4,20,14,21,Post-Harvest,SPRAY
+39.9,28.5,13.4,10.3,18,3,14,Pink Bud,SKIP
+-2.9,63.4,4.2,22.3,18,12,14,Pre-Harvest,SKIP
+20.4,30.9,7.1,10.1,20,15,21,Dormancy,SPRAY
+39.5,30.2,4.3,6.5,18,1,14,Green Tip,SKIP
+20.5,46.3,7.4,20.7,14,14,21,Post-Harvest,SPRAY
+39.2,78.3,10.4,10.5,15,7,14,Fruit Set,SKIP
+-2.7,67.5,3.9,21.5,19,3,14,Pink Bud,SKIP
+-0.8,63.4,8.4,20.1,17,11,14,Fruit Development-IV,SKIP
+11.1,39.5,1.8,2.6,20,14,21,Post-Harvest,SPRAY
+39.9,74.8,7.9,20.5,17,5,14,Petal Fall,SKIP
+39,79.1,9.7,13.2,20,9,14,Fruit Development-II,SKIP
+28.5,58.5,4.6,8.7,12,13,0,Harvest,SPRAY
+38.3,59.7,9.1,27.7,16,1,14,Green Tip,SPRAY
+25.2,40.6,5.4,19.1,16,9,14,Fruit Development-II,SPRAY
+9.7,46.2,10.5,20.5,2,2,14,Tight Cluster,SKIP
+13,45.6,7.3,10.7,8,3,14,Pink Bud,SPRAY
+22.4,52.4,2.6,4.9,20,0,21,Delayed Dormancy,SPRAY
+14.3,48.9,4.9,3.9,19,8,14,Fruit Development-I,SPRAY
+18.4,51.9,1.9,21.1,19,12,14,Pre-Harvest,SPRAY
+20.2,38.5,9.9,14.5,20,15,21,Dormancy,SPRAY
+11.6,58.4,7.5,27.3,2,4,10,Flowering,SKIP
+29.7,53.2,13.2,16.7,6,11,14,Fruit Development-IV,SPRAY
+11,59.3,11.2,16.1,7,15,21,Dormancy,SPRAY
+19.7,46.4,6.3,3.1,20,5,14,Petal Fall,SPRAY
+11.9,67.9,8.3,20.3,2,4,10,Flowering,SKIP
+29.5,43.9,1.7,15.6,9,1,14,Green Tip,SPRAY
+30.3,34.4,3.1,13,4,3,14,Pink Bud,SPRAY
+18.6,30.4,3,5,20,12,14,Pre-Harvest,SPRAY
+39.6,71.4,9.3,10.9,20,2,14,Tight Cluster,SKIP
+18.4,69.4,12,7.6,17,14,21,Post-Harvest,SPRAY
+17.5,40.3,13.5,0.4,3,14,21,Post-Harvest,SKIP
+18.7,41.8,2.6,18.6,20,0,21,Delayed Dormancy,SPRAY
+38.8,36.9,6.2,22.9,19,1,14,Green Tip,SKIP
+38.1,58.8,2.2,21.2,15,11,14,Fruit Development-IV,SPRAY
+39.9,42.3,3,17.8,20,15,21,Dormancy,SKIP
+13.5,63.3,8.6,25.5,1,8,14,Fruit Development-I,SKIP
+39.3,54.2,8.5,9,19,7,14,Fruit Set,SKIP
+12.2,42.7,10.6,5.9,0,4,10,Flowering,SKIP
+15.2,35.5,5.4,5.5,3,9,14,Fruit Development-II,SKIP
+14.3,69.8,13,3.3,7,1,14,Green Tip,SPRAY
+-0.1,55.5,7.9,11,16,6,14,Fruitlet,SKIP
+-3.4,46.7,13.6,9,20,0,21,Delayed Dormancy,SKIP
+17,43.8,4.6,5.1,1,5,14,Petal Fall,SKIP
+11.1,36,8.3,13.1,20,15,21,Dormancy,SPRAY
+25.9,36.3,1.1,8.5,18,6,14,Fruitlet,SPRAY
+21.6,36.8,10.3,7.2,19,11,14,Fruit Development-IV,SPRAY
+20,44.3,11.9,15.3,1,13,0,Harvest,SPRAY
+15.9,61.1,5,23.2,8,6,14,Fruitlet,SPRAY
+39.7,55.5,1.2,20.5,15,13,0,Harvest,SKIP
+19.7,62.5,9,23.6,1,7,14,Fruit Set,SKIP
+15.5,62.6,3.3,8.9,9,1,14,Green Tip,SPRAY
+26,68.9,7.4,7.5,20,15,21,Dormancy,SPRAY
+20.8,61.2,9.1,21.7,20,15,21,Dormancy,SPRAY
+39.4,60.1,3,4.3,18,8,14,Fruit Development-I,SKIP
+17.3,66.8,13.7,24.7,9,8,14,Fruit Development-I,SPRAY
+15.1,53.8,2,8.3,2,8,14,Fruit Development-I,SKIP
+39.2,40.4,7.4,17.2,17,3,14,Pink Bud,SKIP
+15.4,63.1,9.6,14.8,20,14,21,Post-Harvest,SPRAY
+-1.5,75.4,1.7,3.8,15,5,14,Petal Fall,SKIP
+21.4,50.1,9,3.9,16,1,14,Green Tip,SPRAY
+16.9,70,6.2,16,10,8,14,Fruit Development-I,SPRAY
+13.6,33.6,10.8,13,8,2,14,Tight Cluster,SPRAY
+-2.5,72.8,0.7,10.4,16,11,14,Fruit Development-IV,SKIP
+20.7,37.7,2.1,18.8,16,3,14,Pink Bud,SPRAY
+-0.3,60.6,2.2,27.9,18,11,14,Fruit Development-IV,SKIP
+39.6,49.7,3.1,2.2,18,5,14,Petal Fall,SKIP
+40,37.3,6.3,1.5,16,1,14,Green Tip,SKIP
+22.7,66.5,3.1,3,0,6,14,Fruitlet,SKIP
+23.5,40.4,9.2,10.2,20,0,21,Delayed Dormancy,SPRAY
+18.9,52.6,10.7,13.5,4,14,21,Post-Harvest,SKIP
+12.7,49.1,5.7,7.2,7,9,14,Fruit Development-II,SPRAY
+39.3,74.4,6.7,5.1,16,10,14,Fruit Development-III,SKIP
+11.4,51.2,7.6,11.3,7,7,14,Fruit Set,SPRAY
+26.9,65.8,9.9,14.9,16,8,14,Fruit Development-I,SPRAY
+1.3,63.4,10.2,17.4,20,10,14,Fruit Development-III,SKIP
+17.3,62.6,0.5,15.8,20,15,21,Dormancy,SPRAY
+11.3,42.5,4.5,17.4,15,2,14,Tight Cluster,SPRAY
+27.3,56.3,1,1.6,13,15,21,Dormancy,SPRAY
+17.8,61.2,2.4,15.6,20,15,21,Dormancy,SPRAY
+19.1,63.3,9.7,16.5,20,1,14,Green Tip,SPRAY
+38.5,55.5,7.7,13.3,20,15,21,Dormancy,SKIP
+29.5,62.1,8.7,9.8,20,15,21,Dormancy,SPRAY
+11.7,30.6,4.4,13.4,20,15,21,Dormancy,SPRAY
+21.9,48.5,0.7,4.7,20,15,21,Dormancy,SPRAY
+20.9,45.1,0,20,16,12,14,Pre-Harvest,SPRAY
+-4.6,75.2,10.5,3.7,20,14,21,Post-Harvest,SKIP
+-1.5,29.2,2.2,11.2,19,10,14,Fruit Development-III,SKIP
+29.1,46.7,12.1,21.2,1,13,0,Harvest,SPRAY
+10.7,44.6,6.4,27.2,1,12,14,Pre-Harvest,SKIP
+39.8,22.3,10.9,10.5,18,3,14,Pink Bud,SKIP
+27.8,41.8,0.2,3.9,7,1,14,Green Tip,SPRAY
+23.5,43.4,6.2,3.2,20,7,14,Fruit Set,SPRAY
+19.2,39.1,6.6,19,18,9,14,Fruit Development-II,SPRAY
+39.6,73.3,3.9,5.6,19,7,14,Fruit Set,SKIP
+22.4,34.7,10.7,23.4,7,3,14,Pink Bud,SPRAY
+24.8,34.7,4.9,2.7,16,3,14,Pink Bud,SPRAY
+38.6,73.2,6.7,12.8,14,10,14,Fruit Development-III,SKIP
+13.7,65.8,9.4,19.1,1,7,14,Fruit Set,SKIP
+-2.4,79.8,7.7,27,19,11,14,Fruit Development-IV,SKIP
+11.7,45.3,7,11.9,17,7,14,Fruit Set,SPRAY
+27.6,52.1,7.6,0.2,19,12,14,Pre-Harvest,SPRAY
+20.1,53,2.4,18.5,20,15,21,Dormancy,SPRAY
+22.5,36.7,1.5,22.3,6,2,14,Tight Cluster,SPRAY
+19.7,49.6,0.9,1.8,20,13,0,Harvest,SPRAY
+18.1,55.4,7.1,9.1,9,15,21,Dormancy,SPRAY
+23.5,34.2,1.8,9.2,10,15,21,Dormancy,SPRAY
+-4.5,40.4,3.3,22.4,20,8,14,Fruit Development-I,SKIP
+10.5,44.7,5,19.7,19,7,14,Fruit Set,SPRAY
+1.3,51.2,13.8,1.5,14,8,14,Fruit Development-I,SKIP
+18.7,45.8,9.9,15.5,15,1,14,Green Tip,SPRAY
+22.8,59,8.7,24.6,7,9,14,Fruit Development-II,SPRAY
+10.2,45,9.9,26.3,0,13,0,Harvest,SPRAY
+27.9,68.5,10.1,20.6,3,11,14,Fruit Development-IV,SKIP
+14.6,67.7,10.3,7.3,20,9,14,Fruit Development-II,SPRAY
+2,79.9,3.1,9.4,20,5,14,Petal Fall,SPRAY
+13.6,69.4,0.6,11.4,17,11,14,Fruit Development-IV,SPRAY
+27.4,41.2,10.7,9.9,16,1,14,Green Tip,SPRAY
+23.2,59.1,3,8.6,12,4,10,Flowering,SPRAY
+38.8,66.7,6.1,23.4,20,2,14,Tight Cluster,SKIP
+22,68.7,12,18.4,9,3,14,Pink Bud,SPRAY
+-1.5,20,13.6,6.1,18,9,14,Fruit Development-II,SKIP
+12.1,45.1,12,11.3,15,0,21,Delayed Dormancy,SPRAY
+38.5,56.8,8.4,18.4,20,13,0,Harvest,SPRAY
+29.2,38.4,9.6,9.5,19,4,10,Flowering,SPRAY
+14.6,66.6,5.7,18.7,6,0,21,Delayed Dormancy,SPRAY
+24.9,32.3,5.5,4.3,2,9,14,Fruit Development-II,SKIP
+-1.5,33,5.1,19.4,20,14,21,Post-Harvest,SKIP
+24.2,49.9,5.5,3,8,7,14,Fruit Set,SPRAY
+39.9,70.6,7.1,19.9,16,10,14,Fruit Development-III,SKIP
+26.9,66.5,6,25.2,5,0,21,Delayed Dormancy,SKIP
+19.7,58.9,6.3,14,18,12,14,Pre-Harvest,SPRAY
+-0.7,77.1,5.1,24.8,20,0,21,Delayed Dormancy,SKIP
+13.8,62.1,6.3,8.2,15,9,14,Fruit Development-II,SPRAY
+30.2,39.4,10.9,5.2,4,12,14,Pre-Harvest,SPRAY
+20,31.9,4.2,1.1,16,1,14,Green Tip,SPRAY
+29.6,32.7,13.6,7.6,0,13,0,Harvest,SPRAY
