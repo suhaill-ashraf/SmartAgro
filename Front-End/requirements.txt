@@ -1,0 +1,8 @@
+Flask
+flask-cors
+requests
+scikit-learn
+pandas
+numpy
+groq
+gunicorn
